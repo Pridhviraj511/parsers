@@ -1,7 +1,8 @@
 pipeline {
     agent any
     parameters {
-    gitParameter branch: '', branchFilter: '.*', defaultValue: 'dev', description: 'select branch', name: 'branch_name', quickFilterEnabled: false, selectedValue: 'NONE', sortMode: 'NONE', tagFilter: '*', type: 'GitParameterDefinition'
+        choice choices: ['Oddsmarket', 'Unibet', 'Bet365'], description: 'Choose parser to deploy', name: 'Parsers'
+        gitParameter branch: '', branchFilter: '.*', defaultValue: 'dev', description: 'select branch', name: 'branch_name', quickFilterEnabled: false, selectedValue: 'NONE', sortMode: 'NONE', tagFilter: '*', type: 'GitParameterDefinition'
 }
 
     stages {
