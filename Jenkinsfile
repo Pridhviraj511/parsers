@@ -1,8 +1,5 @@
 pipeline {
-    agent {
-      label 'JenkinsDockerAgent'
-}
-    
+    agent any    
     stages {
       stage('Clone Repository for production') {
         steps {
