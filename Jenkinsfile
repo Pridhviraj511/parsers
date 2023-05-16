@@ -18,7 +18,7 @@ pipeline {
     } 
     stage('Deploy on AWS through Code Deploy on main branch') {
      steps {
-         docker build --build-arg Parser_Name=$PARSER_NAME -t $ECR_REGISTRY/$ECR_REPOSITORY:$CI_COMMIT_SHA -f Dockerfile .        
+         sh 'docker build --build-arg Parser_Name=$PARSER_NAME -t $ECR_REGISTRY/$ECR_REPOSITORY:$CI_COMMIT_SHA -f Dockerfile .'        
      } 
      
     } 
