@@ -1,0 +1,3061 @@
+[
+	{
+		"matchid": "5732036",
+		"status": 1,
+		"aams": "31371.44708",
+		"betradar": "29167450",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz",
+		"lid": "5732035",
+		"e1": "Riske, Alison",
+		"e1id": "95099",
+		"e2": "Lovric, Pia",
+		"e2id": "656979",
+		"12": {
+			"one": 1.08,
+			"two": 6.86
+		},
+		"games_hcp": {
+			"ps": -6.5,
+			"one": 1.81,
+			"two": 1.86
+		},
+		"games_ou": {
+			"ps": 18.5,
+			"over": 2.02,
+			"under": 1.71
+		}
+	},
+	{
+		"matchid": "5732037",
+		"status": 1,
+		"aams": "31371.44709",
+		"betradar": "29167452",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz",
+		"lid": "5732035",
+		"e1": "Errani, Sara",
+		"e1id": "3679",
+		"e2": "Kalinina, Anhelina",
+		"e2id": "69710",
+		"12": {
+			"one": 2.87,
+			"two": 1.39
+		},
+		"games_hcp": {
+			"ps": 4.5,
+			"one": 1.78,
+			"two": 1.89
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.96,
+			"under": 1.76
+		}
+	},
+	{
+		"matchid": "5732038",
+		"status": 1,
+		"aams": "31371.44710",
+		"betradar": "29167446",
+		"starttime": "1631553000",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz",
+		"lid": "5732035",
+		"e1": "Konjuh, Ana",
+		"e1id": "1534",
+		"e2": "Vekic, Donna",
+		"e2id": "4584",
+		"12": {
+			"one": 2.12,
+			"two": 1.67
+		},
+		"games_hcp": {
+			"ps": 2.5,
+			"one": 1.79,
+			"two": 1.88
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.8,
+			"under": 1.9
+		}
+	},
+	{
+		"matchid": "5732039",
+		"status": 1,
+		"aams": "31371.44711",
+		"betradar": "29167442",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz",
+		"lid": "5732035",
+		"e1": "Kovinic, Danka",
+		"e1id": "103036",
+		"e2": "Kalinskaya, Anna",
+		"e2id": "31846",
+		"12": {
+			"one": 2.82,
+			"two": 1.4
+		},
+		"games_hcp": {
+			"ps": 4.5,
+			"one": 1.73,
+			"two": 1.96
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.9,
+			"under": 1.81
+		}
+	},
+	{
+		"matchid": "5732040",
+		"status": 1,
+		"aams": "31371.44712",
+		"betradar": "29167444",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz",
+		"lid": "5732035",
+		"e1": "Yastremska, Dayana",
+		"e1id": "109473",
+		"e2": "Paolini, Jasmine",
+		"e2id": "61116",
+		"12": {
+			"one": 1.4,
+			"two": 2.81
+		},
+		"games_hcp": {
+			"ps": -4.5,
+			"one": 1.95,
+			"two": 1.73
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.91,
+			"under": 1.79
+		}
+	},
+	{
+		"matchid": "5732041",
+		"status": 1,
+		"aams": "31371.44713",
+		"betradar": "29167438",
+		"starttime": "1631550900",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz",
+		"lid": "5732035",
+		"e1": "Watson, Heather",
+		"e1id": "3700",
+		"e2": "Cirstea, Sorana",
+		"e2id": "94447",
+		"12": {
+			"one": 2.4,
+			"two": 1.53
+		},
+		"games_hcp": {
+			"ps": 3.5,
+			"one": 1.8,
+			"two": 1.87
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.84,
+			"under": 1.87
+		}
+	},
+	{
+		"matchid": "5732043",
+		"status": 1,
+		"aams": "31371.44715",
+		"betradar": "29167434",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz",
+		"lid": "5732035",
+		"e1": "Cristian, Jaqueline Adina",
+		"e1id": "105507",
+		"e2": "Putintseva, Yulia",
+		"e2id": "92351",
+		"12": {
+			"one": 3.06,
+			"two": 1.35
+		},
+		"games_hcp": {
+			"ps": 4.5,
+			"one": 1.84,
+			"two": 1.83
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.84,
+			"under": 1.86
+		}
+	},
+	{
+		"matchid": "5732268",
+		"status": 1,
+		"aams": "31371.44761",
+		"betradar": "29167440",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz",
+		"lid": "5732035",
+		"e1": "Martincova, Tereza",
+		"e1id": "58681",
+		"e2": "Kucova, Kristina",
+		"e2id": "58028",
+		"12": {
+			"one": 1.53,
+			"two": 2.39
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.88,
+			"two": 1.79
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.84,
+			"under": 1.87
+		}
+	},
+	{
+		"matchid": "5732313",
+		"status": 1,
+		"aams": "31371.44905",
+		"betradar": "29167454",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz",
+		"lid": "5732035",
+		"e1": "Martic, Petra",
+		"e1id": "207332",
+		"e2": "Juvan, Kaja",
+		"e2id": "51379",
+		"12": {
+			"one": 1.65,
+			"two": 2.16
+		},
+		"games_hcp": {
+			"ps": -2.5,
+			"one": 1.87,
+			"two": 1.8
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.9,
+			"under": 1.81
+		}
+	},
+	{
+		"matchid": "5738360",
+		"status": 1,
+		"aams": "31371.52966",
+		"betradar": "29176470",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz Doppi",
+		"lid": "5738355",
+		"e1": "Kovinic D / Voracova R",
+		"e1id": "912237",
+		"e2": "Fomina A / Yashina E",
+		"e2id": "21489",
+		"12": {
+			"one": 1.38,
+			"two": 2.91
+		}
+	},
+	{
+		"matchid": "5738361",
+		"status": 1,
+		"aams": "31372.5285",
+		"betradar": "29176468",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz Doppi",
+		"lid": "5738355",
+		"e1": "Cvetkovic T / Milic E",
+		"e1id": "912235",
+		"e2": "Danilina A / Stollar F",
+		"e2id": "912236",
+		"12": {
+			"one": 6.9,
+			"two": 1.08
+		}
+	},
+	{
+		"matchid": "5738362",
+		"status": 1,
+		"aams": "31372.5287",
+		"betradar": "29176474",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz Doppi",
+		"lid": "5738355",
+		"e1": "Piter K / Watson H",
+		"e1id": "912240",
+		"e2": "Bektas E / Moore T",
+		"e2id": "542126",
+		"12": {
+			"one": 1.78,
+			"two": 1.97
+		}
+	},
+	{
+		"matchid": "5738363",
+		"status": 1,
+		"aams": "31372.5943",
+		"betradar": "29176466",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz Doppi",
+		"lid": "5738355",
+		"e1": "Bronzetti L / Radisic N",
+		"e1id": "912234",
+		"e2": "Bhosale R / Webley smith E",
+		"e2id": "789146",
+		"12": {
+			"one": 1.87,
+			"two": 1.87
+		}
+	},
+	{
+		"matchid": "5738364",
+		"status": 1,
+		"aams": "31372.5286",
+		"betradar": "29176464",
+		"starttime": "1631606400",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Portoroz Doppi",
+		"lid": "5738355",
+		"e1": "Murray Sharan S / Perrin C",
+		"e1id": "912239",
+		"e2": "Krunic A / Pattinama Kerkhove L",
+		"e2id": "912238",
+		"12": {
+			"one": 2.93,
+			"two": 1.37
+		}
+	},
+	{
+		"matchid": "5738267",
+		"status": 1,
+		"aams": "31372.5297",
+		"betradar": "29176452",
+		"starttime": "1631553300",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo",
+		"lid": "316849",
+		"e1": "Makarova, Ekaterina (1996)",
+		"e1id": "482342",
+		"e2": "Fett, Jana",
+		"e2id": "103069",
+		"12": {
+			"one": 2.7,
+			"two": 1.43
+		},
+		"games_hcp": {
+			"ps": 3.5,
+			"one": 1.86,
+			"two": 1.81
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.89,
+			"under": 1.81
+		}
+	},
+	{
+		"matchid": "5738268",
+		"status": 1,
+		"aams": "31372.5632",
+		"betradar": "29167334",
+		"starttime": "1631618100",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo",
+		"lid": "316849",
+		"e1": "Diyas, Zarina",
+		"e1id": "1541",
+		"e2": "SCHMIEDLOVA, ANNA KAROLINA",
+		"e2id": "507841",
+		"12": {
+			"one": 1.86,
+			"two": 1.88
+		},
+		"games_hcp": {
+			"ps": -0.5,
+			"one": 1.87,
+			"two": 1.8
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.9,
+			"under": 1.81
+		}
+	},
+	{
+		"matchid": "5738269",
+		"status": 1,
+		"aams": "31371.40303",
+		"betradar": "29167326",
+		"starttime": "1631692800",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo",
+		"lid": "316849",
+		"e1": "Zhang, Shuai",
+		"e1id": "94092",
+		"e2": "Bouzkova, Marie",
+		"e2id": "111472",
+		"12": {
+			"one": 2.09,
+			"two": 1.69
+		},
+		"games_hcp": {
+			"ps": 1.5,
+			"one": 1.88,
+			"two": 1.79
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.91,
+			"under": 1.8
+		}
+	},
+	{
+		"matchid": "5738270",
+		"status": 1,
+		"aams": "31371.40298",
+		"betradar": "29167324",
+		"starttime": "1631622600",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo",
+		"lid": "316849",
+		"e1": "Minnen, Greet",
+		"e1id": "109094",
+		"e2": "Parrizas Diaz, Nuria",
+		"e2id": "78010",
+		"12": {
+			"one": 1.47,
+			"two": 2.56
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.84,
+			"two": 1.83
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.93,
+			"under": 1.78
+		}
+	},
+	{
+		"matchid": "5738271",
+		"status": 1,
+		"aams": "31371.50370",
+		"betradar": "29176450",
+		"starttime": "1631613600",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo",
+		"lid": "316849",
+		"e1": "Tsurenko, Lesia",
+		"e1id": "44781",
+		"e2": "Sasnovich, Aliaksandra",
+		"e2id": "108961",
+		"12": {
+			"one": 2.12,
+			"two": 1.67
+		},
+		"games_hcp": {
+			"ps": 2.5,
+			"one": 1.78,
+			"two": 1.9
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.91,
+			"under": 1.8
+		}
+	},
+	{
+		"matchid": "5738272",
+		"status": 1,
+		"aams": "31372.5633",
+		"betradar": "29176454",
+		"starttime": "1631618100",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo",
+		"lid": "316849",
+		"e1": "Hartono, Arianne",
+		"e1id": "53257",
+		"e2": "Friedsam, Anna Lena",
+		"e2id": "68007",
+		"12": {
+			"one": 2.2,
+			"two": 1.62
+		},
+		"games_hcp": {
+			"ps": 2.5,
+			"one": 1.83,
+			"two": 1.84
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.92,
+			"under": 1.79
+		}
+	},
+	{
+		"matchid": "5738273",
+		"status": 1,
+		"aams": "31372.5299",
+		"betradar": "29176456",
+		"starttime": "1631639700",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo",
+		"lid": "316849",
+		"e1": "Ostapenko, Jelena",
+		"e1id": "94350",
+		"e2": "Niemeier, Jule",
+		"e2id": "41248",
+		"12": {
+			"one": 1.43,
+			"two": 2.7
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.73,
+			"two": 1.95
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.86,
+			"under": 1.84
+		}
+	},
+	{
+		"matchid": "5738274",
+		"status": 1,
+		"aams": "31371.40301",
+		"betradar": "29167318",
+		"starttime": "1631613600",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo",
+		"lid": "316849",
+		"e1": "Vondrousova, Marketa",
+		"e1id": "152656",
+		"e2": "Van Uytvanck, Alison",
+		"e2id": "4717",
+		"12": {
+			"one": 1.39,
+			"two": 2.84
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.7,
+			"two": 1.99
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.83,
+			"under": 1.88
+		}
+	},
+	{
+		"matchid": "5738275",
+		"status": 1,
+		"aams": "31371.40297",
+		"betradar": "29167330",
+		"starttime": "1631635200",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo",
+		"lid": "316849",
+		"e1": "Gracheva, Varvara",
+		"e1id": "196340",
+		"e2": "Minella, Mandy",
+		"e2id": "92180",
+		"12": {
+			"one": 1.13,
+			"two": 5.44
+		},
+		"games_hcp": {
+			"ps": -5.5,
+			"one": 1.75,
+			"two": 1.92
+		},
+		"games_ou": {
+			"ps": 19.5,
+			"over": 1.95,
+			"under": 1.76
+		}
+	},
+	{
+		"matchid": "5740305",
+		"status": 1,
+		"aams": "31372.5313",
+		"betradar": "29174904",
+		"starttime": "1631692800",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo Doppi",
+		"lid": "317805",
+		"e1": "Bouzkova M / Hradecka L",
+		"e1id": "797317",
+		"e2": "Minella M / Samsonova L",
+		"e2id": "894417",
+		"12": {
+			"one": 1.28,
+			"two": 3.48
+		}
+	},
+	{
+		"matchid": "5740306",
+		"status": 1,
+		"aams": "31372.5316",
+		"betradar": "29174900",
+		"starttime": "1631627100",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo Doppi",
+		"lid": "317805",
+		"e1": "Marozava L / Mitu A",
+		"e1id": "740207",
+		"e2": "Routliffe E / Zimmermann K",
+		"e2id": "824309",
+		"12": {
+			"one": 1.8,
+			"two": 1.94
+		}
+	},
+	{
+		"matchid": "5740307",
+		"status": 1,
+		"aams": "31372.5318",
+		"betradar": "29174890",
+		"starttime": "1631692800",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo Doppi",
+		"lid": "317805",
+		"e1": "Morderger T / Morderger Y",
+		"e1id": "27336",
+		"e2": "Mirza S / Zhang S",
+		"e2id": "912245",
+		"12": {
+			"one": 5.88,
+			"two": 1.11
+		}
+	},
+	{
+		"matchid": "5740308",
+		"status": 1,
+		"aams": "31372.5317",
+		"betradar": "29174892",
+		"starttime": "1631692800",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo Doppi",
+		"lid": "317805",
+		"e1": "Minnen G / Van Uytvanck A",
+		"e1id": "558114",
+		"e2": "Sharma A / Van Der Hoek R",
+		"e2id": "830339",
+		"12": {
+			"one": 1.5,
+			"two": 2.48
+		}
+	},
+	{
+		"matchid": "5741776",
+		"status": 1,
+		"aams": "31372.5314",
+		"betradar": "29174902",
+		"starttime": "1631622600",
+		"country": "WTA",
+		"countryid": "19463",
+		"liga": "Lussemburgo Doppi",
+		"lid": "317805",
+		"e1": "Diatchenko V / Sizikova Y",
+		"e1id": "912244",
+		"e2": "Kalashnikova O / Panova A",
+		"e2id": "71930",
+		"12": {
+			"one": 4.31,
+			"two": 1.19
+		}
+	},
+	{
+		"matchid": "5737066",
+		"status": 1,
+		"aams": "31371.50479",
+		"betradar": "29172454",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador",
+		"lid": "339643",
+		"e1": "Martin, Andrej",
+		"e1id": "92656",
+		"e2": "Martin Tiffon, Pol",
+		"e2id": "199790",
+		"12": {
+			"one": 1.28,
+			"two": 3.23
+		},
+		"games_hcp": {
+			"ps": -4.5,
+			"one": 1.76,
+			"two": 1.88
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.94,
+			"under": 1.74
+		}
+	},
+	{
+		"matchid": "5737067",
+		"status": 1,
+		"aams": "31371.50480",
+		"betradar": "29172452",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador",
+		"lid": "339643",
+		"e1": "Esteve Lobato, Eduard",
+		"e1id": "66140",
+		"e2": "Oliveira, Goncalo",
+		"e2id": "58309",
+		"12": {
+			"one": 1.36,
+			"two": 2.83
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.71,
+			"two": 1.94
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.89,
+			"under": 1.78
+		}
+	},
+	{
+		"matchid": "5737072",
+		"status": 1,
+		"aams": "31371.50561",
+		"betradar": "29172450",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador",
+		"lid": "339643",
+		"e1": "Catarina, Lucas",
+		"e1id": "96800",
+		"e2": "Ficovich, Juan Pablo",
+		"e2id": "60747",
+		"12": {
+			"one": 3.38,
+			"two": 1.26
+		},
+		"games_hcp": {
+			"ps": 4.5,
+			"one": 1.83,
+			"two": 1.81
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.84,
+			"under": 1.83
+		}
+	},
+	{
+		"matchid": "5737073",
+		"status": 1,
+		"aams": "31371.50562",
+		"betradar": "29172448",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador",
+		"lid": "339643",
+		"e1": "Lama, Gonzalo",
+		"e1id": "57971",
+		"e2": "Guillen Meza, Alvaro",
+		"e2id": "357665",
+		"12": {
+			"one": 1.03,
+			"two": 8.66
+		},
+		"games_hcp": {
+			"ps": -6.5,
+			"one": 1.72,
+			"two": 1.92
+		},
+		"games_ou": {
+			"ps": 17.5,
+			"over": 1.76,
+			"under": 1.91
+		}
+	},
+	{
+		"matchid": "5737078",
+		"status": 1,
+		"aams": "31371.50731",
+		"betradar": "29172446",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador",
+		"lid": "339643",
+		"e1": "Gomez Herrera, Carlos",
+		"e1id": "80227",
+		"e2": "Menendez Maceiras, Adrian",
+		"e2id": "69693",
+		"12": {
+			"one": 1.61,
+			"two": 2.14
+		},
+		"games_hcp": {
+			"ps": -2.5,
+			"one": 1.86,
+			"two": 1.78
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.78,
+			"under": 1.89
+		}
+	},
+	{
+		"matchid": "5737079",
+		"status": 1,
+		"aams": "31371.50732",
+		"betradar": "29172444",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador",
+		"lid": "339643",
+		"e1": "Kypson, Patrick",
+		"e1id": "14911",
+		"e2": "Tirante, Thiago Agustin",
+		"e2id": "196775",
+		"12": {
+			"one": 3.07,
+			"two": 1.31
+		},
+		"games_hcp": {
+			"ps": 4.5,
+			"one": 1.7,
+			"two": 1.96
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.76,
+			"under": 1.92
+		}
+	},
+	{
+		"matchid": "5737149",
+		"status": 1,
+		"aams": "31371.50783",
+		"betradar": "29172440",
+		"starttime": "1631554800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador",
+		"lid": "339643",
+		"e1": "Olivieri, Genaro Alberto",
+		"e1id": "128488",
+		"e2": "Roca Batalla, Oriol",
+		"e2id": "71948",
+		"12": {
+			"one": 1.52,
+			"two": 2.32
+		},
+		"games_hcp": {
+			"ps": -2.5,
+			"one": 1.73,
+			"two": 1.92
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.86,
+			"under": 1.81
+		}
+	},
+	{
+		"matchid": "5737150",
+		"status": 1,
+		"aams": "31371.43349",
+		"betradar": "29172438",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador",
+		"lid": "339643",
+		"e1": "Villanueva, Gonzalo",
+		"e1id": "70047",
+		"e2": "Olivo, Renzo",
+		"e2id": "92704",
+		"12": {
+			"one": 3.93,
+			"two": 1.2
+		},
+		"games_hcp": {
+			"ps": 4.5,
+			"one": 1.97,
+			"two": 1.69
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.91,
+			"under": 1.76
+		}
+	},
+	{
+		"matchid": "5737152",
+		"status": 1,
+		"aams": "31371.50786",
+		"betradar": "29172434",
+		"starttime": "1631554800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador",
+		"lid": "339643",
+		"e1": "Perchicot, Mathieu",
+		"e1id": "338864",
+		"e2": "March, Antonio Cayetano",
+		"e2id": "508198",
+		"12": {
+			"one": 1.6,
+			"two": 2.15
+		},
+		"games_hcp": {
+			"ps": -2.5,
+			"one": 1.85,
+			"two": 1.79
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.79,
+			"under": 1.89
+		}
+	},
+	{
+		"matchid": "5737153",
+		"status": 1,
+		"aams": "31371.43350",
+		"betradar": "29172436",
+		"starttime": "1631563200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador",
+		"lid": "339643",
+		"e1": "Quiroz, Roberto",
+		"e1id": "58203",
+		"e2": "Hidalgo, Diego",
+		"e2id": "167692",
+		"12": {
+			"one": 1.42,
+			"two": 2.61
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.81,
+			"two": 1.83
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.85,
+			"under": 1.82
+		}
+	},
+	{
+		"matchid": "5737212",
+		"status": 1,
+		"aams": "31371.51149",
+		"betradar": "29169990",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador Doppi",
+		"lid": "814871",
+		"e1": "Martin A / Oliveira G",
+		"e1id": "502349",
+		"e2": "March A C / Martin Tiffon P",
+		"e2id": "619433",
+		"12": {
+			"one": 1.17,
+			"two": 4.26
+		}
+	},
+	{
+		"matchid": "5737213",
+		"status": 1,
+		"aams": "31371.51150",
+		"betradar": "29169992",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador Doppi",
+		"lid": "814871",
+		"e1": "Castelnuovo L / Nikles J",
+		"e1id": "13538",
+		"e2": "Merino A / Ore J A",
+		"e2id": "576697",
+		"12": {
+			"one": 2.11,
+			"two": 1.62
+		}
+	},
+	{
+		"matchid": "5737277",
+		"status": 1,
+		"aams": "31371.52323",
+		"betradar": "29169994",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador Doppi",
+		"lid": "814871",
+		"e1": "Gomez E / Quiroz R ",
+		"e1id": "37621",
+		"e2": "Ficovich J P / Olivieri G A",
+		"e2id": "664911",
+		"12": {
+			"one": 1.38,
+			"two": 2.72
+		}
+	},
+	{
+		"matchid": "5737278",
+		"status": 1,
+		"aams": "31371.52324",
+		"betradar": "29169998",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador Doppi",
+		"lid": "814871",
+		"e1": "Hidalgo D / Rodriguez C",
+		"e1id": "785629",
+		"e2": "Catarina L / Kypson P",
+		"e2id": "912220",
+		"12": {
+			"one": 1.3,
+			"two": 3.13
+		}
+	},
+	{
+		"matchid": "5737279",
+		"status": 1,
+		"aams": "31371.52325",
+		"betradar": "29169996",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador Doppi",
+		"lid": "814871",
+		"e1": "Gomez A / Tirante T",
+		"e1id": "912221",
+		"e2": "Olivo R / Zukas M",
+		"e2id": "570009",
+		"12": {
+			"one": 2.05,
+			"two": 1.66
+		}
+	},
+	{
+		"matchid": "5738076",
+		"status": 1,
+		"aams": "31372.2115",
+		"betradar": "29169988",
+		"starttime": "1631631600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Ecuador Doppi",
+		"lid": "814871",
+		"e1": "Guillen F / Villanueva G",
+		"e1id": "912233",
+		"e2": "Esteve Lobato E / Roca Batalla O",
+		"e2id": "18328",
+		"12": {
+			"one": 3.94,
+			"two": 1.2
+		}
+	},
+	{
+		"matchid": "5732677",
+		"status": 1,
+		"aams": "31371.40192",
+		"betradar": "29167922",
+		"starttime": "1631617200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia",
+		"lid": "40637",
+		"e1": "Barrere, Gregoire",
+		"e1id": "97919",
+		"e2": "Van Rijthoven, Tim",
+		"e2id": "123612",
+		"12": {
+			"one": 1.57,
+			"two": 2.21
+		},
+		"games_hcp": {
+			"ps": -2.5,
+			"one": 1.85,
+			"two": 1.79
+		},
+		"games_ou": {
+			"ps": 22.5,
+			"over": 1.92,
+			"under": 1.76
+		}
+	},
+	{
+		"matchid": "5732678",
+		"status": 1,
+		"aams": "31371.40191",
+		"betradar": "29167912",
+		"starttime": "1631637900",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia",
+		"lid": "40637",
+		"e1": "Kamke, Tobias",
+		"e1id": "60021",
+		"e2": "Rinderknech, Arthur",
+		"e2id": "52864",
+		"12": {
+			"one": 3.35,
+			"two": 1.26
+		},
+		"games_hcp": {
+			"ps": 4.5,
+			"one": 1.69,
+			"two": 1.97
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.89,
+			"under": 1.79
+		}
+	},
+	{
+		"matchid": "5732679",
+		"status": 1,
+		"aams": "31371.45678",
+		"betradar": "29167934",
+		"starttime": "1631556300",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia",
+		"lid": "40637",
+		"e1": "Gasquet, Richard",
+		"e1id": "3653",
+		"e2": "Jacquet, Kyrian",
+		"e2id": "331869",
+		"12": {
+			"one": 1.14,
+			"two": 4.74
+		},
+		"games_hcp": {
+			"ps": -4.5,
+			"one": 1.77,
+			"two": 1.87
+		},
+		"games_ou": {
+			"ps": 20.5,
+			"over": 1.94,
+			"under": 1.74
+		}
+	},
+	{
+		"matchid": "5732680",
+		"status": 1,
+		"aams": "31371.45679",
+		"betradar": "29167926",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia",
+		"lid": "40637",
+		"e1": "Escobedo, Ernesto",
+		"e1id": "92325",
+		"e2": "Lestienne, Constant",
+		"e2id": "161499",
+		"12": {
+			"one": 1.66,
+			"two": 2.05
+		},
+		"games_hcp": {
+			"ps": -1.5,
+			"one": 1.79,
+			"two": 1.85
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.74,
+			"under": 1.94
+		}
+	},
+	{
+		"matchid": "5732681",
+		"status": 1,
+		"aams": "31371.45680",
+		"betradar": "29167930",
+		"starttime": "1631551500",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia",
+		"lid": "40637",
+		"e1": "Maden, Yannick",
+		"e1id": "109425",
+		"e2": "Murray, Andy",
+		"e2id": "3662",
+		"12": {
+			"one": 6.86,
+			"two": 1.06
+		},
+		"games_hcp": {
+			"ps": 5.5,
+			"one": 1.97,
+			"two": 1.69
+		},
+		"games_ou": {
+			"ps": 19.5,
+			"over": 1.99,
+			"under": 1.7
+		}
+	},
+	{
+		"matchid": "5732682",
+		"status": 1,
+		"aams": "31371.40189",
+		"betradar": "29167916",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia",
+		"lid": "40637",
+		"e1": "Pouille, Lucas",
+		"e1id": "94616",
+		"e2": "Janvier, Maxime",
+		"e2id": "58109",
+		"12": {
+			"one": 1.33,
+			"two": 2.94
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.73,
+			"two": 1.92
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.81,
+			"under": 1.86
+		}
+	},
+	{
+		"matchid": "5732684",
+		"status": 1,
+		"aams": "31371.40188",
+		"betradar": "29167918",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia",
+		"lid": "40637",
+		"e1": "Ymer, Elias",
+		"e1id": "111148",
+		"e2": "Bonzi, Benjamin",
+		"e2id": "64480",
+		"12": {
+			"one": 2.64,
+			"two": 1.41
+		},
+		"games_hcp": {
+			"ps": 3.5,
+			"one": 1.83,
+			"two": 1.81
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.82,
+			"under": 1.85
+		}
+	},
+	{
+		"matchid": "5732692",
+		"status": 1,
+		"aams": "31371.40182",
+		"betradar": "29167924",
+		"starttime": "1631606400",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia",
+		"lid": "40637",
+		"e1": "Moraing, Mats",
+		"e1id": "105287",
+		"e2": "Mayot, Harold",
+		"e2id": "196750",
+		"12": {
+			"one": 1.44,
+			"two": 2.52
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.9,
+			"two": 1.74
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.77,
+			"under": 1.9
+		}
+	},
+	{
+		"matchid": "5731483",
+		"status": 1,
+		"aams": "31371.44022",
+		"betradar": "29165178",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia Doppi",
+		"lid": "507981",
+		"e1": "Hermans M / Smits G",
+		"e1id": "747804",
+		"e2": "Chandrasekar A / Pozzi D",
+		"e2id": "911120",
+		"12": {
+			"one": 1.35,
+			"two": 2.85
+		}
+	},
+	{
+		"matchid": "5731484",
+		"status": 1,
+		"aams": "31371.44023",
+		"betradar": "29165184",
+		"starttime": "1631627400",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia Doppi",
+		"lid": "507981",
+		"e1": "Matsui T / Uesugi K",
+		"e1id": "577222",
+		"e2": "Kadhe A / Schnur B",
+		"e2id": "911121",
+		"12": {
+			"one": 2.09,
+			"two": 1.63
+		}
+	},
+	{
+		"matchid": "5732890",
+		"status": 1,
+		"aams": "31371.46117",
+		"betradar": "29165176",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia Doppi",
+		"lid": "507981",
+		"e1": "Stevens B / Van Rijthoven T",
+		"e1id": "911368",
+		"e2": "Nys H / Rinderknech A",
+		"e2id": "894450",
+		"12": {
+			"one": 3.31,
+			"two": 1.27
+		}
+	},
+	{
+		"matchid": "5732891",
+		"status": 1,
+		"aams": "31371.46118",
+		"betradar": "29165180",
+		"starttime": "1631622600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia Doppi",
+		"lid": "507981",
+		"e1": "Jacquet K / Mayot H",
+		"e1id": "911369",
+		"e2": "Nedunchezhiyan J / Raja P",
+		"e2id": "453392",
+		"12": {
+			"one": 2.28,
+			"two": 1.54
+		}
+	},
+	{
+		"matchid": "5732892",
+		"status": 1,
+		"aams": "31371.46166",
+		"betradar": "29165182",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia Doppi",
+		"lid": "507981",
+		"e1": "Broady L / Stakhovsky S",
+		"e1id": "911370",
+		"e2": "Gabashvili T / Janvier M",
+		"e2id": "754236",
+		"12": {
+			"one": 1.33,
+			"two": 2.98
+		}
+	},
+	{
+		"matchid": "5738365",
+		"status": 1,
+		"aams": "31372.5944",
+		"betradar": "29165188",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia Doppi",
+		"lid": "507981",
+		"e1": "Gengel M / Machac T",
+		"e1id": "912250",
+		"e2": "Kamke T / Maden Y",
+		"e2id": "912251",
+		"12": {
+			"one": 1.93,
+			"two": 1.75
+		}
+	},
+	{
+		"matchid": "5738366",
+		"status": 1,
+		"aams": "31372.5945",
+		"betradar": "29165186",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Francia Doppi",
+		"lid": "507981",
+		"e1": "Guinard M / Olivetti A",
+		"e1id": "912252",
+		"e2": "Lamasine T / Simon G",
+		"e2id": "912253",
+		"12": {
+			"one": 1.64,
+			"two": 2.08
+		}
+	},
+	{
+		"matchid": "5733026",
+		"status": 1,
+		"aams": "31371.39958",
+		"betradar": "29169024",
+		"starttime": "1631617200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia",
+		"lid": "34786",
+		"e1": "Hanfmann, Yannick",
+		"e1id": "95809",
+		"e2": "Gaston, Hugo",
+		"e2id": "52388",
+		"12": {
+			"one": 1.96,
+			"two": 1.73
+		},
+		"games_hcp": {
+			"ps": 1.5,
+			"one": 1.78,
+			"two": 1.86
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.74,
+			"under": 1.94
+		}
+	},
+	{
+		"matchid": "5733027",
+		"status": 1,
+		"aams": "31371.39955",
+		"betradar": "29169030",
+		"starttime": "1631624400",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia",
+		"lid": "34786",
+		"e1": "Kolar, Zdenek",
+		"e1id": "105124",
+		"e2": "Vesely, Jiri",
+		"e2id": "65178",
+		"12": {
+			"one": 2.3,
+			"two": 1.52
+		},
+		"games_hcp": {
+			"ps": 2.5,
+			"one": 1.86,
+			"two": 1.77
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.73,
+			"under": 1.96
+		}
+	},
+	{
+		"matchid": "5733028",
+		"status": 1,
+		"aams": "31371.39960",
+		"betradar": "29169020",
+		"starttime": "1631638800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia",
+		"lid": "34786",
+		"e1": "Majchrzak, Kamil",
+		"e1id": "13488",
+		"e2": "Pellegrino, Andrea",
+		"e2id": "21129",
+		"12": {
+			"one": 1.11,
+			"two": 5.19
+		},
+		"games_hcp": {
+			"ps": -5.5,
+			"one": 1.73,
+			"two": 1.92
+		},
+		"games_ou": {
+			"ps": 19.5,
+			"over": 1.88,
+			"under": 1.8
+		}
+	},
+	{
+		"matchid": "5733032",
+		"status": 1,
+		"aams": "31371.46601",
+		"betradar": "29169016",
+		"starttime": "1631552400",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia",
+		"lid": "34786",
+		"e1": "Taberner, Carlos",
+		"e1id": "58350",
+		"e2": "Andujar, Pablo",
+		"e2id": "588745",
+		"12": {
+			"one": 1.92,
+			"two": 1.75
+		},
+		"games_hcp": {
+			"ps": 0.5,
+			"one": 1.85,
+			"two": 1.79
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.81,
+			"under": 1.86
+		}
+	},
+	{
+		"matchid": "5732739",
+		"status": 1,
+		"aams": "31371.45803",
+		"betradar": "29164984",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia Doppi",
+		"lid": "529277",
+		"e1": "Jebavy R / Kolar Z",
+		"e1id": "68226",
+		"e2": "Molchanov D / Romboli F",
+		"e2id": "911325",
+		"12": {
+			"one": 1.61,
+			"two": 2.14
+		}
+	},
+	{
+		"matchid": "5737276",
+		"status": 1,
+		"aams": "31371.52322",
+		"betradar": "29176528",
+		"starttime": "1631624400",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia Doppi",
+		"lid": "529277",
+		"e1": "Gonzalez S / Molteni A",
+		"e1id": "894447",
+		"e2": "Arneodo R / Huey T",
+		"e2id": "912219",
+		"12": {
+			"one": 1.47,
+			"two": 2.44
+		}
+	},
+	{
+		"matchid": "5737482",
+		"status": 1,
+		"aams": "31371.56093",
+		"betradar": "29164976",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia Doppi",
+		"lid": "529277",
+		"e1": "Margaroli L / Vega Hernandez D",
+		"e1id": "530027",
+		"e2": "Walkow S / Zielinski J",
+		"e2id": "712990",
+		"12": {
+			"one": 3.18,
+			"two": 1.29
+		}
+	},
+	{
+		"matchid": "5737483",
+		"status": 1,
+		"aams": "31371.56094",
+		"betradar": "29164982",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia Doppi",
+		"lid": "529277",
+		"e1": "Reese H / Verbeek S",
+		"e1id": "759591",
+		"e2": "Drzewiecki K / Martos Gornes S",
+		"e2id": "811033",
+		"12": {
+			"one": 1.25,
+			"two": 3.43
+		}
+	},
+	{
+		"matchid": "5737484",
+		"status": 1,
+		"aams": "31371.56095",
+		"betradar": "29164980",
+		"starttime": "1631629200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia Doppi",
+		"lid": "529277",
+		"e1": "Nagal S / Taberner C",
+		"e1id": "819809",
+		"e2": "Daniel T / Monteiro T",
+		"e2id": "912225",
+		"12": {
+			"one": 2.19,
+			"two": 1.58
+		}
+	},
+	{
+		"matchid": "5737485",
+		"status": 1,
+		"aams": "31371.56096",
+		"betradar": "29164974",
+		"starttime": "1631692800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia Doppi",
+		"lid": "529277",
+		"e1": "Brown D / Naw H",
+		"e1id": "875783",
+		"e2": "Goransson A / Lammons N",
+		"e2id": "681470",
+		"12": {
+			"one": 3.14,
+			"two": 1.3
+		}
+	},
+	{
+		"matchid": "5737486",
+		"status": 1,
+		"aams": "31371.56097",
+		"betradar": "29164986",
+		"starttime": "1631629200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Polonia Doppi",
+		"lid": "529277",
+		"e1": "Manafov V / Matuszewski P",
+		"e1id": "884001",
+		"e2": "Doumbia S / Reboul F",
+		"e2id": "118151",
+		"12": {
+			"one": 3.83,
+			"two": 1.21
+		}
+	},
+	{
+		"matchid": "5734471",
+		"status": 1,
+		"aams": "31371.48088",
+		"betradar": "29170976",
+		"starttime": "1631617200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia",
+		"lid": "265292",
+		"e1": "Duckworth, James",
+		"e1id": "117925",
+		"e2": "Giustino, Lorenzo",
+		"e2id": "57986",
+		"12": {
+			"one": 1.13,
+			"two": 4.81
+		},
+		"games_hcp": {
+			"ps": -5.5,
+			"one": 1.86,
+			"two": 1.78
+		},
+		"games_ou": {
+			"ps": 19.5,
+			"over": 1.83,
+			"under": 1.84
+		}
+	},
+	{
+		"matchid": "5734474",
+		"status": 1,
+		"aams": "31371.48090",
+		"betradar": "29170970",
+		"starttime": "1631602800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia",
+		"lid": "265292",
+		"e1": "Uchiyama, Yasutaka",
+		"e1id": "61537",
+		"e2": "Moriya, Hiroki",
+		"e2id": "57979",
+		"12": {
+			"one": 1.36,
+			"two": 2.82
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.75,
+			"two": 1.89
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.82,
+			"under": 1.85
+		}
+	},
+	{
+		"matchid": "5734717",
+		"status": 1,
+		"aams": "31371.48106",
+		"betradar": "29170968",
+		"starttime": "1631602800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia",
+		"lid": "265292",
+		"e1": "Tomic, Bernard",
+		"e1id": "3670",
+		"e2": "Halys, Quentin",
+		"e2id": "92787",
+		"12": {
+			"one": 3.62,
+			"two": 1.23
+		},
+		"games_hcp": {
+			"ps": 4.5,
+			"one": 1.71,
+			"two": 1.95
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.79,
+			"under": 1.88
+		}
+	},
+	{
+		"matchid": "5735141",
+		"status": 1,
+		"aams": "31371.39312",
+		"betradar": "29170966",
+		"starttime": "1631607600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia",
+		"lid": "265292",
+		"e1": "Fabbiano, Thomas",
+		"e1id": "117511",
+		"e2": "Marchenko, Illya",
+		"e2id": "110788",
+		"12": {
+			"one": 2.35,
+			"two": 1.51
+		},
+		"games_hcp": {
+			"ps": 2.5,
+			"one": 1.9,
+			"two": 1.74
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.75,
+			"under": 1.93
+		}
+	},
+	{
+		"matchid": "5736085",
+		"status": 1,
+		"aams": "31371.48659",
+		"betradar": "29170956",
+		"starttime": "1631602800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia",
+		"lid": "265292",
+		"e1": "Tatsuma, Ito",
+		"e1id": "819694",
+		"e2": "Wu, Tung lin",
+		"e2id": "785220",
+		"12": {
+			"one": 1.82,
+			"two": 1.85
+		},
+		"games_hcp": {
+			"ps": -0.5,
+			"one": 1.86,
+			"two": 1.78
+		},
+		"games_ou": {
+			"ps": 22.5,
+			"over": 1.84,
+			"under": 1.83
+		}
+	},
+	{
+		"matchid": "5742560",
+		"status": 1,
+		"aams": "31372.23717",
+		"betradar": "29205488",
+		"starttime": "1631689200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia",
+		"lid": "265292",
+		"e1": "Grenier, Hugo",
+		"e1id": "119407",
+		"e2": "Donskoj, Evgenij",
+		"e2id": "817953",
+		"12": {
+			"one": 1.77,
+			"two": 1.9
+		}
+	},
+	{
+		"matchid": "5732622",
+		"status": 1,
+		"aams": "31371.45361",
+		"betradar": "29170948",
+		"starttime": "1631689200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia Doppi",
+		"lid": "842691",
+		"e1": "Gonzales R / Johnson H",
+		"e1id": "822036",
+		"e2": "Arnaboldi A / Giustino L",
+		"e2id": "756284",
+		"12": {
+			"one": 1.53,
+			"two": 2.28
+		}
+	},
+	{
+		"matchid": "5737490",
+		"status": 1,
+		"aams": "31371.56279",
+		"betradar": "29170946",
+		"starttime": "1631689200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia Doppi",
+		"lid": "842691",
+		"e1": "Kirci K / Setkic A",
+		"e1id": "912226",
+		"e2": "Eysseric J / Halys Q",
+		"e2id": "258093",
+		"12": {
+			"one": 3.96,
+			"two": 1.19
+		}
+	},
+	{
+		"matchid": "5737492",
+		"status": 1,
+		"aams": "31371.56281",
+		"betradar": "29170940",
+		"starttime": "1631689200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia Doppi",
+		"lid": "842691",
+		"e1": "Balaji N S / Moriya H",
+		"e1id": "912227",
+		"e2": "Tseng C / Wu T",
+		"e2id": "817995",
+		"12": {
+			"one": 1.63,
+			"two": 2.1
+		}
+	},
+	{
+		"matchid": "5737496",
+		"status": 1,
+		"aams": "31371.56297",
+		"betradar": "29170938",
+		"starttime": "1631689200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia Doppi",
+		"lid": "842691",
+		"e1": "Grenier H / Muller A",
+		"e1id": "785325",
+		"e2": "Cerretani J / Fallert F",
+		"e2id": "900810",
+		"12": {
+			"one": 1.83,
+			"two": 1.83
+		}
+	},
+	{
+		"matchid": "5737761",
+		"status": 1,
+		"aams": "31371.59217",
+		"betradar": "29170942",
+		"starttime": "1631689200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia Doppi",
+		"lid": "842691",
+		"e1": "Albot R / Cozbinov A",
+		"e1id": "701784",
+		"e2": "Bublik A / Golubev D",
+		"e2id": "71971",
+		"12": {
+			"one": 1.27,
+			"two": 3.28
+		}
+	},
+	{
+		"matchid": "5738359",
+		"status": 1,
+		"aams": "31372.5946",
+		"betradar": "29170950",
+		"starttime": "1631622000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "Turchia Doppi",
+		"lid": "842691",
+		"e1": "Blancaneaux G / Fabbiano T",
+		"e1id": "912254",
+		"e2": "Dubrivnyy A / Tiurnev E",
+		"e2id": "606783",
+		"12": {
+			"one": 1.63,
+			"two": 2.11
+		}
+	},
+	{
+		"matchid": "5736479",
+		"status": 1,
+		"aams": "31371.43254",
+		"betradar": "29170092",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Sandgren, Tennys",
+		"e1id": "52344",
+		"e2": "Eubanks, Christopher",
+		"e2id": "54440",
+		"12": {
+			"one": 1.71,
+			"two": 1.98
+		},
+		"games_hcp": {
+			"ps": -1.5,
+			"one": 1.86,
+			"two": 1.78
+		},
+		"games_ou": {
+			"ps": 22.5,
+			"over": 1.87,
+			"under": 1.8
+		}
+	},
+	{
+		"matchid": "5736490",
+		"status": 1,
+		"aams": "31371.43255",
+		"betradar": "29170090",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Peniston, Ryan",
+		"e1id": "36262",
+		"e2": "Polansky, Peter",
+		"e2id": "38297",
+		"12": {
+			"one": 1.56,
+			"two": 2.22
+		},
+		"games_hcp": {
+			"ps": -2.5,
+			"one": 1.82,
+			"two": 1.81
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.73,
+			"under": 1.95
+		}
+	},
+	{
+		"matchid": "5736496",
+		"status": 1,
+		"aams": "31371.43256",
+		"betradar": "29170088",
+		"starttime": "1631556000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Caruso, Salvatore",
+		"e1id": "57965",
+		"e2": "Harrison, Christian",
+		"e2id": "20277",
+		"12": {
+			"one": 1.94,
+			"two": 1.74
+		},
+		"games_hcp": {
+			"ps": 0.5,
+			"one": 1.86,
+			"two": 1.78
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.73,
+			"under": 1.95
+		}
+	},
+	{
+		"matchid": "5736506",
+		"status": 1,
+		"aams": "31371.43257",
+		"betradar": "29170086",
+		"starttime": "1631557200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Redlicki, Michael",
+		"e1id": "261023",
+		"e2": "Vukic, Aleksandar",
+		"e2id": "60868",
+		"12": {
+			"one": 2.59,
+			"two": 1.42
+		},
+		"games_hcp": {
+			"ps": 3.5,
+			"one": 1.74,
+			"two": 1.9
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.73,
+			"under": 1.96
+		}
+	},
+	{
+		"matchid": "5736507",
+		"status": 1,
+		"aams": "31371.43258",
+		"betradar": "29170084",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Kozlov, Stefan",
+		"e1id": "95796",
+		"e2": "Svajda, Zachary",
+		"e2id": "538132",
+		"12": {
+			"one": 2.07,
+			"two": 1.65
+		},
+		"games_hcp": {
+			"ps": 1.5,
+			"one": 1.87,
+			"two": 1.77
+		},
+		"games_ou": {
+			"ps": 22.5,
+			"over": 1.96,
+			"under": 1.72
+		}
+	},
+	{
+		"matchid": "5736660",
+		"status": 1,
+		"aams": "31371.43259",
+		"betradar": "29170082",
+		"starttime": "1631566800",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Krueger, Mitchell",
+		"e1id": "95794",
+		"e2": "Kubler, Jason",
+		"e2id": "197353",
+		"12": {
+			"one": 1.59,
+			"two": 2.17
+		},
+		"games_hcp": {
+			"ps": -2.5,
+			"one": 1.86,
+			"two": 1.78
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.72,
+			"under": 1.96
+		}
+	},
+	{
+		"matchid": "5736718",
+		"status": 1,
+		"aams": "31371.43261",
+		"betradar": "29170078",
+		"starttime": "1631552400",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Aragone, Jc",
+		"e1id": "297965",
+		"e2": "Torpegaard, Mikael",
+		"e2id": "53319",
+		"12": {
+			"one": 2.51,
+			"two": 1.45
+		},
+		"games_hcp": {
+			"ps": 2.5,
+			"one": 1.94,
+			"two": 1.71
+		},
+		"games_ou": {
+			"ps": 22.5,
+			"over": 1.88,
+			"under": 1.79
+		}
+	},
+	{
+		"matchid": "5736719",
+		"status": 1,
+		"aams": "31371.43262",
+		"betradar": "29170076",
+		"starttime": "1631552400",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Purcell, Max",
+		"e1id": "7688",
+		"e2": "Bolt, Alex",
+		"e2id": "156844",
+		"12": {
+			"one": 1.41,
+			"two": 2.63
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.81,
+			"two": 1.83
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.78,
+			"under": 1.89
+		}
+	},
+	{
+		"matchid": "5736721",
+		"status": 1,
+		"aams": "31371.43263",
+		"betradar": "29170074",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Mmoh, Michael",
+		"e1id": "100002",
+		"e2": "Rubin, Noah",
+		"e2id": "100006",
+		"12": {
+			"one": 1.42,
+			"two": 2.61
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.85,
+			"two": 1.79
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.79,
+			"under": 1.89
+		}
+	},
+	{
+		"matchid": "5736722",
+		"status": 1,
+		"aams": "31371.50232",
+		"betradar": "29170072",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Staeheli, Luca",
+		"e1id": "176525",
+		"e2": "Mukund, Sasikumar",
+		"e2id": "708107",
+		"12": {
+			"one": 3.54,
+			"two": 1.24
+		},
+		"games_hcp": {
+			"ps": 4.5,
+			"one": 1.74,
+			"two": 1.91
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.92,
+			"under": 1.76
+		}
+	},
+	{
+		"matchid": "5736726",
+		"status": 1,
+		"aams": "31371.43265",
+		"betradar": "29170070",
+		"starttime": "1631571600",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Young, Donald",
+		"e1id": "110803",
+		"e2": "Kudla, Denis",
+		"e2id": "92790",
+		"12": {
+			"one": 5.46,
+			"two": 1.1
+		},
+		"games_hcp": {
+			"ps": 5.5,
+			"one": 1.74,
+			"two": 1.91
+		},
+		"games_ou": {
+			"ps": 19.5,
+			"over": 1.78,
+			"under": 1.89
+		}
+	},
+	{
+		"matchid": "5738055",
+		"status": 1,
+		"aams": "31371.43260",
+		"betradar": "29170080",
+		"starttime": "1631557200",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA",
+		"lid": "22312",
+		"e1": "Mejia, Nicolas",
+		"e1id": "52874",
+		"e2": "Kelly, Dayne",
+		"e2id": "63356",
+		"12": {
+			"one": 1.45,
+			"two": 2.5
+		},
+		"games_hcp": {
+			"ps": -3.5,
+			"one": 1.91,
+			"two": 1.74
+		},
+		"games_ou": {
+			"ps": 21.5,
+			"over": 1.77,
+			"under": 1.91
+		}
+	},
+	{
+		"matchid": "5736480",
+		"status": 1,
+		"aams": "31371.49902",
+		"betradar": "29169364",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA Doppi",
+		"lid": "507453",
+		"e1": "Jung J / Krueger M",
+		"e1id": "561413",
+		"e2": "Cernoch B / Kiger M",
+		"e2id": "912089",
+		"12": {
+			"one": 1.17,
+			"two": 4.25
+		}
+	},
+	{
+		"matchid": "5736491",
+		"status": 1,
+		"aams": "31371.49918",
+		"betradar": "29169370",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA Doppi",
+		"lid": "507453",
+		"e1": "Sandgren T / Torpegaard M",
+		"e1id": "912090",
+		"e2": "Brouwer G / Stalder R",
+		"e2id": "857524",
+		"12": {
+			"one": 1.86,
+			"two": 1.81
+		}
+	},
+	{
+		"matchid": "5736728",
+		"status": 1,
+		"aams": "31371.50357",
+		"betradar": "29169376",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA Doppi",
+		"lid": "507453",
+		"e1": "Glasspool L / Monroe N",
+		"e1id": "847017",
+		"e2": "Blumberg W / Schnur M",
+		"e2id": "912111",
+		"12": {
+			"one": 1.39,
+			"two": 2.72
+		}
+	},
+	{
+		"matchid": "5736730",
+		"status": 1,
+		"aams": "31371.50359",
+		"betradar": "29169366",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA Doppi",
+		"lid": "507453",
+		"e1": "Kozlov S / Polansky P",
+		"e1id": "215274",
+		"e2": "Galloway R / Lawson A",
+		"e2id": "158345",
+		"12": {
+			"one": 2.3,
+			"two": 1.53
+		}
+	},
+	{
+		"matchid": "5738276",
+		"status": 1,
+		"aams": "31372.5682",
+		"betradar": "29169362",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA Doppi",
+		"lid": "507453",
+		"e1": "Blanch U / Galarneau A",
+		"e1id": "912246",
+		"e2": "King E / Withrow J",
+		"e2id": "912247",
+		"12": {
+			"one": 3.33,
+			"two": 1.27
+		}
+	},
+	{
+		"matchid": "5738277",
+		"status": 1,
+		"aams": "31372.5683",
+		"betradar": "29169374",
+		"starttime": "1631628000",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA Doppi",
+		"lid": "507453",
+		"e1": "Redlicki M / Young D",
+		"e1id": "912249",
+		"e2": "Fancutt T / Kubler J",
+		"e2id": "912248",
+		"12": {
+			"one": 2.24,
+			"two": 1.56
+		}
+	},
+	{
+		"matchid": "5738125",
+		"status": 1,
+		"aams": "31371.63467",
+		"betradar": "29179914",
+		"starttime": "1631551500",
+		"country": "Challenger",
+		"countryid": "8358",
+		"liga": "USA Qualificazioni",
+		"lid": "552293",
+		"e1": "Galarneau, Alexis",
+		"e1id": "172504",
+		"e2": "Sarkissian, Alexander",
+		"e2id": "95789",
+		"12": {
+			"one": 1.44,
+			"two": 2.54
+		}
+	},
+	{
+		"matchid": "5743475",
+		"status": 1,
+		"aams": "31372.25814",
+		"betradar": "29206646",
+		"starttime": "1631610000",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "Spagna",
+		"lid": "34202",
+		"e1": "Toledo Bague, Pol",
+		"e1id": "130599",
+		"e2": "Gutierrez, Oscar Jose",
+		"e2id": "99585",
+		"12": {
+			"one": 1.99,
+			"two": 1.65
+		}
+	},
+	{
+		"matchid": "5743915",
+		"status": 1,
+		"aams": "31372.37169",
+		"betradar": "29206644",
+		"starttime": "1631610000",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "Spagna",
+		"lid": "34202",
+		"e1": "Ortega Olmedo, Roberto",
+		"e1id": "65812",
+		"e2": "Monzon, Ignacio",
+		"e2id": "98538",
+		"12": {
+			"one": 1.15,
+			"two": 4.11
+		}
+	},
+	{
+		"matchid": "5743938",
+		"status": 1,
+		"aams": "31372.37624",
+		"betradar": "29209046",
+		"starttime": "1631624400",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "Spagna Doppi",
+		"lid": "511671",
+		"e1": "Barroso Campos A / Winter Lopez B",
+		"e1id": "645209",
+		"e2": "Shvets V / Mishkin K",
+		"e2id": "796411",
+		"12": {
+			"one": 1.12,
+			"two": 4.54
+		}
+	},
+	{
+		"matchid": "5743937",
+		"status": 1,
+		"aams": "31372.32404",
+		"betradar": "29209048",
+		"starttime": "1631608200",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "Spagna Qualificazioni",
+		"lid": "735435",
+		"e1": "Barroso Campos, Alberto",
+		"e1id": "52848",
+		"e2": "Matas Ortega, Xavi",
+		"e2id": "735356",
+		"12": {
+			"one": 1.76,
+			"two": 1.85
+		}
+	},
+	{
+		"matchid": "5743939",
+		"status": 1,
+		"aams": "31372.38087",
+		"betradar": "29209044",
+		"starttime": "1631608200",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "Spagna Qualificazioni",
+		"lid": "735435",
+		"e1": "Andreu Garcia, Francisco",
+		"e1id": "338873",
+		"e2": "Rodriguez, Lorenzo Joaquin",
+		"e2id": "75177",
+		"12": {
+			"one": 1.95,
+			"two": 1.68
+		}
+	},
+	{
+		"matchid": "5743985",
+		"status": 1,
+		"aams": "31372.39121",
+		"betradar": "29190448",
+		"starttime": "1631552400",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "USA Qualificazioni",
+		"lid": "742435",
+		"e1": "Hernandez, Noah",
+		"e1id": "913025",
+		"e2": "Van Emburgh, Jake",
+		"e2id": "167684",
+		"12": {
+			"one": 8.22,
+			"two": 1.01
+		}
+	},
+	{
+		"matchid": "5743986",
+		"status": 1,
+		"aams": "31372.39122",
+		"betradar": "29189408",
+		"starttime": "1631552400",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "USA Qualificazioni",
+		"lid": "742435",
+		"e1": "Sookton eng, Chanchai",
+		"e1id": "856177",
+		"e2": "Hudd, Emile",
+		"e2id": "173003",
+		"12": {
+			"one": 3.13,
+			"two": 1.27
+		}
+	},
+	{
+		"matchid": "5743987",
+		"status": 1,
+		"aams": "31372.39124",
+		"betradar": "29190452",
+		"starttime": "1631552400",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "USA Qualificazioni",
+		"lid": "742435",
+		"e1": "Vietri, Bruno",
+		"e1id": "913026",
+		"e2": "Sheehy, Joshua",
+		"e2id": "254361",
+		"12": {
+			"one": 6.56,
+			"two": 1.04
+		}
+	},
+	{
+		"matchid": "5743988",
+		"status": 1,
+		"aams": "31372.39125",
+		"betradar": "29189642",
+		"starttime": "1631552400",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "USA Qualificazioni",
+		"lid": "742435",
+		"e1": "Mccormick, Tristan",
+		"e1id": "250109",
+		"e2": "Guzauskas, Gabrielius",
+		"e2id": "913027",
+		"12": {
+			"one": 2.41,
+			"two": 1.44
+		}
+	},
+	{
+		"matchid": "5743989",
+		"status": 1,
+		"aams": "31372.39127",
+		"betradar": "29189606",
+		"starttime": "1631552400",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "USA Qualificazioni",
+		"lid": "742435",
+		"e1": "Khlif, Noe",
+		"e1id": "128798",
+		"e2": "Cassone, Murphy",
+		"e2id": "685130",
+		"12": {
+			"one": 4.17,
+			"two": 1.15
+		}
+	},
+	{
+		"matchid": "5743990",
+		"status": 1,
+		"aams": "31372.39128",
+		"betradar": "29189564",
+		"starttime": "1631552400",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "USA Qualificazioni",
+		"lid": "742435",
+		"e1": "Gregg, Perry",
+		"e1id": "111611",
+		"e2": "Aggarwal, Parth",
+		"e2id": "77863",
+		"12": {
+			"one": 1.1,
+			"two": 4.95
+		}
+	},
+	{
+		"matchid": "5743991",
+		"status": 1,
+		"aams": "31372.39129",
+		"betradar": "29189270",
+		"starttime": "1631552400",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "USA Qualificazioni",
+		"lid": "742435",
+		"e1": "Sock, Eric C",
+		"e1id": "650057",
+		"e2": "O'Hoisin, Osgar",
+		"e2id": "264995",
+		"12": {
+			"one": 6.21,
+			"two": 1.05
+		}
+	},
+	{
+		"matchid": "5743992",
+		"status": 1,
+		"aams": "31372.39131",
+		"betradar": "29189208",
+		"starttime": "1631552400",
+		"country": "ITF Maschile",
+		"countryid": "19988",
+		"liga": "USA Qualificazioni",
+		"lid": "742435",
+		"e1": "Hines, Harrison",
+		"e1id": "913028",
+		"e2": "Boyer, Toby D",
+		"e2id": "254355",
+		"12": {
+			"one": 4.87,
+			"two": 1.11
+		}
+	},
+	{
+		"matchid": "5743956",
+		"status": 1,
+		"aams": "31372.35378",
+		"betradar": "29209190",
+		"starttime": "1631610000",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Bulgaria",
+		"lid": "258470",
+		"e1": "Duca, Gabriela",
+		"e1id": "43194",
+		"e2": "Anil, Cemre",
+		"e2id": "105147",
+		"12": {
+			"one": 2.22,
+			"two": 1.51
+		}
+	},
+	{
+		"matchid": "5743957",
+		"status": 1,
+		"aams": "31372.35379",
+		"betradar": "29209172",
+		"starttime": "1631610000",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Bulgaria",
+		"lid": "258470",
+		"e1": "Glushkova, Denislava",
+		"e1id": "551684",
+		"e2": "Mihaylova, Gebriela",
+		"e2id": "40604",
+		"12": {
+			"one": 1.63,
+			"two": 2.02
+		}
+	},
+	{
+		"matchid": "5743958",
+		"status": 1,
+		"aams": "31372.35375",
+		"betradar": "29209160",
+		"starttime": "1631610000",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Bulgaria",
+		"lid": "258470",
+		"e1": "Yoruk, Ilay",
+		"e1id": "38485",
+		"e2": "Stoilkovska, Magdalena",
+		"e2id": "15151",
+		"12": {
+			"one": 1.04,
+			"two": 6.93
+		}
+	},
+	{
+		"matchid": "5743959",
+		"status": 1,
+		"aams": "31372.38594",
+		"betradar": "29209166",
+		"starttime": "1631613600",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Bulgaria",
+		"lid": "258470",
+		"e1": "Ersoz, Vanessa",
+		"e1id": "488289",
+		"e2": "Vangelova, Ani",
+		"e2id": "15152",
+		"12": {
+			"one": 1.85,
+			"two": 1.76
+		}
+	},
+	{
+		"matchid": "5743960",
+		"status": 1,
+		"aams": "31372.35380",
+		"betradar": "29209156",
+		"starttime": "1631619000",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Bulgaria",
+		"lid": "258470",
+		"e1": "Evtimova, Dia",
+		"e1id": "59241",
+		"e2": "Karatancheva, Lia",
+		"e2id": "316953",
+		"12": {
+			"one": 1.34,
+			"two": 2.75
+		}
+	},
+	{
+		"matchid": "5743968",
+		"status": 1,
+		"aams": "31372.38946",
+		"betradar": "29209178",
+		"starttime": "1631613600",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Bulgaria",
+		"lid": "258470",
+		"e1": "Kuzmova, Katarina",
+		"e1id": "222211",
+		"e2": "Krupenina, Maria",
+		"e2id": "512417",
+		"12": {
+			"one": 1.08,
+			"two": 5.55
+		}
+	},
+	{
+		"matchid": "5743514",
+		"status": 1,
+		"aams": "31372.35770",
+		"betradar": "29209020",
+		"starttime": "1631617200",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Repubblica Ceca",
+		"lid": "204447",
+		"e1": "Vismane, Daniela",
+		"e1id": "122972",
+		"e2": "Chiesa, Deborah",
+		"e2id": "60755",
+		"12": {
+			"one": 1.15,
+			"two": 4.15
+		}
+	},
+	{
+		"matchid": "5743933",
+		"status": 1,
+		"aams": "31372.37238",
+		"betradar": "29209012",
+		"starttime": "1631611800",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Repubblica Ceca",
+		"lid": "204447",
+		"e1": "Rosca, Andreea Amalia",
+		"e1id": "46567",
+		"e2": "Sevcikova, Linda",
+		"e2id": "242647",
+		"12": {
+			"one": 1.01,
+			"two": 8.28
+		}
+	},
+	{
+		"matchid": "5743935",
+		"status": 1,
+		"aams": "31372.32347",
+		"betradar": "29209016",
+		"starttime": "1631617200",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Repubblica Ceca",
+		"lid": "204447",
+		"e1": "Pieri, Jessica",
+		"e1id": "62123",
+		"e2": "Salden, Lara",
+		"e2id": "56855",
+		"12": {
+			"one": 1.45,
+			"two": 2.37
+		}
+	},
+	{
+		"matchid": "5743537",
+		"status": 1,
+		"aams": "31372.35871",
+		"betradar": "29209098",
+		"starttime": "1631622600",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Repubblica Ceca Doppi",
+		"lid": "691168",
+		"e1": "Jani R l / Strakhova V",
+		"e1id": "913015",
+		"e2": "Colmegna M / Delai M",
+		"e2id": "762076",
+		"12": {
+			"one": 1.23,
+			"two": 3.38
+		}
+	},
+	{
+		"matchid": "5743658",
+		"status": 1,
+		"aams": "31372.36513",
+		"betradar": "29209072",
+		"starttime": "1631617200",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Repubblica Ceca Doppi",
+		"lid": "691168",
+		"e1": "Hindova D / Markova J",
+		"e1id": "168182",
+		"e2": "Kolodziejova M / Maleckova J",
+		"e2id": "256589",
+		"12": {
+			"one": 3.38,
+			"two": 1.23
+		}
+	},
+	{
+		"matchid": "5743800",
+		"status": 1,
+		"aams": "31372.36758",
+		"betradar": "29209076",
+		"starttime": "1631622600",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Repubblica Ceca Doppi",
+		"lid": "691168",
+		"e1": "Kubanova K / Tomanova N",
+		"e1id": "529993",
+		"e2": "Bozovic A / Osborne A",
+		"e2id": "907521",
+		"12": {
+			"one": 1.42,
+			"two": 2.48
+		}
+	},
+	{
+		"matchid": "5743936",
+		"status": 1,
+		"aams": "31372.37510",
+		"betradar": "29209120",
+		"starttime": "1631622600",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Repubblica Ceca Doppi",
+		"lid": "691168",
+		"e1": "Kawamura M / Kozaki F",
+		"e1id": "655412",
+		"e2": "Nova A / Pospisilova D",
+		"e2id": "913024",
+		"12": {
+			"one": 1.06,
+			"two": 6.15
+		}
+	},
+	{
+		"matchid": "5743470",
+		"status": 1,
+		"aams": "31372.6529",
+		"betradar": "29189214",
+		"starttime": "1631554200",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Colombia Qualificazioni",
+		"lid": "5688434",
+		"e1": "Echavarria Laverde, Crissdaihanna",
+		"e1id": "579962",
+		"e2": "Manrique, Maraia Paula",
+		"e2id": "686525",
+		"12": {
+			"one": 1.21,
+			"two": 3.51
+		}
+	},
+	{
+		"matchid": "5743471",
+		"status": 1,
+		"aams": "31372.35411",
+		"betradar": "29189276",
+		"starttime": "1631554200",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Colombia Qualificazioni",
+		"lid": "5688434",
+		"e1": "Arciniegas Patino, Laura Daniela",
+		"e1id": "913011",
+		"e2": "Cardenas Galvis, Sofia",
+		"e2id": "629103",
+		"12": {
+			"one": 1.5,
+			"two": 2.26
+		}
+	},
+	{
+		"matchid": "5743472",
+		"status": 1,
+		"aams": "31372.35412",
+		"betradar": "29189306",
+		"starttime": "1631554200",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Colombia Qualificazioni",
+		"lid": "5688434",
+		"e1": "Macias, Gabriela",
+		"e1id": "361141",
+		"e2": "Astete, Fernanda",
+		"e2id": "903474",
+		"12": {
+			"one": 3.44,
+			"two": 1.22
+		}
+	},
+	{
+		"matchid": "5743473",
+		"status": 1,
+		"aams": "31372.35413",
+		"betradar": "29189180",
+		"starttime": "1631554200",
+		"country": "ITF Femminile",
+		"countryid": "23656",
+		"liga": "Colombia Qualificazioni",
+		"lid": "5688434",
+		"e1": "Rodas Carcamo, Valentina",
+		"e1id": "913012",
+		"e2": "Vargas Carrascal, Mariana",
+		"e2id": "123090",
+		"12": {
+			"one": 1.09,
+			"two": 5.15
+		}
+	}
+]

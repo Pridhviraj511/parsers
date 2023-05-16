@@ -1,0 +1,8936 @@
+[
+	{
+		"id": "TNS",
+		"name": "TENNIS",
+		"competitions": [
+			{
+				"id": 43608,
+				"name": "CH. DI BAHREIN",
+				"sportName": "TENNIS",
+				"sportId": "TNS",
+				"countryName": "Challenger",
+				"countryId": 15090,
+				"events": [
+					{
+						"id": 9647479,
+						"name": "BORGES, NUNO - ILKEL, CEM",
+						"startDate": "2021-11-24T10:50:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 22.5",
+								"selections": [
+									{
+										"id": 1929806640,
+										"name": "UNDER",
+										"price": "1.77"
+									},
+									{
+										"id": 1929806643,
+										"name": "OVER",
+										"price": "1.87"
+									}
+								],
+								"hv": 22.5
+							}
+						],
+						"betradarId": "30631521"
+					},
+					{
+						"id": 9641312,
+						"name": "BLANCANEAUX, GEOFFREY - PENISTON, RYAN",
+						"startDate": "2021-11-24T11:40:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1927983316,
+										"name": "UNDER",
+										"price": "1.92"
+									},
+									{
+										"id": 1927983317,
+										"name": "OVER",
+										"price": "1.73"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30618149"
+					},
+					{
+						"id": 9647483,
+						"name": "LAZAROV, ALEXANDAR - FATIC, NERMAN",
+						"startDate": "2021-11-25T07:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1929807220,
+										"name": "UNDER",
+										"price": "1.93"
+									},
+									{
+										"id": 1929807221,
+										"name": "OVER",
+										"price": "1.72"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30634013"
+					},
+					{
+						"id": 9647485,
+						"name": "AJDUKOVIC, DUJE - RAMANATHAN, RAMKUMAR",
+						"startDate": "2021-11-25T07:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1929807200,
+										"name": "UNDER",
+										"price": "1.93"
+									},
+									{
+										"id": 1929807201,
+										"name": "OVER",
+										"price": "1.72"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30633921"
+					},
+					{
+						"id": 9647486,
+						"name": "OLIVEIRA, GONCALO - ESCOFFIER, ANTOINE",
+						"startDate": "2021-11-25T07:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1929806928,
+										"name": "UNDER",
+										"price": "1.89"
+									},
+									{
+										"id": 1929806929,
+										"name": "OVER",
+										"price": "1.75"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30632693"
+					},
+					{
+						"id": 9647482,
+						"name": "VIOLA, MATTEO - CLARKE, JAY",
+						"startDate": "2021-11-25T07:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 22.5",
+								"selections": [
+									{
+										"id": 1929806931,
+										"name": "UNDER",
+										"price": "1.72"
+									},
+									{
+										"id": 1929806933,
+										"name": "OVER",
+										"price": "1.93"
+									}
+								],
+								"hv": 22.5
+							}
+						],
+						"betradarId": "30629015"
+					}
+				]
+			},
+			{
+				"id": 21234,
+				"name": "CH. DI BRASILE",
+				"sportName": "TENNIS",
+				"sportId": "TNS",
+				"countryName": "Challenger",
+				"countryId": 15090,
+				"events": [
+					{
+						"id": 9649253,
+						"name": "CASANOVA, HERNAN - DELLIEN, HUGO",
+						"startDate": "2021-11-24T13:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 19.5",
+								"selections": [
+									{
+										"id": 1930302201,
+										"name": "UNDER",
+										"price": "1.89"
+									},
+									{
+										"id": 1930302202,
+										"name": "OVER",
+										"price": "1.75"
+									}
+								],
+								"hv": 19.5
+							}
+						],
+						"betradarId": "30639163"
+					},
+					{
+						"id": 9648000,
+						"name": "CACHIN, PEDRO - SOARES KLIER JUNIOR, GILBERT",
+						"startDate": "2021-11-24T13:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 20.5",
+								"selections": [
+									{
+										"id": 1929939558,
+										"name": "UNDER",
+										"price": "1.89"
+									},
+									{
+										"id": 1929939560,
+										"name": "OVER",
+										"price": "1.75"
+									}
+								],
+								"hv": 20.5
+							}
+						],
+						"betradarId": "30635703"
+					},
+					{
+						"id": 9648983,
+						"name": "CERUNDOLO, FRANCISCO - OLIVIERI, GENARO ALBERTO",
+						"startDate": "2021-11-24T13:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 19.5",
+								"selections": [
+									{
+										"id": 1930256666,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1930256668,
+										"name": "OVER",
+										"price": "1.81"
+									}
+								],
+								"hv": 19.5
+							}
+						],
+						"betradarId": "30638817"
+					},
+					{
+						"id": 9648984,
+						"name": "MELIGENI RODRIGUES ALVES, FELIPE - LONDERO, JUAN IGNACIO",
+						"startDate": "2021-11-24T15:10:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1930256836,
+										"name": "UNDER",
+										"price": "1.88"
+									},
+									{
+										"id": 1930256837,
+										"name": "OVER",
+										"price": "1.76"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30637629"
+					},
+					{
+						"id": 9647475,
+						"name": "CORIA, FEDERICO - LEITE, WILSON",
+						"startDate": "2021-11-24T16:30:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 18.5",
+								"selections": [
+									{
+										"id": 1929806224,
+										"name": "UNDER",
+										"price": "1.84"
+									},
+									{
+										"id": 1929806225,
+										"name": "OVER",
+										"price": "1.79"
+									}
+								],
+								"hv": 18.5
+							}
+						],
+						"betradarId": "30634011"
+					},
+					{
+						"id": 9647999,
+						"name": "RODRIGUEZ TAVERNA, SANTIAGO FA - MUNAR, JAUME",
+						"startDate": "2021-11-25T13:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 20.5",
+								"selections": [
+									{
+										"id": 1929939540,
+										"name": "UNDER",
+										"price": "1.82"
+									},
+									{
+										"id": 1929939542,
+										"name": "OVER",
+										"price": "1.81"
+									}
+								],
+								"hv": 20.5
+							}
+						],
+						"betradarId": "30635687"
+					},
+					{
+						"id": 9648982,
+						"name": "KICKER, NICOLAS - FICOVICH, JUAN PABLO",
+						"startDate": "2021-11-24T14:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1930256834,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1930256835,
+										"name": "OVER",
+										"price": "1.77"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30637609"
+					}
+				]
+			},
+			{
+				"id": 19159,
+				"name": "CH. DI ITALIA",
+				"sportName": "TENNIS",
+				"sportId": "TNS",
+				"countryName": "Challenger",
+				"countryId": 15090,
+				"events": [
+					{
+						"id": 9638544,
+						"name": "MASUR, DANIEL - ANDALORO, FABRIZIO",
+						"startDate": "2021-11-24T10:45:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 18.5",
+								"selections": [
+									{
+										"id": 1926613711,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1926613713,
+										"name": "OVER",
+										"price": "1.84"
+									}
+								],
+								"hv": 18.5
+							}
+						],
+						"betradarId": "30614901"
+					},
+					{
+						"id": 9647472,
+						"name": "COBOLLI, FLAVIO - KAMKE, TOBIAS",
+						"startDate": "2021-11-24T11:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1929803568,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1929803569,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30633619"
+					},
+					{
+						"id": 9641311,
+						"name": "DRAPER, JACK - FABBIANO, THOMAS",
+						"startDate": "2021-11-24T11:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1927983246,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1927983247,
+										"name": "OVER",
+										"price": "1.77"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30617055"
+					},
+					{
+						"id": 9647474,
+						"name": "TABERNER, CARLOS - BRANCACCIO, RAUL",
+						"startDate": "2021-11-24T11:50:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1929803675,
+										"name": "UNDER",
+										"price": "1.75"
+									},
+									{
+										"id": 1929803676,
+										"name": "OVER",
+										"price": "1.90"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30629979"
+					},
+					{
+						"id": 9650269,
+						"name": "NARDI, LUCA - CRESSY, MAXIME",
+						"startDate": "2021-11-24T12:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 22.5",
+								"selections": [
+									{
+										"id": 1930620575,
+										"name": "UNDER",
+										"price": "1.76"
+									},
+									{
+										"id": 1930620576,
+										"name": "OVER",
+										"price": "1.88"
+									}
+								],
+								"hv": 22.5
+							}
+						],
+						"betradarId": "30574675"
+					},
+					{
+						"id": 9647470,
+						"name": "OTTE, OSCAR - FANSELOW, SEBASTIAN",
+						"startDate": "2021-11-24T13:10:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 19.5",
+								"selections": [
+									{
+										"id": 1929803789,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1929803792,
+										"name": "OVER",
+										"price": "1.77"
+									}
+								],
+								"hv": 19.5
+							}
+						],
+						"betradarId": "30632125"
+					},
+					{
+						"id": 9647471,
+						"name": "VAVASSORI, ANDREA - PELLEGRINO, ANDREA",
+						"startDate": "2021-11-25T09:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1929803472,
+										"name": "UNDER",
+										"price": "1.94"
+									},
+									{
+										"id": 1929803474,
+										"name": "OVER",
+										"price": "1.71"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30633491"
+					}
+				]
+			},
+			{
+				"id": 16612,
+				"name": "CH. DI MESSICO",
+				"sportName": "TENNIS",
+				"sportId": "TNS",
+				"countryName": "Challenger",
+				"countryId": 15090,
+				"events": [
+					{
+						"id": 9650002,
+						"name": "MMOH, MICHAEL - SHANG, JUNCHENG",
+						"startDate": "2021-11-24T21:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1930435484,
+										"name": "UNDER",
+										"price": "1.86"
+									},
+									{
+										"id": 1930435485,
+										"name": "OVER",
+										"price": "1.78"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30640129"
+					},
+					{
+						"id": 9647489,
+						"name": "UCHIDA, KAICHI - GALARNEAU, ALEXIS",
+						"startDate": "2021-11-24T21:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1929807448,
+										"name": "UNDER",
+										"price": "1.89"
+									},
+									{
+										"id": 1929807451,
+										"name": "OVER",
+										"price": "1.75"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30621851"
+					},
+					{
+						"id": 9650176,
+						"name": "HERNANDEZ, ALEX - TATSUMA, ITO",
+						"startDate": "2021-11-24T22:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 21.5",
+								"selections": [
+									{
+										"id": 1930544356,
+										"name": "UNDER",
+										"price": "1.89"
+									},
+									{
+										"id": 1930544357,
+										"name": "OVER",
+										"price": "1.75"
+									}
+								],
+								"hv": 21.5
+							}
+						],
+						"betradarId": "30640689"
+					},
+					{
+						"id": 9647488,
+						"name": "TABILO, ALEJANDRO - YOUNG, DONALD",
+						"startDate": "2021-11-25T03:00:00.000Z",
+						"markets": [
+							{
+								"id": "1700601811",
+								"name": "u/o game 18.5",
+								"selections": [
+									{
+										"id": 1929807363,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1929807364,
+										"name": "OVER",
+										"price": "1.77"
+									}
+								],
+								"hv": 18.5
+							}
+						],
+						"betradarId": "30623315"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "BKB",
+		"name": "BASKET",
+		"competitions": [
+			{
+				"id": 24859,
+				"name": "QUALIFICAZIONI MONDIALI",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Mondo",
+				"countryId": 17113,
+				"events": [
+					{
+						"id": 9618270,
+						"name": "SLOVACCHIA - BELGIO",
+						"startDate": "2021-11-25T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -7.5",
+								"selections": [
+									{
+										"id": 1920281583,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920281585,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -7.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -8.5",
+								"selections": [
+									{
+										"id": 1920281569,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920281573,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -8.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -9.5",
+								"selections": [
+									{
+										"id": 1920281600,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920281602,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -9.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -10.5",
+								"selections": [
+									{
+										"id": 1920281618,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920281619,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -10.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -11.5",
+								"selections": [
+									{
+										"id": 1920281635,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920281636,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -11.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -13.5",
+								"selections": [
+									{
+										"id": 1920281683,
+										"name": "1",
+										"price": "1.95"
+									},
+									{
+										"id": 1920281685,
+										"name": "2",
+										"price": "1.72"
+									}
+								],
+								"hv": -13.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -14.5",
+								"selections": [
+									{
+										"id": 1920281654,
+										"name": "1",
+										"price": "1.82"
+									},
+									{
+										"id": 1920281656,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -14.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -15.5",
+								"selections": [
+									{
+										"id": 1920281700,
+										"name": "1",
+										"price": "1.70"
+									},
+									{
+										"id": 1920281703,
+										"name": "2",
+										"price": "2.00"
+									}
+								],
+								"hv": -15.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920281835,
+										"name": "1",
+										"price": "8.50"
+									},
+									{
+										"id": 1920281836,
+										"name": "2",
+										"price": "1.03"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 144.5",
+								"selections": [
+									{
+										"id": 1920281751,
+										"name": "UNDER",
+										"price": "2.00"
+									},
+									{
+										"id": 1920281752,
+										"name": "OVER",
+										"price": "1.68"
+									}
+								],
+								"hv": 144.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 146.5",
+								"selections": [
+									{
+										"id": 1920281734,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1920281736,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 146.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 148.5",
+								"selections": [
+									{
+										"id": 1920281726,
+										"name": "UNDER",
+										"price": "1.67"
+									},
+									{
+										"id": 1920281727,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 148.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 149.5",
+								"selections": [
+									{
+										"id": 1920281679,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920281681,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 149.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 151.5",
+								"selections": [
+									{
+										"id": 1920281709,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920281710,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 151.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 153.5",
+								"selections": [
+									{
+										"id": 1920281693,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920281695,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 153.5
+							}
+						],
+						"betradarId": "29435668"
+					},
+					{
+						"id": 9618271,
+						"name": "SERBIA - LETTONIA",
+						"startDate": "2021-11-25T19:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 10.5",
+								"selections": [
+									{
+										"id": 1920281535,
+										"name": "1",
+										"price": "1.72"
+									},
+									{
+										"id": 1920281537,
+										"name": "2",
+										"price": "1.95"
+									}
+								],
+								"hv": 10.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 11.5",
+								"selections": [
+									{
+										"id": 1920281496,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1920281497,
+										"name": "2",
+										"price": "1.82"
+									}
+								],
+								"hv": 11.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 12.5",
+								"selections": [
+									{
+										"id": 1920281508,
+										"name": "1",
+										"price": "2.00"
+									},
+									{
+										"id": 1920281509,
+										"name": "2",
+										"price": "1.70"
+									}
+								],
+								"hv": 12.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 13.5",
+								"selections": [
+									{
+										"id": 1920281479,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920281480,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 13.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 14.5",
+								"selections": [
+									{
+										"id": 1920281525,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920281526,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 14.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920281686,
+										"name": "1",
+										"price": "1.09"
+									},
+									{
+										"id": 1920281688,
+										"name": "2",
+										"price": "5.75"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 159.5",
+								"selections": [
+									{
+										"id": 1920282218,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1920282219,
+										"name": "OVER",
+										"price": "1.67"
+									}
+								],
+								"hv": 159.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 160.5",
+								"selections": [
+									{
+										"id": 1920282179,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920282182,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 160.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 161.5",
+								"selections": [
+									{
+										"id": 1920282209,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1920282212,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 161.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 162.5",
+								"selections": [
+									{
+										"id": 1920282168,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920282171,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 162.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 163.5",
+								"selections": [
+									{
+										"id": 1920281927,
+										"name": "UNDER",
+										"price": "1.68"
+									},
+									{
+										"id": 1920281929,
+										"name": "OVER",
+										"price": "2.00"
+									}
+								],
+								"hv": 163.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 164.5",
+								"selections": [
+									{
+										"id": 1920282199,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920282200,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 164.5
+							}
+						],
+						"betradarId": "29435670"
+					}
+				]
+			},
+			{
+				"id": 20972,
+				"name": "EUROLEGA",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Europa",
+				"countryId": 15582,
+				"events": [
+					{
+						"id": 9575773,
+						"name": "CSKA MOSCA - BAYERN MONACO",
+						"startDate": "2021-11-25T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 6.5",
+								"selections": [
+									{
+										"id": 1908186823,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1908186824,
+										"name": "2",
+										"price": "2.05"
+									}
+								],
+								"hv": 6.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 7.5",
+								"selections": [
+									{
+										"id": 1908186809,
+										"name": "1",
+										"price": "1.87"
+									},
+									{
+										"id": 1908186817,
+										"name": "2",
+										"price": "1.90"
+									}
+								],
+								"hv": 7.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 8.5",
+								"selections": [
+									{
+										"id": 1908186785,
+										"name": "1",
+										"price": "2.00"
+									},
+									{
+										"id": 1908186786,
+										"name": "2",
+										"price": "1.77"
+									}
+								],
+								"hv": 8.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1908186678,
+										"name": "1",
+										"price": "1.25"
+									},
+									{
+										"id": 1908186679,
+										"name": "2",
+										"price": "3.75"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 154.5",
+								"selections": [
+									{
+										"id": 1908186841,
+										"name": "UNDER",
+										"price": "2.00"
+									},
+									{
+										"id": 1908186843,
+										"name": "OVER",
+										"price": "1.70"
+									}
+								],
+								"hv": 154.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 156.5",
+								"selections": [
+									{
+										"id": 1908186594,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1908186595,
+										"name": "OVER",
+										"price": "1.87"
+									}
+								],
+								"hv": 156.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 158.5",
+								"selections": [
+									{
+										"id": 1908186598,
+										"name": "UNDER",
+										"price": "1.65"
+									},
+									{
+										"id": 1908186599,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 158.5
+							}
+						],
+						"betradarId": "28158424"
+					},
+					{
+						"id": 9575953,
+						"name": "FENERBAHCE - ANADOLU EFES",
+						"startDate": "2021-11-25T17:45:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -2.5",
+								"selections": [
+									{
+										"id": 1908297633,
+										"name": "1",
+										"price": "2.05"
+									},
+									{
+										"id": 1908297634,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1908297641,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1908297642,
+										"name": "2",
+										"price": "1.87"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -4.5",
+								"selections": [
+									{
+										"id": 1908297628,
+										"name": "1",
+										"price": "1.77"
+									},
+									{
+										"id": 1908297630,
+										"name": "2",
+										"price": "2.00"
+									}
+								],
+								"hv": -4.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1908297506,
+										"name": "1",
+										"price": "2.45"
+									},
+									{
+										"id": 1908297509,
+										"name": "2",
+										"price": "1.52"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 152.5",
+								"selections": [
+									{
+										"id": 1908297677,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1908297678,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 152.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 153.5",
+								"selections": [
+									{
+										"id": 1908297460,
+										"name": "UNDER",
+										"price": "2.00"
+									},
+									{
+										"id": 1908297462,
+										"name": "OVER",
+										"price": "1.70"
+									}
+								],
+								"hv": 153.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 154.5",
+								"selections": [
+									{
+										"id": 1908297446,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1908297447,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 154.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 155.5",
+								"selections": [
+									{
+										"id": 1908297473,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1908297485,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 155.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 156.5",
+								"selections": [
+									{
+										"id": 1908297450,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1908297451,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 156.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 157.5",
+								"selections": [
+									{
+										"id": 1908297491,
+										"name": "UNDER",
+										"price": "1.65"
+									},
+									{
+										"id": 1908297499,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 157.5
+							}
+						],
+						"betradarId": "28158426"
+					},
+					{
+						"id": 9577163,
+						"name": "PANATHINAIKOS - ZENIT SAN PIETROBURGO",
+						"startDate": "2021-11-25T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -2.5",
+								"selections": [
+									{
+										"id": 1908497711,
+										"name": "1",
+										"price": "2.00"
+									},
+									{
+										"id": 1908497712,
+										"name": "2",
+										"price": "1.78"
+									}
+								],
+								"hv": -2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1908497705,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1908497706,
+										"name": "2",
+										"price": "1.90"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -4.5",
+								"selections": [
+									{
+										"id": 1908497691,
+										"name": "1",
+										"price": "1.73"
+									},
+									{
+										"id": 1908497692,
+										"name": "2",
+										"price": "2.05"
+									}
+								],
+								"hv": -4.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -5.5",
+								"selections": [
+									{
+										"id": 1908497696,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1908497698,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -5.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1908497915,
+										"name": "1",
+										"price": "2.40"
+									},
+									{
+										"id": 1908497916,
+										"name": "2",
+										"price": "1.55"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 148.5",
+								"selections": [
+									{
+										"id": 1908497812,
+										"name": "UNDER",
+										"price": "1.98"
+									},
+									{
+										"id": 1908497814,
+										"name": "OVER",
+										"price": "1.70"
+									}
+								],
+								"hv": 148.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 150.5",
+								"selections": [
+									{
+										"id": 1908497780,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1908497781,
+										"name": "OVER",
+										"price": "1.88"
+									}
+								],
+								"hv": 150.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 152.5",
+								"selections": [
+									{
+										"id": 1908497797,
+										"name": "UNDER",
+										"price": "1.65"
+									},
+									{
+										"id": 1908497800,
+										"name": "OVER",
+										"price": "2.10"
+									}
+								],
+								"hv": 152.5
+							}
+						],
+						"betradarId": "28158428"
+					},
+					{
+						"id": 9577184,
+						"name": "BASKONIA VITORIA - REAL MADRID",
+						"startDate": "2021-11-25T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -4.5",
+								"selections": [
+									{
+										"id": 1908499648,
+										"name": "1",
+										"price": "2.05"
+									},
+									{
+										"id": 1908499649,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -4.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -5.5",
+								"selections": [
+									{
+										"id": 1908499665,
+										"name": "1",
+										"price": "1.92"
+									},
+									{
+										"id": 1908499666,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -5.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -6.5",
+								"selections": [
+									{
+										"id": 1908499633,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1908499634,
+										"name": "2",
+										"price": "2.05"
+									}
+								],
+								"hv": -6.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1908499845,
+										"name": "1",
+										"price": "2.95"
+									},
+									{
+										"id": 1908499846,
+										"name": "2",
+										"price": "1.38"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 153.5",
+								"selections": [
+									{
+										"id": 1908500018,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1908500020,
+										"name": "OVER",
+										"price": "1.65"
+									}
+								],
+								"hv": 153.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 155.5",
+								"selections": [
+									{
+										"id": 1908500054,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1908500056,
+										"name": "OVER",
+										"price": "1.82"
+									}
+								],
+								"hv": 155.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 157.5",
+								"selections": [
+									{
+										"id": 1908500067,
+										"name": "UNDER",
+										"price": "1.70"
+									},
+									{
+										"id": 1908500070,
+										"name": "OVER",
+										"price": "2.00"
+									}
+								],
+								"hv": 157.5
+							}
+						],
+						"betradarId": "28158432"
+					},
+					{
+						"id": 9577186,
+						"name": "ALBA BERLINO - MACCABI TEL AVIV",
+						"startDate": "2021-11-25T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1908499780,
+										"name": "1",
+										"price": "2.05"
+									},
+									{
+										"id": 1908499782,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -4.5",
+								"selections": [
+									{
+										"id": 1908499741,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1908499742,
+										"name": "2",
+										"price": "1.88"
+									}
+								],
+								"hv": -4.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -5.5",
+								"selections": [
+									{
+										"id": 1908499758,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1908499768,
+										"name": "2",
+										"price": "2.05"
+									}
+								],
+								"hv": -5.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1908499581,
+										"name": "1",
+										"price": "2.70"
+									},
+									{
+										"id": 1908499582,
+										"name": "2",
+										"price": "1.45"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 156.5",
+								"selections": [
+									{
+										"id": 1908499811,
+										"name": "UNDER",
+										"price": "2.00"
+									},
+									{
+										"id": 1908499813,
+										"name": "OVER",
+										"price": "1.68"
+									}
+								],
+								"hv": 156.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 158.5",
+								"selections": [
+									{
+										"id": 1908499520,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1908499524,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 158.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 160.5",
+								"selections": [
+									{
+										"id": 1908499554,
+										"name": "UNDER",
+										"price": "1.67"
+									},
+									{
+										"id": 1908499557,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 160.5
+							}
+						],
+						"betradarId": "28158430"
+					},
+					{
+						"id": 9582503,
+						"name": "KK CRVENA ZVEZDA BELGRADE - BC UNIKS KAZAN",
+						"startDate": "2021-11-26T18:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 0.5",
+								"selections": [
+									{
+										"id": 1910118919,
+										"name": "1",
+										"price": "1.72"
+									},
+									{
+										"id": 1910118920,
+										"name": "2",
+										"price": "2.10"
+									}
+								],
+								"hv": 0.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 1.5",
+								"selections": [
+									{
+										"id": 1910118906,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1910118909,
+										"name": "2",
+										"price": "1.92"
+									}
+								],
+								"hv": 1.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 2.5",
+								"selections": [
+									{
+										"id": 1910118929,
+										"name": "1",
+										"price": "2.00"
+									},
+									{
+										"id": 1910118930,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": 2.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1910118106,
+										"name": "1",
+										"price": "1.72"
+									},
+									{
+										"id": 1910118108,
+										"name": "2",
+										"price": "2.05"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 140.5",
+								"selections": [
+									{
+										"id": 1910118945,
+										"name": "UNDER",
+										"price": "2.00"
+									},
+									{
+										"id": 1910118946,
+										"name": "OVER",
+										"price": "1.68"
+									}
+								],
+								"hv": 140.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 142.5",
+								"selections": [
+									{
+										"id": 1910118925,
+										"name": "UNDER",
+										"price": "1.82"
+									},
+									{
+										"id": 1910118926,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 142.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 144.5",
+								"selections": [
+									{
+										"id": 1910118935,
+										"name": "UNDER",
+										"price": "1.67"
+									},
+									{
+										"id": 1910118936,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 144.5
+							}
+						],
+						"betradarId": "28158434"
+					},
+					{
+						"id": 9582830,
+						"name": "AS MONACO - ASVEL LYON VILLEURBANNE",
+						"startDate": "2021-11-26T19:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 4.5",
+								"selections": [
+									{
+										"id": 1910212926,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1910212928,
+										"name": "2",
+										"price": "2.05"
+									}
+								],
+								"hv": 4.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 5.5",
+								"selections": [
+									{
+										"id": 1910212903,
+										"name": "1",
+										"price": "1.83"
+									},
+									{
+										"id": 1910212904,
+										"name": "2",
+										"price": "1.95"
+									}
+								],
+								"hv": 5.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 6.5",
+								"selections": [
+									{
+										"id": 1910212951,
+										"name": "1",
+										"price": "2.00"
+									},
+									{
+										"id": 1910212953,
+										"name": "2",
+										"price": "1.77"
+									}
+								],
+								"hv": 6.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 7.5",
+								"selections": [
+									{
+										"id": 1910212977,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1910212978,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 7.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1910213208,
+										"name": "1",
+										"price": "1.37"
+									},
+									{
+										"id": 1910213211,
+										"name": "2",
+										"price": "3.00"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 157.5",
+								"selections": [
+									{
+										"id": 1910217758,
+										"name": "UNDER",
+										"price": "2.00"
+									},
+									{
+										"id": 1910217759,
+										"name": "OVER",
+										"price": "1.68"
+									}
+								],
+								"hv": 157.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 159.5",
+								"selections": [
+									{
+										"id": 1910217782,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1910217785,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 159.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 161.5",
+								"selections": [
+									{
+										"id": 1910217736,
+										"name": "UNDER",
+										"price": "1.67"
+									},
+									{
+										"id": 1910217737,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 161.5
+							}
+						],
+						"betradarId": "28158436"
+					},
+					{
+						"id": 9583001,
+						"name": "OLIMPIA MILANO - OLYMPIACOS",
+						"startDate": "2021-11-26T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 3.5",
+								"selections": [
+									{
+										"id": 1910271951,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1910271954,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 4.5",
+								"selections": [
+									{
+										"id": 1910271989,
+										"name": "1",
+										"price": "1.82"
+									},
+									{
+										"id": 1910271990,
+										"name": "2",
+										"price": "1.95"
+									}
+								],
+								"hv": 4.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 5.5",
+								"selections": [
+									{
+										"id": 1910271969,
+										"name": "1",
+										"price": "1.92"
+									},
+									{
+										"id": 1910271972,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 5.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 6.5",
+								"selections": [
+									{
+										"id": 1910272001,
+										"name": "1",
+										"price": "2.15"
+									},
+									{
+										"id": 1910272002,
+										"name": "2",
+										"price": "1.70"
+									}
+								],
+								"hv": 6.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1910271418,
+										"name": "1",
+										"price": "1.40"
+									},
+									{
+										"id": 1910271420,
+										"name": "2",
+										"price": "2.80"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 150.5",
+								"selections": [
+									{
+										"id": 1910272067,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1910272069,
+										"name": "OVER",
+										"price": "1.67"
+									}
+								],
+								"hv": 150.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 152.5",
+								"selections": [
+									{
+										"id": 1910272083,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1910272084,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 152.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 154.5",
+								"selections": [
+									{
+										"id": 1910272097,
+										"name": "UNDER",
+										"price": "1.68"
+									},
+									{
+										"id": 1910272098,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 154.5
+							}
+						],
+						"betradarId": "28158438"
+					},
+					{
+						"id": 9583343,
+						"name": "BARCELLONA - ZALGIRIS KAUNAS",
+						"startDate": "2021-11-26T20:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 11.5",
+								"selections": [
+									{
+										"id": 1910345089,
+										"name": "1",
+										"price": "1.72"
+									},
+									{
+										"id": 1910345090,
+										"name": "2",
+										"price": "2.10"
+									}
+								],
+								"hv": 11.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 12.5",
+								"selections": [
+									{
+										"id": 1910345125,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1910345126,
+										"name": "2",
+										"price": "1.95"
+									}
+								],
+								"hv": 12.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 13.5",
+								"selections": [
+									{
+										"id": 1910345111,
+										"name": "1",
+										"price": "1.98"
+									},
+									{
+										"id": 1910345115,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": 13.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1910344914,
+										"name": "1",
+										"price": "1.07"
+									},
+									{
+										"id": 1910344916,
+										"name": "2",
+										"price": "7.50"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 146.5",
+								"selections": [
+									{
+										"id": 1910344836,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1910344838,
+										"name": "OVER",
+										"price": "1.67"
+									}
+								],
+								"hv": 146.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 148.5",
+								"selections": [
+									{
+										"id": 1910344853,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1910344854,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 148.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 150.5",
+								"selections": [
+									{
+										"id": 1910345178,
+										"name": "UNDER",
+										"price": "1.68"
+									},
+									{
+										"id": 1910345179,
+										"name": "OVER",
+										"price": "2.00"
+									}
+								],
+								"hv": 150.5
+							}
+						],
+						"betradarId": "28158440"
+					},
+					{
+						"id": 9355800,
+						"name": "ZENIT SAN PIETROBURG - MACCABI TEL AVIV (REG. SEASON 2021/2022)",
+						"startDate": "2022-04-07T18:00:00.000Z",
+						"markets": [
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1842189947,
+										"name": "1",
+										"price": "1.72"
+									},
+									{
+										"id": 1842189948,
+										"name": "2",
+										"price": "2.00"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": 17977,
+				"name": "EUROCUP FEMM.",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Europa",
+				"countryId": 15582,
+				"events": [
+					{
+						"id": 9617902,
+						"name": "NESIBE AYDIN - ELIZUR RAMLA",
+						"startDate": "2021-11-24T13:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 11.5",
+								"selections": [
+									{
+										"id": 1920257576,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1920257577,
+										"name": "2",
+										"price": "1.78"
+									}
+								],
+								"hv": 11.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920257780,
+										"name": "1",
+										"price": "1.09"
+									},
+									{
+										"id": 1920257782,
+										"name": "2",
+										"price": "5.75"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 146.5",
+								"selections": [
+									{
+										"id": 1920257950,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1920257952,
+										"name": "OVER",
+										"price": "1.87"
+									}
+								],
+								"hv": 146.5
+							}
+						],
+						"betradarId": "29281728"
+					},
+					{
+						"id": 9617905,
+						"name": "ELAZIG IL OZEL IDARE - SEPSI SIC",
+						"startDate": "2021-11-24T15:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -2.5",
+								"selections": [
+									{
+										"id": 1920258095,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920258096,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1920258112,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920258114,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -4.5",
+								"selections": [
+									{
+										"id": 1920258130,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920258131,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -4.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -5.5",
+								"selections": [
+									{
+										"id": 1920258151,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1920258152,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -5.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920257933,
+										"name": "1",
+										"price": "2.80"
+									},
+									{
+										"id": 1920257934,
+										"name": "2",
+										"price": "1.37"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 144.5",
+								"selections": [
+									{
+										"id": 1920258171,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1920258173,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 144.5
+							}
+						],
+						"betradarId": "29609586"
+					},
+					{
+						"id": 9617912,
+						"name": "MBK RU?OMBEROK F. - ASVEL FEMININ",
+						"startDate": "2021-11-24T16:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -17.5",
+								"selections": [
+									{
+										"id": 1920257973,
+										"name": "1",
+										"price": "1.82"
+									},
+									{
+										"id": 1920257978,
+										"name": "2",
+										"price": "1.82"
+									}
+								],
+								"hv": -17.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 135.5",
+								"selections": [
+									{
+										"id": 1920258347,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1920258353,
+										"name": "OVER",
+										"price": "1.88"
+									}
+								],
+								"hv": 135.5
+							}
+						],
+						"betradarId": "29282270"
+					},
+					{
+						"id": 9617918,
+						"name": "ZABINY BRNO - LONDON LIONS",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 6.5",
+								"selections": [
+									{
+										"id": 1920258730,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1920258733,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": 6.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 8.5",
+								"selections": [
+									{
+										"id": 1920258714,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920258715,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 8.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920258348,
+										"name": "1",
+										"price": "1.30"
+									},
+									{
+										"id": 1920258355,
+										"name": "2",
+										"price": "3.15"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 143.5",
+								"selections": [
+									{
+										"id": 1920258838,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1920258839,
+										"name": "OVER",
+										"price": "1.82"
+									}
+								],
+								"hv": 143.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 144.5",
+								"selections": [
+									{
+										"id": 1920258822,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920258823,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 144.5
+							}
+						],
+						"betradarId": "29610666"
+					},
+					{
+						"id": 9617898,
+						"name": "BC PROMETEY KAMIANSKE - UNI GYOR",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 9.5",
+								"selections": [
+									{
+										"id": 1920257191,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920257193,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 9.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 10.5",
+								"selections": [
+									{
+										"id": 1920257207,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920257208,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 10.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 11.5",
+								"selections": [
+									{
+										"id": 1920257224,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1920257225,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 11.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920257021,
+										"name": "1",
+										"price": "1.08"
+									},
+									{
+										"id": 1920257023,
+										"name": "2",
+										"price": "6.00"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 149.5",
+								"selections": [
+									{
+										"id": 1920258358,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920258360,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 149.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 152.5",
+								"selections": [
+									{
+										"id": 1920258375,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1920258376,
+										"name": "OVER",
+										"price": "1.87"
+									}
+								],
+								"hv": 152.5
+							}
+						],
+						"betradarId": "29281694"
+					},
+					{
+						"id": 9617917,
+						"name": "ROCHE VENDEE BASKET CLUB - GERNIKA KESB",
+						"startDate": "2021-11-24T19:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 1.5",
+								"selections": [
+									{
+										"id": 1920259134,
+										"name": "1",
+										"price": "1.77"
+									},
+									{
+										"id": 1920259137,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 1.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 2.5",
+								"selections": [
+									{
+										"id": 1920259123,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920259125,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 2.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920259385,
+										"name": "1",
+										"price": "1.67"
+									},
+									{
+										"id": 1920259392,
+										"name": "2",
+										"price": "2.05"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 139.5",
+								"selections": [
+									{
+										"id": 1920259251,
+										"name": "UNDER",
+										"price": "1.82"
+									},
+									{
+										"id": 1920259253,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 139.5
+							}
+						],
+						"betradarId": "29281936"
+					},
+					{
+						"id": 9617903,
+						"name": "ZKK STELLA ROSSA - OLYMPIACOS PIREO",
+						"startDate": "2021-11-24T19:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -5.5",
+								"selections": [
+									{
+										"id": 1920258665,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1920258668,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -5.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -6.5",
+								"selections": [
+									{
+										"id": 1920258978,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920258980,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -6.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920258848,
+										"name": "1",
+										"price": "3.05"
+									},
+									{
+										"id": 1920258850,
+										"name": "2",
+										"price": "1.30"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 150.5",
+								"selections": [
+									{
+										"id": 1920259345,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1920259346,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 150.5
+							}
+						],
+						"betradarId": "29281744"
+					},
+					{
+						"id": 9617914,
+						"name": "MOVISTAR ESTUDIANTES - LIEGE PANTHERS",
+						"startDate": "2021-11-24T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 22.5",
+								"selections": [
+									{
+										"id": 1920259412,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920259413,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 22.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 23.5",
+								"selections": [
+									{
+										"id": 1920259427,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1920259428,
+										"name": "2",
+										"price": "1.83"
+									}
+								],
+								"hv": 23.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 130.5",
+								"selections": [
+									{
+										"id": 1920259732,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1920259734,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 130.5
+							}
+						],
+						"betradarId": "29610510"
+					},
+					{
+						"id": 9617911,
+						"name": "CD CLARINOS DE LA LAGUNA - DINAMO SASSARI",
+						"startDate": "2021-11-24T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 11.5",
+								"selections": [
+									{
+										"id": 1920259543,
+										"name": "1",
+										"price": "1.88"
+									},
+									{
+										"id": 1920259544,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": 11.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 12.5",
+								"selections": [
+									{
+										"id": 1920259526,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920259528,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 12.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920259741,
+										"name": "1",
+										"price": "1.10"
+									},
+									{
+										"id": 1920259742,
+										"name": "2",
+										"price": "5.50"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 147.5",
+								"selections": [
+									{
+										"id": 1920259949,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1920259951,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 147.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 148.5",
+								"selections": [
+									{
+										"id": 1920259930,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920259932,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 148.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 149.5",
+								"selections": [
+									{
+										"id": 1920259621,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920259624,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 149.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 150.5",
+								"selections": [
+									{
+										"id": 1920259605,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920259606,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 150.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 151.5",
+								"selections": [
+									{
+										"id": 1920259587,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920259588,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 151.5
+							}
+						],
+						"betradarId": "29609888"
+					}
+				]
+			},
+			{
+				"id": 16911,
+				"name": "EUROLEAGUE FEMM.",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Europa",
+				"countryId": 15582,
+				"events": [
+					{
+						"id": 9570826,
+						"name": "DINAMO KURSK - SCHIO",
+						"startDate": "2021-11-24T15:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 4.5",
+								"selections": [
+									{
+										"id": 1906387230,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906387232,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 4.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 5.5",
+								"selections": [
+									{
+										"id": 1906387249,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906387250,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 5.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 6.5",
+								"selections": [
+									{
+										"id": 1906387266,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1906387268,
+										"name": "2",
+										"price": "1.83"
+									}
+								],
+								"hv": 6.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 7.5",
+								"selections": [
+									{
+										"id": 1906387284,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906387286,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 7.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906387032,
+										"name": "1",
+										"price": "1.28"
+									},
+									{
+										"id": 1906387034,
+										"name": "2",
+										"price": "3.25"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 142.5",
+								"selections": [
+									{
+										"id": 1906387514,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1906387515,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 142.5
+							}
+						],
+						"betradarId": "29434212"
+					},
+					{
+						"id": 9571549,
+						"name": "MBA MOSCA - UMMC EKATERINBURG",
+						"startDate": "2021-11-24T16:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -21.5",
+								"selections": [
+									{
+										"id": 1906541996,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906541999,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -21.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -22.5",
+								"selections": [
+									{
+										"id": 1906542011,
+										"name": "1",
+										"price": "1.77"
+									},
+									{
+										"id": 1906542014,
+										"name": "2",
+										"price": "1.87"
+									}
+								],
+								"hv": -22.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 143.5",
+								"selections": [
+									{
+										"id": 1906542066,
+										"name": "UNDER",
+										"price": "1.88"
+									},
+									{
+										"id": 1906542073,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 143.5
+							}
+						],
+						"betradarId": "29068952"
+					},
+					{
+						"id": 9571672,
+						"name": "RIGA - ZVVZ USK PRAGA",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -13.5",
+								"selections": [
+									{
+										"id": 1906642325,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906642326,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -13.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -14.5",
+								"selections": [
+									{
+										"id": 1906642342,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906642344,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -14.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -15.5",
+								"selections": [
+									{
+										"id": 1906642362,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906642365,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -15.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -16.5",
+								"selections": [
+									{
+										"id": 1906642378,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1906642382,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -16.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906642497,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906642499,
+										"name": "2",
+										"price": ""
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 139.5",
+								"selections": [
+									{
+										"id": 1906642670,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1906642671,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 139.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 140.5",
+								"selections": [
+									{
+										"id": 1906642695,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1906642697,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 140.5
+							}
+						],
+						"betradarId": "29068954"
+					},
+					{
+						"id": 9571673,
+						"name": "GALATASARAY - SOPRON BASKET",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 1.5",
+								"selections": [
+									{
+										"id": 1906642859,
+										"name": "1",
+										"price": "1.87"
+									},
+									{
+										"id": 1906642860,
+										"name": "2",
+										"price": "1.77"
+									}
+								],
+								"hv": 1.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906642698,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1906642699,
+										"name": "2",
+										"price": "1.93"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 135.5",
+								"selections": [
+									{
+										"id": 1906642933,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1906642934,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 135.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 136.5",
+								"selections": [
+									{
+										"id": 1906642584,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1906642585,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 136.5
+							}
+						],
+						"betradarId": "29069354"
+					},
+					{
+						"id": 9571698,
+						"name": "ARKA GDYNIA - FENERBAHCE",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -13.5",
+								"selections": [
+									{
+										"id": 1906643412,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1906643413,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -13.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -14.5",
+								"selections": [
+									{
+										"id": 1906643397,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906643398,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -14.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906643235,
+										"name": "1",
+										"price": "7.50"
+									},
+									{
+										"id": 1906643236,
+										"name": "2",
+										"price": "1.05"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 142.5",
+								"selections": [
+									{
+										"id": 1906643124,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1906643125,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 142.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 143.5",
+								"selections": [
+									{
+										"id": 1906643105,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1906643111,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 143.5
+							}
+						],
+						"betradarId": "29069352"
+					},
+					{
+						"id": 9572279,
+						"name": "UMANA VENEZIA - LATTES MONTPELLIER",
+						"startDate": "2021-11-24T18:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 1.5",
+								"selections": [
+									{
+										"id": 1906748063,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906748066,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 1.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 2.5",
+								"selections": [
+									{
+										"id": 1906748075,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1906748076,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 3.5",
+								"selections": [
+									{
+										"id": 1906748085,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906748086,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 3.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906748223,
+										"name": "1",
+										"price": "1.57"
+									},
+									{
+										"id": 1906748225,
+										"name": "2",
+										"price": "2.20"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 138.5",
+								"selections": [
+									{
+										"id": 1906748125,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1906748126,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 138.5
+							}
+						],
+						"betradarId": "29068956"
+					},
+					{
+						"id": 9572298,
+						"name": "BASKET LANDES - UNI GIRONA CB",
+						"startDate": "2021-11-24T19:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 2.5",
+								"selections": [
+									{
+										"id": 1906769801,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906769802,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 3.5",
+								"selections": [
+									{
+										"id": 1906769835,
+										"name": "1",
+										"price": "1.77"
+									},
+									{
+										"id": 1906769838,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 4.5",
+								"selections": [
+									{
+										"id": 1906769817,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906769818,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 4.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906769628,
+										"name": "1",
+										"price": "1.47"
+									},
+									{
+										"id": 1906769630,
+										"name": "2",
+										"price": "2.45"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 140.5",
+								"selections": [
+									{
+										"id": 1906769879,
+										"name": "UNDER",
+										"price": "1.82"
+									},
+									{
+										"id": 1906769881,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 140.5
+							}
+						],
+						"betradarId": "29069356"
+					},
+					{
+						"id": 9572442,
+						"name": "CB AVENIDA SALAMANCA - KSC SZEKSZARD",
+						"startDate": "2021-11-24T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 17.5",
+								"selections": [
+									{
+										"id": 1906801145,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906801146,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 17.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 18.5",
+								"selections": [
+									{
+										"id": 1906801153,
+										"name": "1",
+										"price": "1.82"
+									},
+									{
+										"id": 1906801154,
+										"name": "2",
+										"price": "1.82"
+									}
+								],
+								"hv": 18.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 138.5",
+								"selections": [
+									{
+										"id": 1906801179,
+										"name": "UNDER",
+										"price": "1.82"
+									},
+									{
+										"id": 1906801180,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 138.5
+							}
+						],
+						"betradarId": "29433452"
+					}
+				]
+			},
+			{
+				"id": 19371,
+				"name": "NBA",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Stati Uniti",
+				"countryId": 15039,
+				"events": [
+					{
+						"id": 9573778,
+						"name": "CLEVELAND CAVALIERS - PHOENIX SUNS",
+						"startDate": "2021-11-25T00:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -5.5",
+								"selections": [
+									{
+										"id": 1907227150,
+										"name": "1",
+										"price": "2.05"
+									},
+									{
+										"id": 1907227154,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -5.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -6.5",
+								"selections": [
+									{
+										"id": 1907227140,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1907227141,
+										"name": "2",
+										"price": "1.87"
+									}
+								],
+								"hv": -6.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -7.5",
+								"selections": [
+									{
+										"id": 1907227162,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1907227164,
+										"name": "2",
+										"price": "2.00"
+									}
+								],
+								"hv": -7.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907227177,
+										"name": "1",
+										"price": "3.15"
+									},
+									{
+										"id": 1907227179,
+										"name": "2",
+										"price": "1.35"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 206.5",
+								"selections": [
+									{
+										"id": 1907227700,
+										"name": "UNDER",
+										"price": "2.10"
+									},
+									{
+										"id": 1907227703,
+										"name": "OVER",
+										"price": "1.65"
+									}
+								],
+								"hv": 206.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 208.5",
+								"selections": [
+									{
+										"id": 1907227682,
+										"name": "UNDER",
+										"price": "1.88"
+									},
+									{
+										"id": 1907227683,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 208.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 210.5",
+								"selections": [
+									{
+										"id": 1907227717,
+										"name": "UNDER",
+										"price": "1.70"
+									},
+									{
+										"id": 1907227719,
+										"name": "OVER",
+										"price": "1.98"
+									}
+								],
+								"hv": 210.5
+							}
+						],
+						"betradarId": "28809726"
+					},
+					{
+						"id": 9573779,
+						"name": "ORLANDO MAGIC - CHARLOTTE HORNETS",
+						"startDate": "2021-11-25T00:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -6.5",
+								"selections": [
+									{
+										"id": 1907225524,
+										"name": "1",
+										"price": "2.10"
+									},
+									{
+										"id": 1907225525,
+										"name": "2",
+										"price": "1.70"
+									}
+								],
+								"hv": -6.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -7.5",
+								"selections": [
+									{
+										"id": 1907225554,
+										"name": "1",
+										"price": "1.95"
+									},
+									{
+										"id": 1907225555,
+										"name": "2",
+										"price": "1.83"
+									}
+								],
+								"hv": -7.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -8.5",
+								"selections": [
+									{
+										"id": 1907225540,
+										"name": "1",
+										"price": "1.82"
+									},
+									{
+										"id": 1907225541,
+										"name": "2",
+										"price": "1.95"
+									}
+								],
+								"hv": -8.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907225610,
+										"name": "1",
+										"price": "3.65"
+									},
+									{
+										"id": 1907225613,
+										"name": "2",
+										"price": "1.27"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 217.5",
+								"selections": [
+									{
+										"id": 1907226010,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1907226011,
+										"name": "OVER",
+										"price": "1.68"
+									}
+								],
+								"hv": 217.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 219.5",
+								"selections": [
+									{
+										"id": 1907225996,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1907225997,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 219.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 221.5",
+								"selections": [
+									{
+										"id": 1907226024,
+										"name": "UNDER",
+										"price": "1.67"
+									},
+									{
+										"id": 1907226025,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 221.5
+							}
+						],
+						"betradarId": "28808314"
+					},
+					{
+						"id": 9573774,
+						"name": "INDIANA PACERS - LA LAKERS",
+						"startDate": "2021-11-25T00:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 0.5",
+								"selections": [
+									{
+										"id": 1907226594,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1907226596,
+										"name": "2",
+										"price": "2.05"
+									}
+								],
+								"hv": 0.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 1.5",
+								"selections": [
+									{
+										"id": 1907226567,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1907226568,
+										"name": "2",
+										"price": "1.90"
+									}
+								],
+								"hv": 1.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 2.5",
+								"selections": [
+									{
+										"id": 1907226581,
+										"name": "1",
+										"price": "2.00"
+									},
+									{
+										"id": 1907226583,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": 2.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907225922,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1907225923,
+										"name": "2",
+										"price": "2.05"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 216.5",
+								"selections": [
+									{
+										"id": 1907226659,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1907226660,
+										"name": "OVER",
+										"price": "1.67"
+									}
+								],
+								"hv": 216.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 217.5",
+								"selections": [
+									{
+										"id": 1907226952,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907226954,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 217.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 218.5",
+								"selections": [
+									{
+										"id": 1907226671,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1907226673,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 218.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 219.5",
+								"selections": [
+									{
+										"id": 1907226940,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907226941,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 219.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 220.5",
+								"selections": [
+									{
+										"id": 1907226972,
+										"name": "UNDER",
+										"price": "1.68"
+									},
+									{
+										"id": 1907226973,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 220.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 221.5",
+								"selections": [
+									{
+										"id": 1907226967,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907226969,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 221.5
+							}
+						],
+						"betradarId": "28809762"
+					},
+					{
+						"id": 9573834,
+						"name": "BOSTON CELTICS - BROOKLYN NETS",
+						"startDate": "2021-11-25T00:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -1.5",
+								"selections": [
+									{
+										"id": 1907252194,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1907252195,
+										"name": "2",
+										"price": "1.90"
+									}
+								],
+								"hv": -1.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -2.5",
+								"selections": [
+									{
+										"id": 1907252176,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1907252177,
+										"name": "2",
+										"price": "2.05"
+									}
+								],
+								"hv": -2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -0.5",
+								"selections": [
+									{
+										"id": 1907252208,
+										"name": "1",
+										"price": "2.00"
+									},
+									{
+										"id": 1907252209,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": -0.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907252111,
+										"name": "1",
+										"price": "2.00"
+									},
+									{
+										"id": 1907252112,
+										"name": "2",
+										"price": "1.78"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 214.5",
+								"selections": [
+									{
+										"id": 1907252641,
+										"name": "UNDER",
+										"price": "2.00"
+									},
+									{
+										"id": 1907252642,
+										"name": "OVER",
+										"price": "1.70"
+									}
+								],
+								"hv": 214.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 216.5",
+								"selections": [
+									{
+										"id": 1907252629,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1907252631,
+										"name": "OVER",
+										"price": "1.87"
+									}
+								],
+								"hv": 216.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 218.5",
+								"selections": [
+									{
+										"id": 1907252662,
+										"name": "UNDER",
+										"price": "1.65"
+									},
+									{
+										"id": 1907252663,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 218.5
+							}
+						],
+						"betradarId": "28808586"
+					},
+					{
+						"id": 9573861,
+						"name": "MEMPHIS GRIZZLIES - TORONTO RAPTORS",
+						"startDate": "2021-11-25T01:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 2.5",
+								"selections": [
+									{
+										"id": 1907282050,
+										"name": "1",
+										"price": "1.73"
+									},
+									{
+										"id": 1907282051,
+										"name": "2",
+										"price": "2.10"
+									}
+								],
+								"hv": 2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 3.5",
+								"selections": [
+									{
+										"id": 1907282023,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1907282024,
+										"name": "2",
+										"price": "1.93"
+									}
+								],
+								"hv": 3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 4.5",
+								"selections": [
+									{
+										"id": 1907282026,
+										"name": "1",
+										"price": "1.97"
+									},
+									{
+										"id": 1907282028,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": 4.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 5.5",
+								"selections": [
+									{
+										"id": 1907282001,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1907282003,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 5.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907281995,
+										"name": "1",
+										"price": "1.53"
+									},
+									{
+										"id": 1907281997,
+										"name": "2",
+										"price": "2.45"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 219.5",
+								"selections": [
+									{
+										"id": 1907282456,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1907282458,
+										"name": "OVER",
+										"price": "1.67"
+									}
+								],
+								"hv": 219.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 220.5",
+								"selections": [
+									{
+										"id": 1907282407,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907282410,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 220.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 221.5",
+								"selections": [
+									{
+										"id": 1907282474,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1907282475,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 221.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 222.5",
+								"selections": [
+									{
+										"id": 1907282423,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907282424,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 222.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 223.5",
+								"selections": [
+									{
+										"id": 1907282440,
+										"name": "UNDER",
+										"price": "1.68"
+									},
+									{
+										"id": 1907282441,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 223.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 224.5",
+								"selections": [
+									{
+										"id": 1907282389,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907282395,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 224.5
+							}
+						],
+						"betradarId": "28808086"
+					},
+					{
+						"id": 9573863,
+						"name": "MINNESOTA TIMBERWOLVES - MIAMI HEAT",
+						"startDate": "2021-11-25T01:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -1.5",
+								"selections": [
+									{
+										"id": 1907283516,
+										"name": "1",
+										"price": "1.98"
+									},
+									{
+										"id": 1907283517,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": -1.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -2.5",
+								"selections": [
+									{
+										"id": 1907283500,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1907283501,
+										"name": "2",
+										"price": "1.93"
+									}
+								],
+								"hv": -2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1907283533,
+										"name": "1",
+										"price": "1.73"
+									},
+									{
+										"id": 1907283534,
+										"name": "2",
+										"price": "2.05"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907283509,
+										"name": "1",
+										"price": "2.10"
+									},
+									{
+										"id": 1907283512,
+										"name": "2",
+										"price": "1.68"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 210.5",
+								"selections": [
+									{
+										"id": 1907283895,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1907283899,
+										"name": "OVER",
+										"price": "1.67"
+									}
+								],
+								"hv": 210.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 212.5",
+								"selections": [
+									{
+										"id": 1907283886,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1907283887,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 212.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 214.5",
+								"selections": [
+									{
+										"id": 1907283862,
+										"name": "UNDER",
+										"price": "1.68"
+									},
+									{
+										"id": 1907283865,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 214.5
+							}
+						],
+						"betradarId": "28808588"
+					},
+					{
+						"id": 9573862,
+						"name": "NEW ORLEANS PELICANS - WASHINGTON WIZARDS",
+						"startDate": "2021-11-25T01:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -2.5",
+								"selections": [
+									{
+										"id": 1907283128,
+										"name": "1",
+										"price": "2.05"
+									},
+									{
+										"id": 1907283135,
+										"name": "2",
+										"price": "1.73"
+									}
+								],
+								"hv": -2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1907283178,
+										"name": "1",
+										"price": "1.93"
+									},
+									{
+										"id": 1907283180,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -4.5",
+								"selections": [
+									{
+										"id": 1907283150,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1907283152,
+										"name": "2",
+										"price": "1.98"
+									}
+								],
+								"hv": -4.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907283196,
+										"name": "1",
+										"price": "2.45"
+									},
+									{
+										"id": 1907283198,
+										"name": "2",
+										"price": "1.53"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 207.5",
+								"selections": [
+									{
+										"id": 1907283600,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1907283604,
+										"name": "OVER",
+										"price": "1.68"
+									}
+								],
+								"hv": 207.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 209.5",
+								"selections": [
+									{
+										"id": 1907283577,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1907283579,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 209.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 211.5",
+								"selections": [
+									{
+										"id": 1907283614,
+										"name": "UNDER",
+										"price": "1.67"
+									},
+									{
+										"id": 1907283615,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 211.5
+							}
+						],
+						"betradarId": "28809336"
+					},
+					{
+						"id": 9573865,
+						"name": "HOUSTON ROCKETS - CHICAGO BULLS",
+						"startDate": "2021-11-25T01:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -7.5",
+								"selections": [
+									{
+										"id": 1907282323,
+										"name": "1",
+										"price": "2.05"
+									},
+									{
+										"id": 1907282324,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -7.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -8.5",
+								"selections": [
+									{
+										"id": 1907282321,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1907282322,
+										"name": "2",
+										"price": "1.88"
+									}
+								],
+								"hv": -8.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -9.5",
+								"selections": [
+									{
+										"id": 1907282319,
+										"name": "1",
+										"price": "1.77"
+									},
+									{
+										"id": 1907282320,
+										"name": "2",
+										"price": "2.00"
+									}
+								],
+								"hv": -9.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907282658,
+										"name": "1",
+										"price": "3.85"
+									},
+									{
+										"id": 1907282659,
+										"name": "2",
+										"price": "1.25"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 209.5",
+								"selections": [
+									{
+										"id": 1907282710,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907282711,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 209.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 210.5",
+								"selections": [
+									{
+										"id": 1907282784,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1907282785,
+										"name": "OVER",
+										"price": "1.65"
+									}
+								],
+								"hv": 210.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 211.5",
+								"selections": [
+									{
+										"id": 1907282735,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907282737,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 211.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 212.5",
+								"selections": [
+									{
+										"id": 1907282765,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1907282767,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 212.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 213.5",
+								"selections": [
+									{
+										"id": 1907282719,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907282721,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 213.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 214.5",
+								"selections": [
+									{
+										"id": 1907282750,
+										"name": "UNDER",
+										"price": "1.70"
+									},
+									{
+										"id": 1907282751,
+										"name": "OVER",
+										"price": "2.00"
+									}
+								],
+								"hv": 214.5
+							}
+						],
+						"betradarId": "28809682"
+					},
+					{
+						"id": 9573864,
+						"name": "MILWAUKEE BUCKS - DETROIT PISTONS",
+						"startDate": "2021-11-25T01:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 12.5",
+								"selections": [
+									{
+										"id": 1907284722,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1907284724,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 12.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 13.5",
+								"selections": [
+									{
+										"id": 1907284678,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1907284679,
+										"name": "2",
+										"price": "1.97"
+									}
+								],
+								"hv": 13.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 14.5",
+								"selections": [
+									{
+										"id": 1907284692,
+										"name": "1",
+										"price": "1.93"
+									},
+									{
+										"id": 1907284693,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 14.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 15.5",
+								"selections": [
+									{
+										"id": 1907284711,
+										"name": "1",
+										"price": "2.05"
+									},
+									{
+										"id": 1907284714,
+										"name": "2",
+										"price": "1.73"
+									}
+								],
+								"hv": 15.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907284705,
+										"name": "1",
+										"price": "1.07"
+									},
+									{
+										"id": 1907284708,
+										"name": "2",
+										"price": "7.50"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 212.5",
+								"selections": [
+									{
+										"id": 1907285091,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1907285092,
+										"name": "OVER",
+										"price": "1.67"
+									}
+								],
+								"hv": 212.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 214.5",
+								"selections": [
+									{
+										"id": 1907285077,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1907285079,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 214.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 216.5",
+								"selections": [
+									{
+										"id": 1907285062,
+										"name": "UNDER",
+										"price": "1.68"
+									},
+									{
+										"id": 1907285063,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 216.5
+							}
+						],
+						"betradarId": "28807740"
+					},
+					{
+						"id": 9573867,
+						"name": "OKLAHOMA CITY THUNDER - UTAH JAZZ",
+						"startDate": "2021-11-25T01:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -11.5",
+								"selections": [
+									{
+										"id": 1907284449,
+										"name": "1",
+										"price": "2.00"
+									},
+									{
+										"id": 1907284450,
+										"name": "2",
+										"price": "1.77"
+									}
+								],
+								"hv": -11.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -12.5",
+								"selections": [
+									{
+										"id": 1907284427,
+										"name": "1",
+										"price": "1.88"
+									},
+									{
+										"id": 1907284432,
+										"name": "2",
+										"price": "1.90"
+									}
+								],
+								"hv": -12.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -13.5",
+								"selections": [
+									{
+										"id": 1907284413,
+										"name": "1",
+										"price": "1.77"
+									},
+									{
+										"id": 1907284414,
+										"name": "2",
+										"price": "2.00"
+									}
+								],
+								"hv": -13.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907284161,
+										"name": "1",
+										"price": "6.00"
+									},
+									{
+										"id": 1907284163,
+										"name": "2",
+										"price": "1.11"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 205.5",
+								"selections": [
+									{
+										"id": 1907284768,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907284770,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 205.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 206.5",
+								"selections": [
+									{
+										"id": 1907284811,
+										"name": "UNDER",
+										"price": "2.00"
+									},
+									{
+										"id": 1907284821,
+										"name": "OVER",
+										"price": "1.68"
+									}
+								],
+								"hv": 206.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 207.5",
+								"selections": [
+									{
+										"id": 1907284791,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907284794,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 207.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 208.5",
+								"selections": [
+									{
+										"id": 1907284805,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1907284806,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 208.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 209.5",
+								"selections": [
+									{
+										"id": 1907284758,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907284760,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 209.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 210.5",
+								"selections": [
+									{
+										"id": 1907284830,
+										"name": "UNDER",
+										"price": "1.67"
+									},
+									{
+										"id": 1907284834,
+										"name": "OVER",
+										"price": "2.05"
+									}
+								],
+								"hv": 210.5
+							}
+						],
+						"betradarId": "28807538"
+					},
+					{
+						"id": 9573897,
+						"name": "SAN ANTONIO SPURS - ATLANTA HAWKS",
+						"startDate": "2021-11-25T01:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1907310852,
+										"name": "1",
+										"price": "2.00"
+									},
+									{
+										"id": 1907310855,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -4.5",
+								"selections": [
+									{
+										"id": 1907310837,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1907310839,
+										"name": "2",
+										"price": "1.92"
+									}
+								],
+								"hv": -4.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -5.5",
+								"selections": [
+									{
+										"id": 1907310833,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1907310834,
+										"name": "2",
+										"price": "2.05"
+									}
+								],
+								"hv": -5.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907310838,
+										"name": "1",
+										"price": "2.50"
+									},
+									{
+										"id": 1907310840,
+										"name": "2",
+										"price": "1.50"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 217.5",
+								"selections": [
+									{
+										"id": 1907311319,
+										"name": "UNDER",
+										"price": "2.05"
+									},
+									{
+										"id": 1907311320,
+										"name": "OVER",
+										"price": "1.65"
+									}
+								],
+								"hv": 217.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 218.5",
+								"selections": [
+									{
+										"id": 1907311290,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907311293,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 218.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 219.5",
+								"selections": [
+									{
+										"id": 1907311228,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1907311230,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 219.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 220.5",
+								"selections": [
+									{
+										"id": 1907311273,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907311278,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 220.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 221.5",
+								"selections": [
+									{
+										"id": 1907311262,
+										"name": "UNDER",
+										"price": "1.70"
+									},
+									{
+										"id": 1907311264,
+										"name": "OVER",
+										"price": "2.00"
+									}
+								],
+								"hv": 221.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 222.5",
+								"selections": [
+									{
+										"id": 1907311305,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907311308,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 222.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 223.5",
+								"selections": [
+									{
+										"id": 1907311244,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907311245,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 223.5
+							}
+						],
+						"betradarId": "28809206"
+					},
+					{
+						"id": 9574002,
+						"name": "SACRAMENTO KINGS - PORTLAND TRAIL BLAZERS",
+						"startDate": "2021-11-25T03:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -1.5",
+								"selections": [
+									{
+										"id": 1907373386,
+										"name": "1",
+										"price": "2.05"
+									},
+									{
+										"id": 1907373388,
+										"name": "2",
+										"price": "1.73"
+									}
+								],
+								"hv": -1.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -2.5",
+								"selections": [
+									{
+										"id": 1907373371,
+										"name": "1",
+										"price": "1.93"
+									},
+									{
+										"id": 1907373372,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1907373405,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1907373406,
+										"name": "2",
+										"price": "1.98"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907373210,
+										"name": "1",
+										"price": "2.25"
+									},
+									{
+										"id": 1907373212,
+										"name": "2",
+										"price": "1.62"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 222.5",
+								"selections": [
+									{
+										"id": 1907373712,
+										"name": "UNDER",
+										"price": "1.98"
+									},
+									{
+										"id": 1907373715,
+										"name": "OVER",
+										"price": "1.70"
+									}
+								],
+								"hv": 222.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 224.5",
+								"selections": [
+									{
+										"id": 1907373697,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1907373699,
+										"name": "OVER",
+										"price": "1.87"
+									}
+								],
+								"hv": 224.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 226.5",
+								"selections": [
+									{
+										"id": 1907373736,
+										"name": "UNDER",
+										"price": "1.65"
+									},
+									{
+										"id": 1907373737,
+										"name": "OVER",
+										"price": "2.10"
+									}
+								],
+								"hv": 226.5
+							}
+						],
+						"betradarId": "28807916"
+					}
+				]
+			},
+			{
+				"id": 15116,
+				"name": "NCAA",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Stati Uniti",
+				"countryId": 15039,
+				"events": [
+					{
+						"id": 9652059,
+						"name": "AKRON ZIPS - EVANSVILLE ACES",
+						"startDate": "2021-11-24T16:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 3.5",
+								"selections": [
+									{
+										"id": 1930706218,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1930706219,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 4.5",
+								"selections": [
+									{
+										"id": 1930706226,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1930706227,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 4.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930706097,
+										"name": "1",
+										"price": "1.40"
+									},
+									{
+										"id": 1930706098,
+										"name": "2",
+										"price": "2.70"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 123.5",
+								"selections": [
+									{
+										"id": 1930706252,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1930706253,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 123.5
+							}
+						],
+						"betradarId": "30641555"
+					},
+					{
+						"id": 9571550,
+						"name": "FIU PANTHERS - NORTH DAKOTA HAWKS",
+						"startDate": "2021-11-24T16:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 10.5",
+								"selections": [
+									{
+										"id": 1906541899,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1906541902,
+										"name": "2",
+										"price": "1.83"
+									}
+								],
+								"hv": 10.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 11.5",
+								"selections": [
+									{
+										"id": 1906541886,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906541887,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 11.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906542088,
+										"name": "1",
+										"price": "1.11"
+									},
+									{
+										"id": 1906542090,
+										"name": "2",
+										"price": "5.25"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 139.5",
+								"selections": [
+									{
+										"id": 1906542152,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1906542153,
+										"name": "OVER",
+										"price": "1.82"
+									}
+								],
+								"hv": 139.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 142.5",
+								"selections": [
+									{
+										"id": 1906542148,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1906542149,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 142.5
+							}
+						],
+						"betradarId": "29515794"
+					},
+					{
+						"id": 9571771,
+						"name": "MICHIGAN SPARTANS - CHICAGO RAMBLERS",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 2.5",
+								"selections": [
+									{
+										"id": 1906656237,
+										"name": "1",
+										"price": "1.82"
+									},
+									{
+										"id": 1906656238,
+										"name": "2",
+										"price": "1.82"
+									}
+								],
+								"hv": 2.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906655710,
+										"name": "1",
+										"price": "1.60"
+									},
+									{
+										"id": 1906655711,
+										"name": "2",
+										"price": "2.15"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 137.5",
+								"selections": [
+									{
+										"id": 1906656285,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1906656286,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 137.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 138.5",
+								"selections": [
+									{
+										"id": 1906656277,
+										"name": "UNDER",
+										"price": "1.82"
+									},
+									{
+										"id": 1906656278,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 138.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 140.5",
+								"selections": [
+									{
+										"id": 1906656270,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1906656272,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 140.5
+							}
+						],
+						"betradarId": "29516956"
+					},
+					{
+						"id": 9571759,
+						"name": "ILLINOIS PANTHERS - ALBANY GREAT DANES",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -4.5",
+								"selections": [
+									{
+										"id": 1906646047,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1906646048,
+										"name": "2",
+										"price": "1.83"
+									}
+								],
+								"hv": -4.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906646263,
+										"name": "1",
+										"price": "2.60"
+									},
+									{
+										"id": 1906646264,
+										"name": "2",
+										"price": "1.42"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 131.5",
+								"selections": [
+									{
+										"id": 1906648281,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1906648282,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 131.5
+							}
+						],
+						"betradarId": "29517164"
+					},
+					{
+						"id": 9651087,
+						"name": "DREXEL DRAGONS - JACKSONVILLE GAMECOCKS",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1930629634,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1930629636,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930629537,
+										"name": "1",
+										"price": "2.45"
+									},
+									{
+										"id": 1930629538,
+										"name": "2",
+										"price": "1.45"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 134.5",
+								"selections": [
+									{
+										"id": 1930629686,
+										"name": "UNDER",
+										"price": "1.88"
+									},
+									{
+										"id": 1930629687,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 134.5
+							}
+						],
+						"betradarId": "30640163"
+					},
+					{
+						"id": 9650326,
+						"name": "LONG BEACH STATE BEACH - WRIGHT STATE RAIDERS",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -9.5",
+								"selections": [
+									{
+										"id": 1930627503,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1930627504,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -9.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930627339,
+										"name": "1",
+										"price": "4.90"
+									},
+									{
+										"id": 1930627340,
+										"name": "2",
+										"price": "1.13"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 148.5",
+								"selections": [
+									{
+										"id": 1930627558,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1930627559,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 148.5
+							}
+						],
+						"betradarId": "30640161"
+					},
+					{
+						"id": 9650308,
+						"name": "BUCKNELL BISON - RIDER BRONCS",
+						"startDate": "2021-11-24T17:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1930626829,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1930626830,
+										"name": "2",
+										"price": "1.90"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930626710,
+										"name": "1",
+										"price": "2.25"
+									},
+									{
+										"id": 1930626711,
+										"name": "2",
+										"price": "1.55"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 144.5",
+								"selections": [
+									{
+										"id": 1930626847,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1930626848,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 144.5
+							}
+						],
+						"betradarId": "30640165"
+					},
+					{
+						"id": 9572195,
+						"name": "CAMPBELL CAMELS - MARYLAND EASTERN S H",
+						"startDate": "2021-11-24T18:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 17.5",
+								"selections": [
+									{
+										"id": 1906715678,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1906715680,
+										"name": "2",
+										"price": "1.88"
+									}
+								],
+								"hv": 17.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 124.5",
+								"selections": [
+									{
+										"id": 1906715967,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1906715968,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 124.5
+							}
+						],
+						"betradarId": "29519222"
+					},
+					{
+						"id": 9572301,
+						"name": "NJIT HIGHLANDERS - FAIRLEIGH DICKINSON KNIGHTS",
+						"startDate": "2021-11-24T19:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 7.5",
+								"selections": [
+									{
+										"id": 1906771018,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1906771020,
+										"name": "2",
+										"price": "1.83"
+									}
+								],
+								"hv": 7.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906770915,
+										"name": "1",
+										"price": "1.23"
+									},
+									{
+										"id": 1906770916,
+										"name": "2",
+										"price": "3.60"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 143.5",
+								"selections": [
+									{
+										"id": 1906771074,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1906771075,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 143.5
+							}
+						],
+						"betradarId": "29521898"
+					},
+					{
+						"id": 9572304,
+						"name": "CANISIUS GOLDEN GRIFFINS - COPPIN STATE EAGLES",
+						"startDate": "2021-11-24T19:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 10.5",
+								"selections": [
+									{
+										"id": 1906771652,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1906771653,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": 10.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906771535,
+										"name": "1",
+										"price": "1.13"
+									},
+									{
+										"id": 1906771536,
+										"name": "2",
+										"price": "4.85"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 145.5",
+								"selections": [
+									{
+										"id": 1906771700,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1906771701,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 145.5
+							}
+						],
+						"betradarId": "29509662"
+					},
+					{
+						"id": 9572306,
+						"name": "FAIRFIELD STAGS - STONY BROOK SEAWOLVES",
+						"startDate": "2021-11-24T19:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 2.5",
+								"selections": [
+									{
+										"id": 1906772083,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1906772084,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 3.5",
+								"selections": [
+									{
+										"id": 1906772095,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1906772096,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": 3.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906771970,
+										"name": "1",
+										"price": "1.50"
+									},
+									{
+										"id": 1906771971,
+										"name": "2",
+										"price": "2.35"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 134.5",
+								"selections": [
+									{
+										"id": 1906772149,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1906772150,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 134.5
+							}
+						],
+						"betradarId": "29512704"
+					},
+					{
+						"id": 9652113,
+						"name": "OREGON DUCKS - HOUSTON COUGARS",
+						"startDate": "2021-11-24T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -5.5",
+								"selections": [
+									{
+										"id": 1930718338,
+										"name": "1",
+										"price": "1.88"
+									},
+									{
+										"id": 1930718341,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -5.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930718228,
+										"name": "1",
+										"price": "3.00"
+									},
+									{
+										"id": 1930718230,
+										"name": "2",
+										"price": "1.32"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 134.5",
+								"selections": [
+									{
+										"id": 1930718379,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1930718380,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 134.5
+							}
+						],
+						"betradarId": "30641569"
+					},
+					{
+						"id": 9572441,
+						"name": "AUBURN TIGERS - CONNECTICUT HUSKIES",
+						"startDate": "2021-11-24T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1906800748,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1906800750,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906800639,
+										"name": "1",
+										"price": "2.30"
+									},
+									{
+										"id": 1906800640,
+										"name": "2",
+										"price": "1.53"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 142.5",
+								"selections": [
+									{
+										"id": 1906800579,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1906800580,
+										"name": "OVER",
+										"price": "1.82"
+									}
+								],
+								"hv": 142.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 143.5",
+								"selections": [
+									{
+										"id": 1906800798,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1906800799,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 143.5
+							}
+						],
+						"betradarId": "29514348"
+					},
+					{
+						"id": 9652111,
+						"name": "VALPARAISO BEACONS - TULANE GREEN WAVE",
+						"startDate": "2021-11-24T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1930717830,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1930717831,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930717718,
+										"name": "1",
+										"price": "2.45"
+									},
+									{
+										"id": 1930717721,
+										"name": "2",
+										"price": "1.45"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 132.5",
+								"selections": [
+									{
+										"id": 1930717884,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1930717885,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 132.5
+							}
+						],
+						"betradarId": "30641567"
+					},
+					{
+						"id": 9650325,
+						"name": "MURRAY RACERS - JAMES MADISON DUKES",
+						"startDate": "2021-11-24T19:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 3.5",
+								"selections": [
+									{
+										"id": 1930627396,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1930627402,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 4.5",
+								"selections": [
+									{
+										"id": 1930627383,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1930627384,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 4.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930627595,
+										"name": "1",
+										"price": "1.47"
+									},
+									{
+										"id": 1930627596,
+										"name": "2",
+										"price": "2.45"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 136.5",
+								"selections": [
+									{
+										"id": 1930627645,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1930627646,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 136.5
+							}
+						],
+						"betradarId": "30640169"
+					},
+					{
+						"id": 9646882,
+						"name": "IDAHO VANDALS - CAL POLY MUSTANGS",
+						"startDate": "2021-11-24T20:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -7.5",
+								"selections": [
+									{
+										"id": 1929614698,
+										"name": "1",
+										"price": "1.87"
+									},
+									{
+										"id": 1929614699,
+										"name": "2",
+										"price": "1.77"
+									}
+								],
+								"hv": -7.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -8.5",
+								"selections": [
+									{
+										"id": 1929614682,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1929614683,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -8.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1929614515,
+										"name": "1",
+										"price": "3.75"
+									},
+									{
+										"id": 1929614517,
+										"name": "2",
+										"price": "1.20"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 132.5",
+								"selections": [
+									{
+										"id": 1929614730,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1929614731,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 132.5
+							}
+						],
+						"betradarId": "30629787"
+					},
+					{
+						"id": 9652063,
+						"name": "MERCER BEARS - MIDDLE TENNESSEE BLUE RAIDERS",
+						"startDate": "2021-11-24T20:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 3.5",
+								"selections": [
+									{
+										"id": 1930706986,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1930706987,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": 3.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930706873,
+										"name": "1",
+										"price": "1.55"
+									},
+									{
+										"id": 1930706874,
+										"name": "2",
+										"price": "2.25"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 134.5",
+								"selections": [
+									{
+										"id": 1930707032,
+										"name": "UNDER",
+										"price": "1.88"
+									},
+									{
+										"id": 1930707033,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 134.5
+							}
+						],
+						"betradarId": "30640237"
+					},
+					{
+						"id": 9572736,
+						"name": "EASTERN MICHIGAN EAGLES - ILLINOIS LEATHERNECKS",
+						"startDate": "2021-11-24T20:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 1.5",
+								"selections": [
+									{
+										"id": 1906935114,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1906935115,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": 1.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906934958,
+										"name": "1",
+										"price": "1.77"
+									},
+									{
+										"id": 1906934961,
+										"name": "2",
+										"price": "1.90"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 148.5",
+								"selections": [
+									{
+										"id": 1906935178,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1906935180,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 148.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 149.5",
+								"selections": [
+									{
+										"id": 1906935194,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1906935196,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 149.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 150.5",
+								"selections": [
+									{
+										"id": 1906935167,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1906935169,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 150.5
+							}
+						],
+						"betradarId": "29519600"
+					},
+					{
+						"id": 9572738,
+						"name": "SAN ANTONIO ROADRUNNERS - LAMAR CARDINALS",
+						"startDate": "2021-11-24T20:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 3.5",
+								"selections": [
+									{
+										"id": 1906936106,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1906936107,
+										"name": "2",
+										"price": "1.83"
+									}
+								],
+								"hv": 3.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1906935996,
+										"name": "1",
+										"price": "1.50"
+									},
+									{
+										"id": 1906935997,
+										"name": "2",
+										"price": "2.40"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 141.5",
+								"selections": [
+									{
+										"id": 1906936164,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1906936165,
+										"name": "OVER",
+										"price": "1.88"
+									}
+								],
+								"hv": 141.5
+							}
+						],
+						"betradarId": "29523030"
+					},
+					{
+						"id": 9573539,
+						"name": "CORNELL BIG RED - SAINT FRANCIS RED FLASH",
+						"startDate": "2021-11-24T21:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 4.5",
+								"selections": [
+									{
+										"id": 1907084254,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1907084256,
+										"name": "2",
+										"price": "1.82"
+									}
+								],
+								"hv": 4.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907084469,
+										"name": "1",
+										"price": "1.42"
+									},
+									{
+										"id": 1907084470,
+										"name": "2",
+										"price": "2.60"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 148.5",
+								"selections": [
+									{
+										"id": 1907084513,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1907084514,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 148.5
+							}
+						],
+						"betradarId": "29512926"
+					},
+					{
+						"id": 9573538,
+						"name": "AIR FORCE FALCONS - DENVER PIONEERS",
+						"startDate": "2021-11-24T21:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 7.5",
+								"selections": [
+									{
+										"id": 1907083760,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1907083761,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 7.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907083643,
+										"name": "1",
+										"price": "1.22"
+									},
+									{
+										"id": 1907083644,
+										"name": "2",
+										"price": "3.70"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 126.5",
+								"selections": [
+									{
+										"id": 1907083792,
+										"name": "UNDER",
+										"price": "1.88"
+									},
+									{
+										"id": 1907083793,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 126.5
+							}
+						],
+						"betradarId": "29517448"
+					},
+					{
+						"id": 9573537,
+						"name": "PRESBYTERIAN BLUE HOSE - VMI KEYDETS",
+						"startDate": "2021-11-24T21:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -2.5",
+								"selections": [
+									{
+										"id": 1907083537,
+										"name": "1",
+										"price": "1.83"
+									},
+									{
+										"id": 1907083538,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": -2.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907083416,
+										"name": "1",
+										"price": "2.20"
+									},
+									{
+										"id": 1907083417,
+										"name": "2",
+										"price": "1.58"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 134.5",
+								"selections": [
+									{
+										"id": 1907083567,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1907083568,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 134.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 135.5",
+								"selections": [
+									{
+										"id": 1907083358,
+										"name": "UNDER",
+										"price": "1.82"
+									},
+									{
+										"id": 1907083359,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 135.5
+							}
+						],
+						"betradarId": "29517552"
+					},
+					{
+						"id": 9573654,
+						"name": "SYRACUSE ORANGE - VCU RAMS",
+						"startDate": "2021-11-24T22:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 5.5",
+								"selections": [
+									{
+										"id": 1907152640,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1907152641,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 5.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907152827,
+										"name": "1",
+										"price": "1.33"
+									},
+									{
+										"id": 1907152828,
+										"name": "2",
+										"price": "2.95"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 130.5",
+								"selections": [
+									{
+										"id": 1907152927,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1907152930,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 130.5
+							}
+						],
+						"betradarId": "29510110"
+					},
+					{
+						"id": 9573655,
+						"name": "WESTERN KENTUCKY HILLTOPPERS - ALABAMA AM BULLDOGS",
+						"startDate": "2021-11-24T22:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 20.5",
+								"selections": [
+									{
+										"id": 1907153137,
+										"name": "1",
+										"price": "1.88"
+									},
+									{
+										"id": 1907153138,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": 20.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 134.5",
+								"selections": [
+									{
+										"id": 1907153140,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1907153141,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 134.5
+							}
+						],
+						"betradarId": "29514664"
+					},
+					{
+						"id": 9573750,
+						"name": "RADFORD HIGHLANDERS - WILLIAM AND MARY TRIBE",
+						"startDate": "2021-11-24T22:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 5.5",
+								"selections": [
+									{
+										"id": 1907208257,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1907208258,
+										"name": "2",
+										"price": "1.83"
+									}
+								],
+								"hv": 5.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907208142,
+										"name": "1",
+										"price": "1.35"
+									},
+									{
+										"id": 1907208144,
+										"name": "2",
+										"price": "2.90"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 132.5",
+								"selections": [
+									{
+										"id": 1907208295,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1907208302,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 132.5
+							}
+						],
+						"betradarId": "29517642"
+					},
+					{
+						"id": 9652119,
+						"name": "SAINT MARY'S GAELS - WISCONSIN BADGERS",
+						"startDate": "2021-11-24T22:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -1.5",
+								"selections": [
+									{
+										"id": 1930719102,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1930719104,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -1.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930719308,
+										"name": "1",
+										"price": "1.95"
+									},
+									{
+										"id": 1930719309,
+										"name": "2",
+										"price": "1.75"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 120.5",
+								"selections": [
+									{
+										"id": 1930719347,
+										"name": "UNDER",
+										"price": "1.75"
+									},
+									{
+										"id": 1930719349,
+										"name": "OVER",
+										"price": "1.93"
+									}
+								],
+								"hv": 120.5
+							}
+						],
+						"betradarId": "30641573"
+					},
+					{
+						"id": 9652118,
+						"name": "FORDHAM RAMS - RICE OWLS",
+						"startDate": "2021-11-24T22:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1930719234,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1930719235,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -4.5",
+								"selections": [
+									{
+										"id": 1930719252,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1930719253,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -4.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930719063,
+										"name": "1",
+										"price": "2.55"
+									},
+									{
+										"id": 1930719065,
+										"name": "2",
+										"price": "1.45"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 138.5",
+								"selections": [
+									{
+										"id": 1930719303,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1930719305,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 138.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 139.5",
+								"selections": [
+									{
+										"id": 1930718992,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1930718993,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 139.5
+							}
+						],
+						"betradarId": "30641571"
+					},
+					{
+						"id": 9646879,
+						"name": "UTAH VALLEY STATE WOLVERINES - NICHOLLS COLONELS",
+						"startDate": "2021-11-24T22:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 2.5",
+								"selections": [
+									{
+										"id": 1929615122,
+										"name": "1",
+										"price": "1.87"
+									},
+									{
+										"id": 1929615123,
+										"name": "2",
+										"price": "1.77"
+									}
+								],
+								"hv": 2.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1929615041,
+										"name": "1",
+										"price": "1.63"
+									},
+									{
+										"id": 1929615042,
+										"name": "2",
+										"price": "2.10"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 139.5",
+								"selections": [
+									{
+										"id": 1929614862,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1929614864,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 139.5
+							}
+						],
+						"betradarId": "30629901"
+					},
+					{
+						"id": 9652126,
+						"name": "MISSOURI BEARS - GEORGE WASHINGTON COLONIALS",
+						"startDate": "2021-11-24T22:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 10.5",
+								"selections": [
+									{
+										"id": 1930720177,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1930720178,
+										"name": "2",
+										"price": "1.88"
+									}
+								],
+								"hv": 10.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930720065,
+										"name": "1",
+										"price": "1.10"
+									},
+									{
+										"id": 1930720067,
+										"name": "2",
+										"price": "5.50"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 140.5",
+								"selections": [
+									{
+										"id": 1930720225,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1930720227,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 140.5
+							}
+						],
+						"betradarId": "30641575"
+					},
+					{
+						"id": 9652122,
+						"name": "COASTAL CAROLINA CHANTICLEERS - TOLEDO ROCKETS",
+						"startDate": "2021-11-24T22:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -5.5",
+								"selections": [
+									{
+										"id": 1930719821,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1930719822,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -5.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930719704,
+										"name": "1",
+										"price": "3.05"
+									},
+									{
+										"id": 1930719705,
+										"name": "2",
+										"price": "1.30"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 146.5",
+								"selections": [
+									{
+										"id": 1930719855,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1930719856,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 146.5
+							}
+						],
+						"betradarId": "30641563"
+					},
+					{
+						"id": 9652068,
+						"name": "CALIFORNIA GOLDEN BEARS - SETON HALL PIRATES",
+						"startDate": "2021-11-24T23:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -11.5",
+								"selections": [
+									{
+										"id": 1930707371,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1930707372,
+										"name": "2",
+										"price": "1.82"
+									}
+								],
+								"hv": -11.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930707262,
+										"name": "1",
+										"price": "5.75"
+									},
+									{
+										"id": 1930707263,
+										"name": "2",
+										"price": "1.09"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 130.5",
+								"selections": [
+									{
+										"id": 1930707413,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1930707414,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 130.5
+							}
+						],
+						"betradarId": "30641553"
+					},
+					{
+						"id": 9652265,
+						"name": "ILLINOIS REDBIRDS - BUFFALO BULLS",
+						"startDate": "2021-11-24T23:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -9.5",
+								"selections": [
+									{
+										"id": 1930821271,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1930821272,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -9.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930821121,
+										"name": "1",
+										"price": "4.85"
+									},
+									{
+										"id": 1930821122,
+										"name": "2",
+										"price": "1.13"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 153.5",
+								"selections": [
+									{
+										"id": 1930821326,
+										"name": "UNDER",
+										"price": "1.88"
+									},
+									{
+										"id": 1930821331,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 153.5
+							}
+						],
+						"betradarId": "30641981"
+					},
+					{
+						"id": 9573788,
+						"name": "HARVARD CRIMSON - COLGATE RAIDERS",
+						"startDate": "2021-11-25T00:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -2.5",
+								"selections": [
+									{
+										"id": 1907229469,
+										"name": "1",
+										"price": "1.88"
+									},
+									{
+										"id": 1907229473,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": -2.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907229670,
+										"name": "1",
+										"price": "2.25"
+									},
+									{
+										"id": 1907229671,
+										"name": "2",
+										"price": "1.55"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 147.5",
+								"selections": [
+									{
+										"id": 1907229596,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1907229597,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 147.5
+							}
+						],
+						"betradarId": "29521926"
+					},
+					{
+						"id": 9573777,
+						"name": "MASSACHUSETTS MINUTEMEN - UMASS LOWELL RIVER HAWKS",
+						"startDate": "2021-11-25T00:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 9.5",
+								"selections": [
+									{
+										"id": 1907228563,
+										"name": "1",
+										"price": "1.90"
+									},
+									{
+										"id": 1907228566,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": 9.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907228801,
+										"name": "1",
+										"price": "1.17"
+									},
+									{
+										"id": 1907228802,
+										"name": "2",
+										"price": "4.30"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 143.5",
+								"selections": [
+									{
+										"id": 1907228696,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1907228698,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 143.5
+							}
+						],
+						"betradarId": "29520310"
+					},
+					{
+						"id": 9573813,
+						"name": "MICHIGAN WOLVERINES - TARLETON TEXANS",
+						"startDate": "2021-11-25T00:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 22.5",
+								"selections": [
+									{
+										"id": 1907230347,
+										"name": "1",
+										"price": "1.87"
+									},
+									{
+										"id": 1907230349,
+										"name": "2",
+										"price": "1.77"
+									}
+								],
+								"hv": 22.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 129.5",
+								"selections": [
+									{
+										"id": 1907230623,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1907230624,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 129.5
+							}
+						],
+						"betradarId": "29506576"
+					},
+					{
+						"id": 9573812,
+						"name": "MONMOUTH HAWKS - PRINCETON TIGERS",
+						"startDate": "2021-11-25T00:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 1.5",
+								"selections": [
+									{
+										"id": 1907230423,
+										"name": "1",
+										"price": "1.88"
+									},
+									{
+										"id": 1907230427,
+										"name": "2",
+										"price": "1.75"
+									}
+								],
+								"hv": 1.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907230231,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1907230235,
+										"name": "2",
+										"price": "1.92"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 146.5",
+								"selections": [
+									{
+										"id": 1907230543,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1907230544,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 146.5
+							}
+						],
+						"betradarId": "29509290"
+					},
+					{
+						"id": 9573776,
+						"name": "SOUTH FLORIDA BULLS - HAMPTON PIRATES",
+						"startDate": "2021-11-25T00:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 11.5",
+								"selections": [
+									{
+										"id": 1907227777,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1907227780,
+										"name": "2",
+										"price": "1.90"
+									}
+								],
+								"hv": 11.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907227983,
+										"name": "1",
+										"price": "1.07"
+									},
+									{
+										"id": 1907227986,
+										"name": "2",
+										"price": "6.25"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 130.5",
+								"selections": [
+									{
+										"id": 1907227859,
+										"name": "UNDER",
+										"price": "1.82"
+									},
+									{
+										"id": 1907227864,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 130.5
+							}
+						],
+						"betradarId": "29522922"
+					},
+					{
+						"id": 9573791,
+						"name": "FLORIDA STATE SEMINOLES - BOSTON UNIVERSITY",
+						"startDate": "2021-11-25T00:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 16.5",
+								"selections": [
+									{
+										"id": 1907229843,
+										"name": "1",
+										"price": "1.82"
+									},
+									{
+										"id": 1907229851,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": 16.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 134.5",
+								"selections": [
+									{
+										"id": 1907229928,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1907229930,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 134.5
+							}
+						],
+						"betradarId": "29517712"
+					},
+					{
+						"id": 9652130,
+						"name": "DELAWARE BLUE HENS - OAKLAND",
+						"startDate": "2021-11-25T00:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 1.5",
+								"selections": [
+									{
+										"id": 1930720785,
+										"name": "1",
+										"price": "1.75"
+									},
+									{
+										"id": 1930720786,
+										"name": "2",
+										"price": "1.90"
+									}
+								],
+								"hv": 1.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1930720671,
+										"name": "1",
+										"price": "1.65"
+									},
+									{
+										"id": 1930720672,
+										"name": "2",
+										"price": "2.05"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 136.5",
+								"selections": [
+									{
+										"id": 1930720819,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1930720820,
+										"name": "OVER",
+										"price": "1.83"
+									}
+								],
+								"hv": 136.5
+							}
+						],
+						"betradarId": "30641577"
+					},
+					{
+						"id": 9573831,
+						"name": "ARIZONA STATE SUN DEVILS - BAYLOR BEARS",
+						"startDate": "2021-11-25T00:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -13.5",
+								"selections": [
+									{
+										"id": 1907252691,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1907252692,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -13.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1907252552,
+										"name": "1",
+										"price": "7.50"
+									},
+									{
+										"id": 1907252553,
+										"name": "2",
+										"price": "1.05"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 141.5",
+								"selections": [
+									{
+										"id": 1907252825,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1907252826,
+										"name": "OVER",
+										"price": "1.82"
+									}
+								],
+								"hv": 141.5
+							}
+						],
+						"betradarId": "29526838"
+					},
+					{
+						"id": 9650201,
+						"name": "LOUISIANA TECH BULLDOGS - LOUISIANA MONROE WARHAWKS",
+						"startDate": "2021-11-25T00:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 16.5",
+								"selections": [
+									{
+										"id": 1930567493,
+										"name": "1",
+										"price": "1.83"
+									},
+									{
+										"id": 1930567495,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": 16.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 139.5",
+								"selections": [
+									{
+										"id": 1930567541,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1930567542,
+										"name": "OVER",
+										"price": "1.87"
+									}
+								],
+								"hv": 139.5
+							}
+						],
+						"betradarId": "30630277"
+					}
+				]
+			},
+			{
+				"id": 26708,
+				"name": "III DIVISIONE",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Italia",
+				"countryId": 15345,
+				"events": [
+					{
+						"id": 9618491,
+						"name": "CESTISTICA TORRENOVESE - TALOS RUVO DI PUGLIA",
+						"startDate": "2021-11-24T16:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 1.5",
+								"selections": [
+									{
+										"id": 1920290018,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1920290019,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": 1.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920289852,
+										"name": "1",
+										"price": "1.73"
+									},
+									{
+										"id": 1920289854,
+										"name": "2",
+										"price": "1.95"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 145.5",
+								"selections": [
+									{
+										"id": 1920290053,
+										"name": "UNDER",
+										"price": "1.82"
+									},
+									{
+										"id": 1920290056,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 145.5
+							}
+						],
+						"betradarId": "29290218"
+					}
+				]
+			},
+			{
+				"id": 19603,
+				"name": "I DIVISIONE FEMM.",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Cina",
+				"countryId": 16222,
+				"events": [
+					{
+						"id": 9646871,
+						"name": "SHANXI XING RUI FLAME - SHANGHAI BAOSHAN DAHUA SWORDFISH",
+						"startDate": "2021-11-24T12:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 6.5",
+								"selections": [
+									{
+										"id": 1929608883,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1929608885,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 6.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 7.5",
+								"selections": [
+									{
+										"id": 1929608918,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1929608919,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 7.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 8.5",
+								"selections": [
+									{
+										"id": 1929608934,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1929608935,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 8.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 9.5",
+								"selections": [
+									{
+										"id": 1929608954,
+										"name": "1",
+										"price": "1.85"
+									},
+									{
+										"id": 1929608957,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": 9.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1929608691,
+										"name": "1",
+										"price": "1.19"
+									},
+									{
+										"id": 1929608693,
+										"name": "2",
+										"price": "4.05"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 138.5",
+								"selections": [
+									{
+										"id": 1929608990,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1929608991,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 138.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 139.5",
+								"selections": [
+									{
+										"id": 1929608969,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1929608973,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 139.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 140.5",
+								"selections": [
+									{
+										"id": 1929608992,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1929608993,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 140.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 141.5",
+								"selections": [
+									{
+										"id": 1929608643,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1929608644,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 141.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 142.5",
+								"selections": [
+									{
+										"id": 1929608630,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1929608631,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 142.5
+							}
+						],
+						"betradarId": "30616501"
+					}
+				]
+			},
+			{
+				"id": 15962,
+				"name": "I DIVISIONE",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Corea del Sud",
+				"countryId": 17851,
+				"events": [
+					{
+						"id": 9510440,
+						"name": "GOYANG ORIONS - LG SAKERS",
+						"startDate": "2021-12-08T10:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 4.5",
+								"selections": [
+									{
+										"id": 1890755584,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1890755587,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 4.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 5.5",
+								"selections": [
+									{
+										"id": 1890755575,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1890755577,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": 5.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1890755465,
+										"name": "1",
+										"price": "1.40"
+									},
+									{
+										"id": 1890755466,
+										"name": "2",
+										"price": "2.65"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 159.5",
+								"selections": [
+									{
+										"id": 1890755401,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1890755402,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 159.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 161.5",
+								"selections": [
+									{
+										"id": 1890755620,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1890755621,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 161.5
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": 15100,
+				"name": "II DIVISIONE",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Grecia",
+				"countryId": 15486,
+				"events": [
+					{
+						"id": 9617852,
+						"name": "AO PAGKRATIOU - PANERYTHRAIKOS AS",
+						"startDate": "2021-11-24T15:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -9.5",
+								"selections": [
+									{
+										"id": 1920250896,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1920250897,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -9.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920250739,
+										"name": "1",
+										"price": "4.50"
+									},
+									{
+										"id": 1920250747,
+										"name": "2",
+										"price": "1.15"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 149.5",
+								"selections": [
+									{
+										"id": 1920250972,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920250974,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 149.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 150.5",
+								"selections": [
+									{
+										"id": 1920250657,
+										"name": "UNDER",
+										"price": ""
+									},
+									{
+										"id": 1920250659,
+										"name": "OVER",
+										"price": ""
+									}
+								],
+								"hv": 150.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 151.5",
+								"selections": [
+									{
+										"id": 1920250669,
+										"name": "UNDER",
+										"price": "1.85"
+									},
+									{
+										"id": 1920250670,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 151.5
+							}
+						],
+						"betradarId": "29303636"
+					},
+					{
+						"id": 9625286,
+						"name": "AO AMINTAS - OIAKAS NAFPLIOU",
+						"startDate": "2021-11-24T17:30:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap 34.5",
+								"selections": [
+									{
+										"id": 1922474855,
+										"name": "1",
+										"price": "1.78"
+									},
+									{
+										"id": 1922474856,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": 34.5
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 149.5",
+								"selections": [
+									{
+										"id": 1922474895,
+										"name": "UNDER",
+										"price": "1.87"
+									},
+									{
+										"id": 1922474897,
+										"name": "OVER",
+										"price": "1.80"
+									}
+								],
+								"hv": 149.5
+							}
+						],
+						"betradarId": "29303642"
+					}
+				]
+			},
+			{
+				"id": 15919,
+				"name": "II DIVISIONE",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Israele",
+				"countryId": 19148,
+				"events": [
+					{
+						"id": 9618384,
+						"name": "MACCABI RAANANA - IRONI NAHARIA",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -7.5",
+								"selections": [
+									{
+										"id": 1920286131,
+										"name": "1",
+										"price": "1.83"
+									},
+									{
+										"id": 1920286132,
+										"name": "2",
+										"price": "1.80"
+									}
+								],
+								"hv": -7.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920285980,
+										"name": "1",
+										"price": "3.60"
+									},
+									{
+										"id": 1920285981,
+										"name": "2",
+										"price": "1.23"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 168.5",
+								"selections": [
+									{
+										"id": 1920286534,
+										"name": "UNDER",
+										"price": "1.83"
+									},
+									{
+										"id": 1920286536,
+										"name": "OVER",
+										"price": "1.85"
+									}
+								],
+								"hv": 168.5
+							}
+						],
+						"betradarId": "29914989"
+					}
+				]
+			},
+			{
+				"id": 15468,
+				"name": "II DIVISIONE",
+				"sportName": "BASKET",
+				"sportId": "BKB",
+				"countryName": "Polonia",
+				"countryId": 16847,
+				"events": [
+					{
+						"id": 9618608,
+						"name": "WKS SLASK II WROCLAW - PTG SOKOL LANCUT",
+						"startDate": "2021-11-24T17:00:00.000Z",
+						"markets": [
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -2.5",
+								"selections": [
+									{
+										"id": 1920303949,
+										"name": "1",
+										"price": "1.80"
+									},
+									{
+										"id": 1920303952,
+										"name": "2",
+										"price": "1.85"
+									}
+								],
+								"hv": -2.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -3.5",
+								"selections": [
+									{
+										"id": 1920303928,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920303930,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -3.5
+							},
+							{
+								"id": "-1492771842",
+								"name": "testa a testa handicap -4.5",
+								"selections": [
+									{
+										"id": 1920303910,
+										"name": "1",
+										"price": ""
+									},
+									{
+										"id": 1920303911,
+										"name": "2",
+										"price": ""
+									}
+								],
+								"hv": -4.5
+							},
+							{
+								"id": "-826827631",
+								"name": "testa a testa risultato",
+								"selections": [
+									{
+										"id": 1920303737,
+										"name": "1",
+										"price": "2.15"
+									},
+									{
+										"id": 1920303739,
+										"name": "2",
+										"price": "1.60"
+									}
+								]
+							},
+							{
+								"id": "839811643",
+								"name": "u/o (inclusi overtime) 168.5",
+								"selections": [
+									{
+										"id": 1920303984,
+										"name": "UNDER",
+										"price": "1.80"
+									},
+									{
+										"id": 1920303986,
+										"name": "OVER",
+										"price": "1.88"
+									}
+								],
+								"hv": 168.5
+							}
+						],
+						"betradarId": "29061222"
+					}
+				]
+			}
+		]
+	}
+]

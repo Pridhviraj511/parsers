@@ -1,0 +1,113 @@
+{
+    "taskDefinitionArn": "arn:aws:ecs:eu-west-1:745468089470:task-definition/production-parser-historical:6",
+    "containerDefinitions": [
+        {
+            "name": "production-parser-historical",
+            "image": "745468089470.dkr.ecr.eu-west-1.amazonaws.com/production-parser-historical:$GITHUB_RUN_NUMBER",
+            "cpu": 256,
+            "memory": 512,
+            "portMappings": [],
+            "essential": true,
+            "environment": [
+                {
+                    "name": "REDIS_HOST",
+                    "value": "clustercfg.production-redis00.yxhlrp.euw1.cache.amazonaws.com"
+                },
+                {
+                    "name": "REDIS_PORT",
+                    "value": "6379"
+                },
+                {
+                    "name": "SERVER_ID",
+                    "value": "production-parser-historical"
+                },
+                {
+                    "name": "KAFKA_BROKERS",
+                    "value": "prod-kafka.internaloam.ltd:9092"
+                },
+                {
+                    "name": "BOOKMAKER",
+                    "value": "historical"
+                }
+            ],
+            "mountPoints": [],
+            "volumesFrom": [],
+            "secrets": [
+                {
+                    "name": "MONGO_URI",
+                    "valueFrom": "arn:aws:ssm:eu-west-1:745468089470:parameter/Production_MongoDB_URI"
+                },
+                {
+                    "name": "CRAWLER_API_KEY",
+                    "valueFrom": "arn:aws:ssm:eu-west-1:745468089470:parameter/Production_Crawler_Api_Key"
+                },
+                {
+                    "name": "REDIS_PASSWORD",
+                    "valueFrom": "arn:aws:ssm:eu-west-1:745468089470:parameter/Production_Redis_Password"
+                }
+            ],
+            "logConfiguration": {
+                "logDriver": "awslogs",
+                "options": {
+                    "awslogs-group": "/ecs/production-parser-historical",
+                    "awslogs-region": "eu-west-1",
+                    "awslogs-stream-prefix": "ecs"
+                }
+            }
+        }
+    ],
+    "family": "production-parser-historical",
+    "executionRoleArn": "arn:aws:iam::745468089470:role/staging-ecs-task-execution-role",
+    "networkMode": "awsvpc",
+    "revision": 6,
+    "volumes": [],
+    "status": "ACTIVE",
+    "requiresAttributes": [
+        {
+            "name": "com.amazonaws.ecs.capability.logging-driver.awslogs"
+        },
+        {
+            "name": "ecs.capability.execution-role-awslogs"
+        },
+        {
+            "name": "com.amazonaws.ecs.capability.ecr-auth"
+        },
+        {
+            "name": "com.amazonaws.ecs.capability.docker-remote-api.1.19"
+        },
+        {
+            "name": "ecs.capability.execution-role-ecr-pull"
+        },
+        {
+            "name": "ecs.capability.secrets.ssm.environment-variables"
+        },
+        {
+            "name": "com.amazonaws.ecs.capability.docker-remote-api.1.18"
+        },
+        {
+            "name": "ecs.capability.task-eni"
+        }
+    ],
+    "placementConstraints": [],
+    "compatibilities": [
+        "EC2",
+        "FARGATE"
+    ],
+    "requiresCompatibilities": [
+        "FARGATE"
+    ],
+    "cpu": "256",
+    "memory": "512",
+    "registeredAt": "2022-05-10T19:37:39.336Z",
+    "registeredBy": "arn:aws:iam::745468089470:user/matthew",
+    "tags": [
+        {
+            "key": "env",
+            "value": "production"
+        },
+        {
+            "key": "team",
+            "value": "python"
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+  "ipcMode": null,
+  "executionRoleArn": "arn:aws:iam::071372238513:role/staging-ecs-task-execution-role",
+  "containerDefinitions": [
+    {
+      "dnsSearchDomains": null,
+      "environmentFiles": null,
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "secretOptions": null,
+        "options": {
+          "awslogs-create-group": "true",
+          "awslogs-group": "/ecs/staging-parser-eurobet",
+          "awslogs-region": "eu-west-1",
+          "awslogs-stream-prefix": "ecs"
+        }
+      },
+      "entryPoint": null,
+      "portMappings": [
+        {
+          "hostPort": 4321,
+          "protocol": "tcp",
+          "containerPort": 4321
+        }
+      ],
+      "command": null,
+      "linuxParameters": null,
+      "cpu": 0,
+      "environment": [
+        {
+          "name": "BOOKMAKER",
+          "value": "eurobet"
+        },
+        {
+          "name": "BOOKMAKER_ID",
+          "value": "1"
+        },
+        {
+          "name": "RMQ_HOSTNAME",
+          "value": "omsparsersqueue.oam.ltd"
+        },
+        {
+          "name": "RMQ_USERNAME",
+          "value": "python_producer"
+        },
+        {
+          "name": "RMQ_VHOST",
+          "value": "python_staging"
+        },
+        {
+          "name": "REDIS_HOST",
+          "value": "oms-hibrid-redis.tbdcuu.0001.euw1.cache.amazonaws.com"
+        },
+        {
+          "name": "REDIS_PORT",
+          "value": "6379"
+        },
+        {
+          "name": "SERVER_ID",
+          "value": "staging-parser-eurobet"
+        }
+      ],
+      "resourceRequirements": null,
+      "ulimits": null,
+      "dnsServers": null,
+      "mountPoints": [],
+      "workingDirectory": null,
+      "secrets": [
+        {
+          "valueFrom": "arn:aws:ssm:eu-west-1:071372238513:parameter/staging_mongodburi",
+          "name": "MONGO_URI"
+        },
+        {
+          "valueFrom": "arn:aws:ssm:eu-west-1:071372238513:parameter/RMQ_PASSWORD",
+          "name": "RMQ_PASSWORD"
+        },
+        {
+          "valueFrom": "arn:aws:ssm:eu-west-1:071372238513:parameter/CRAWLER_API_KEY",
+          "name": "CRAWLER_API_KEY"
+        }
+      ],
+      "dockerSecurityOptions": null,
+      "memory": null,
+      "memoryReservation": null,
+      "volumesFrom": [],
+      "stopTimeout": null,
+      "image": "071372238513.dkr.ecr.eu-west-1.amazonaws.com/staging-parser-eurobet:$GITHUB_RUN_NUMBER",
+      "startTimeout": null,
+      "firelensConfiguration": null,
+      "dependsOn": null,
+      "disableNetworking": null,
+      "interactive": null,
+      "healthCheck": {
+        "retries": 3,
+        "command": [
+          "CMD-SHELL curl -f http://localhost:4321 || exit 1"
+        ],
+        "timeout": 2,
+        "interval": 5,
+        "startPeriod": 15
+      },
+      "essential": true,
+      "links": null,
+      "hostname": null,
+      "extraHosts": null,
+      "pseudoTerminal": null,
+      "user": null,
+      "readonlyRootFilesystem": null,
+      "dockerLabels": null,
+      "systemControls": null,
+      "privileged": null,
+      "name": "staging-parser-eurobet"
+    }
+  ],
+  "placementConstraints": [],
+  "memory": "2048",
+  "taskRoleArn": "arn:aws:iam::071372238513:role/staging-ecs-task-execution-role",
+  "compatibilities": [
+    "EC2",
+    "FARGATE"
+  ],
+  "taskDefinitionArn": "arn:aws:ecs:eu-west-1:071372238513:task-definition/staging-parser-eurobet:$GITHUB_RUN_NUMBER",
+  "family": "staging-parser-eurobet",
+  "requiresAttributes": [
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.logging-driver.awslogs"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "ecs.capability.execution-role-awslogs"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.ecr-auth"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.docker-remote-api.1.19"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.task-iam-role"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "ecs.capability.execution-role-ecr-pull"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "ecs.capability.secrets.ssm.environment-variables"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.docker-remote-api.1.18"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "ecs.capability.task-eni"
+    }
+  ],
+  "pidMode": null,
+  "requiresCompatibilities": [
+    "FARGATE"
+  ],
+  "networkMode": "awsvpc",
+  "runtimePlatform": {
+    "operatingSystemFamily": "LINUX",
+    "cpuArchitecture": null
+  },
+  "cpu": "512",
+  "revision": 1,
+  "status": "ACTIVE",
+  "inferenceAccelerators": null,
+  "proxyConfiguration": null,
+  "volumes": []
+}

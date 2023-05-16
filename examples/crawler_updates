@@ -1,0 +1,2820 @@
+{
+  "1631534924": {
+    "uid": "1631534924",
+    "refreshData": "13/09/2021 12:08:44",
+    "data": [
+      {
+        "away_name": "Maria Bondarenko",
+        "home_name": "Nicole Nadel",
+        "event_id": 1914201180,
+        "date": "2021-09-13T15:30:00.000Z",
+        "sport_id": 3,
+        "sport_name": "TENNIS",
+        "category_name": "Tennis Category",
+        "category_id": 3,
+        "tournament_name": "ITF W25 Johannesburg",
+        "tournament_id": 20767806,
+        "event_status": 1,
+        "markets": {
+          "TESTA A TESTA": {
+            "market_name": "TESTA A TESTA",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 7
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 1.08
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Juventus Utena",
+        "home_name": "Kapfenberg Bulls",
+        "event_id": -304211539,
+        "date": "2021-09-13T16:00:00.000Z",
+        "sport_id": 2,
+        "sport_name": "BASKET",
+        "category_name": "Basket Category",
+        "category_id": 2,
+        "tournament_name": "Basketball Champions League - Qual.",
+        "tournament_id": 20766827,
+        "event_status": 1,
+        "markets": {
+          "T/T HANDICAP": {
+            "market_name": "T/T HANDICAP",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": 14.5,
+                "odd": 1.87
+              },
+              {
+                "name": "2",
+                "sbv": 14.5,
+                "odd": 1.8
+              }
+            ]
+          },
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 157.5,
+                "odd": 1.56
+              },
+              {
+                "name": "OVER",
+                "sbv": 158,
+                "odd": 1.57
+              },
+              {
+                "name": "OVER",
+                "sbv": 158.5,
+                "odd": 1.63
+              },
+              {
+                "name": "OVER",
+                "sbv": 159,
+                "odd": 1.67
+              },
+              {
+                "name": "OVER",
+                "sbv": 159.5,
+                "odd": 1.71
+              },
+              {
+                "name": "OVER",
+                "sbv": 160,
+                "odd": 1.74
+              },
+              {
+                "name": "OVER",
+                "sbv": 160.5,
+                "odd": 1.77
+              },
+              {
+                "name": "OVER",
+                "sbv": 161,
+                "odd": 1.8
+              },
+              {
+                "name": "OVER",
+                "sbv": 161.5,
+                "odd": 1.83
+              },
+              {
+                "name": "UNDER",
+                "sbv": 157.5,
+                "odd": 2.3
+              },
+              {
+                "name": "UNDER",
+                "sbv": 158,
+                "odd": 2.25
+              },
+              {
+                "name": "UNDER",
+                "sbv": 158.5,
+                "odd": 2.2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 159,
+                "odd": 2.1
+              },
+              {
+                "name": "UNDER",
+                "sbv": 159.5,
+                "odd": 2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 160,
+                "odd": 1.95
+              },
+              {
+                "name": "UNDER",
+                "sbv": 160.5,
+                "odd": 1.91
+              },
+              {
+                "name": "UNDER",
+                "sbv": 161,
+                "odd": 1.87
+              },
+              {
+                "name": "UNDER",
+                "sbv": 161.5,
+                "odd": 1.83
+              },
+              {
+                "name": "OVER",
+                "sbv": 162,
+                "odd": 1.87
+              },
+              {
+                "name": "OVER",
+                "sbv": 162.5,
+                "odd": 1.91
+              },
+              {
+                "name": "OVER",
+                "sbv": 163,
+                "odd": 1.95
+              },
+              {
+                "name": "OVER",
+                "sbv": 163.5,
+                "odd": 2
+              },
+              {
+                "name": "OVER",
+                "sbv": 164,
+                "odd": 2.1
+              },
+              {
+                "name": "OVER",
+                "sbv": 164.5,
+                "odd": 2.2
+              },
+              {
+                "name": "OVER",
+                "sbv": 165,
+                "odd": 2.25
+              },
+              {
+                "name": "OVER",
+                "sbv": 165.5,
+                "odd": 2.3
+              },
+              {
+                "name": "UNDER",
+                "sbv": 162,
+                "odd": 1.8
+              },
+              {
+                "name": "UNDER",
+                "sbv": 162.5,
+                "odd": 1.77
+              },
+              {
+                "name": "UNDER",
+                "sbv": 163,
+                "odd": 1.74
+              },
+              {
+                "name": "UNDER",
+                "sbv": 163.5,
+                "odd": 1.71
+              },
+              {
+                "name": "UNDER",
+                "sbv": 164,
+                "odd": 1.67
+              },
+              {
+                "name": "UNDER",
+                "sbv": 164.5,
+                "odd": 1.63
+              },
+              {
+                "name": "UNDER",
+                "sbv": 165,
+                "odd": 1.57
+              },
+              {
+                "name": "UNDER",
+                "sbv": 165.5,
+                "odd": 1.56
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Spalato",
+        "home_name": "AEK Larnaca",
+        "event_id": -1893919048,
+        "date": "2021-09-13T16:30:00.000Z",
+        "sport_id": 2,
+        "sport_name": "BASKET",
+        "category_name": "Basket Category",
+        "category_id": 2,
+        "tournament_name": "Basketball Champions League - Qual.",
+        "tournament_id": 20766827,
+        "event_status": 1,
+        "markets": {
+          "T/T HANDICAP": {
+            "market_name": "T/T HANDICAP",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": 9.5,
+                "odd": 1.77
+              },
+              {
+                "name": "2",
+                "sbv": 9.5,
+                "odd": 1.91
+              }
+            ]
+          },
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 143.5,
+                "odd": 1.56
+              },
+              {
+                "name": "OVER",
+                "sbv": 144,
+                "odd": 1.57
+              },
+              {
+                "name": "OVER",
+                "sbv": 144.5,
+                "odd": 1.63
+              },
+              {
+                "name": "OVER",
+                "sbv": 145,
+                "odd": 1.67
+              },
+              {
+                "name": "OVER",
+                "sbv": 145.5,
+                "odd": 1.69
+              },
+              {
+                "name": "OVER",
+                "sbv": 146,
+                "odd": 1.71
+              },
+              {
+                "name": "OVER",
+                "sbv": 146.5,
+                "odd": 1.77
+              },
+              {
+                "name": "OVER",
+                "sbv": 147,
+                "odd": 1.8
+              },
+              {
+                "name": "OVER",
+                "sbv": 147.5,
+                "odd": 1.83
+              },
+              {
+                "name": "UNDER",
+                "sbv": 143.5,
+                "odd": 2.3
+              },
+              {
+                "name": "UNDER",
+                "sbv": 144,
+                "odd": 2.25
+              },
+              {
+                "name": "UNDER",
+                "sbv": 144.5,
+                "odd": 2.2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 145,
+                "odd": 2.1
+              },
+              {
+                "name": "UNDER",
+                "sbv": 145.5,
+                "odd": 2.05
+              },
+              {
+                "name": "UNDER",
+                "sbv": 146,
+                "odd": 2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 146.5,
+                "odd": 1.91
+              },
+              {
+                "name": "UNDER",
+                "sbv": 147,
+                "odd": 1.87
+              },
+              {
+                "name": "UNDER",
+                "sbv": 147.5,
+                "odd": 1.83
+              },
+              {
+                "name": "OVER",
+                "sbv": 148,
+                "odd": 1.87
+              },
+              {
+                "name": "OVER",
+                "sbv": 148.5,
+                "odd": 1.91
+              },
+              {
+                "name": "OVER",
+                "sbv": 149,
+                "odd": 2
+              },
+              {
+                "name": "OVER",
+                "sbv": 149.5,
+                "odd": 2.05
+              },
+              {
+                "name": "OVER",
+                "sbv": 150,
+                "odd": 2.1
+              },
+              {
+                "name": "OVER",
+                "sbv": 150.5,
+                "odd": 2.2
+              },
+              {
+                "name": "OVER",
+                "sbv": 151,
+                "odd": 2.25
+              },
+              {
+                "name": "OVER",
+                "sbv": 151.5,
+                "odd": 2.3
+              },
+              {
+                "name": "UNDER",
+                "sbv": 148,
+                "odd": 1.8
+              },
+              {
+                "name": "UNDER",
+                "sbv": 148.5,
+                "odd": 1.77
+              },
+              {
+                "name": "UNDER",
+                "sbv": 149,
+                "odd": 1.71
+              },
+              {
+                "name": "UNDER",
+                "sbv": 149.5,
+                "odd": 1.69
+              },
+              {
+                "name": "UNDER",
+                "sbv": 150,
+                "odd": 1.67
+              },
+              {
+                "name": "UNDER",
+                "sbv": 150.5,
+                "odd": 1.63
+              },
+              {
+                "name": "UNDER",
+                "sbv": 151,
+                "odd": 1.57
+              },
+              {
+                "name": "UNDER",
+                "sbv": 151.5,
+                "odd": 1.56
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "ZZ Leiden",
+        "home_name": "Belfius Mons Hainaut",
+        "event_id": 14913177,
+        "date": "2021-09-13T17:30:00.000Z",
+        "sport_id": 2,
+        "sport_name": "BASKET",
+        "category_name": "Basket Category",
+        "category_id": 2,
+        "tournament_name": "Basketball Champions League - Qual.",
+        "tournament_id": 20766827,
+        "event_status": 1,
+        "markets": {
+          "T/T HANDICAP": {
+            "market_name": "T/T HANDICAP",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": -8.5,
+                "odd": 1.83
+              },
+              {
+                "name": "2",
+                "sbv": -8.5,
+                "odd": 1.83
+              }
+            ]
+          },
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 150.5,
+                "odd": 1.56
+              },
+              {
+                "name": "OVER",
+                "sbv": 151,
+                "odd": 1.57
+              },
+              {
+                "name": "OVER",
+                "sbv": 151.5,
+                "odd": 1.63
+              },
+              {
+                "name": "OVER",
+                "sbv": 152,
+                "odd": 1.67
+              },
+              {
+                "name": "OVER",
+                "sbv": 152.5,
+                "odd": 1.71
+              },
+              {
+                "name": "OVER",
+                "sbv": 153,
+                "odd": 1.74
+              },
+              {
+                "name": "OVER",
+                "sbv": 153.5,
+                "odd": 1.77
+              },
+              {
+                "name": "OVER",
+                "sbv": 154,
+                "odd": 1.8
+              },
+              {
+                "name": "OVER",
+                "sbv": 154.5,
+                "odd": 1.83
+              },
+              {
+                "name": "UNDER",
+                "sbv": 150.5,
+                "odd": 2.3
+              },
+              {
+                "name": "UNDER",
+                "sbv": 151,
+                "odd": 2.25
+              },
+              {
+                "name": "UNDER",
+                "sbv": 151.5,
+                "odd": 2.2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 152,
+                "odd": 2.1
+              },
+              {
+                "name": "UNDER",
+                "sbv": 152.5,
+                "odd": 2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 153,
+                "odd": 1.95
+              },
+              {
+                "name": "UNDER",
+                "sbv": 153.5,
+                "odd": 1.91
+              },
+              {
+                "name": "UNDER",
+                "sbv": 154,
+                "odd": 1.87
+              },
+              {
+                "name": "UNDER",
+                "sbv": 154.5,
+                "odd": 1.83
+              },
+              {
+                "name": "OVER",
+                "sbv": 155,
+                "odd": 1.87
+              },
+              {
+                "name": "OVER",
+                "sbv": 155.5,
+                "odd": 1.91
+              },
+              {
+                "name": "OVER",
+                "sbv": 156,
+                "odd": 1.95
+              },
+              {
+                "name": "OVER",
+                "sbv": 156.5,
+                "odd": 2
+              },
+              {
+                "name": "OVER",
+                "sbv": 157,
+                "odd": 2.1
+              },
+              {
+                "name": "OVER",
+                "sbv": 157.5,
+                "odd": 2.2
+              },
+              {
+                "name": "OVER",
+                "sbv": 158,
+                "odd": 2.25
+              },
+              {
+                "name": "OVER",
+                "sbv": 158.5,
+                "odd": 2.3
+              },
+              {
+                "name": "UNDER",
+                "sbv": 155,
+                "odd": 1.8
+              },
+              {
+                "name": "UNDER",
+                "sbv": 155.5,
+                "odd": 1.77
+              },
+              {
+                "name": "UNDER",
+                "sbv": 156,
+                "odd": 1.74
+              },
+              {
+                "name": "UNDER",
+                "sbv": 156.5,
+                "odd": 1.71
+              },
+              {
+                "name": "UNDER",
+                "sbv": 157,
+                "odd": 1.67
+              },
+              {
+                "name": "UNDER",
+                "sbv": 157.5,
+                "odd": 1.63
+              },
+              {
+                "name": "UNDER",
+                "sbv": 158,
+                "odd": 1.57
+              },
+              {
+                "name": "UNDER",
+                "sbv": 158.5,
+                "odd": 1.56
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "BC Kalev/Cramo",
+        "home_name": "Sporting CP",
+        "event_id": 1924246175,
+        "date": "2021-09-13T19:00:00.000Z",
+        "sport_id": 2,
+        "sport_name": "BASKET",
+        "category_name": "Basket Category",
+        "category_id": 2,
+        "tournament_name": "Basketball Champions League - Qual.",
+        "tournament_id": 20766827,
+        "event_status": 1,
+        "markets": {
+          "T/T HANDICAP": {
+            "market_name": "T/T HANDICAP",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": 1.5,
+                "odd": 1.67
+              },
+              {
+                "name": "2",
+                "sbv": 1.5,
+                "odd": 2.1
+              }
+            ]
+          },
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 157.5,
+                "odd": 1.57
+              },
+              {
+                "name": "OVER",
+                "sbv": 158,
+                "odd": 1.63
+              },
+              {
+                "name": "OVER",
+                "sbv": 158.5,
+                "odd": 1.65
+              },
+              {
+                "name": "OVER",
+                "sbv": 159,
+                "odd": 1.67
+              },
+              {
+                "name": "OVER",
+                "sbv": 159.5,
+                "odd": 1.71
+              },
+              {
+                "name": "OVER",
+                "sbv": 160,
+                "odd": 1.74
+              },
+              {
+                "name": "OVER",
+                "sbv": 160.5,
+                "odd": 1.77
+              },
+              {
+                "name": "OVER",
+                "sbv": 161,
+                "odd": 1.8
+              },
+              {
+                "name": "OVER",
+                "sbv": 161.5,
+                "odd": 1.83
+              },
+              {
+                "name": "UNDER",
+                "sbv": 157.5,
+                "odd": 2.25
+              },
+              {
+                "name": "UNDER",
+                "sbv": 158,
+                "odd": 2.2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 158.5,
+                "odd": 2.15
+              },
+              {
+                "name": "UNDER",
+                "sbv": 159,
+                "odd": 2.1
+              },
+              {
+                "name": "UNDER",
+                "sbv": 159.5,
+                "odd": 2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 160,
+                "odd": 1.95
+              },
+              {
+                "name": "UNDER",
+                "sbv": 160.5,
+                "odd": 1.91
+              },
+              {
+                "name": "UNDER",
+                "sbv": 161,
+                "odd": 1.87
+              },
+              {
+                "name": "UNDER",
+                "sbv": 161.5,
+                "odd": 1.83
+              },
+              {
+                "name": "OVER",
+                "sbv": 162,
+                "odd": 1.87
+              },
+              {
+                "name": "OVER",
+                "sbv": 162.5,
+                "odd": 1.91
+              },
+              {
+                "name": "OVER",
+                "sbv": 163,
+                "odd": 1.95
+              },
+              {
+                "name": "OVER",
+                "sbv": 163.5,
+                "odd": 2
+              },
+              {
+                "name": "OVER",
+                "sbv": 164,
+                "odd": 2.1
+              },
+              {
+                "name": "OVER",
+                "sbv": 164.5,
+                "odd": 2.15
+              },
+              {
+                "name": "OVER",
+                "sbv": 165,
+                "odd": 2.2
+              },
+              {
+                "name": "OVER",
+                "sbv": 165.5,
+                "odd": 2.25
+              },
+              {
+                "name": "UNDER",
+                "sbv": 162,
+                "odd": 1.8
+              },
+              {
+                "name": "UNDER",
+                "sbv": 162.5,
+                "odd": 1.77
+              },
+              {
+                "name": "UNDER",
+                "sbv": 163,
+                "odd": 1.74
+              },
+              {
+                "name": "UNDER",
+                "sbv": 163.5,
+                "odd": 1.71
+              },
+              {
+                "name": "UNDER",
+                "sbv": 164,
+                "odd": 1.67
+              },
+              {
+                "name": "UNDER",
+                "sbv": 164.5,
+                "odd": 1.63
+              },
+              {
+                "name": "UNDER",
+                "sbv": 165,
+                "odd": 1.59
+              },
+              {
+                "name": "UNDER",
+                "sbv": 165.5,
+                "odd": 1.57
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Salon Vilpas",
+        "home_name": "U BT Cluj-Napoca",
+        "event_id": -1148234285,
+        "date": "2021-09-13T19:30:00.000Z",
+        "sport_id": 2,
+        "sport_name": "BASKET",
+        "category_name": "Basket Category",
+        "category_id": 2,
+        "tournament_name": "Basketball Champions League - Qual.",
+        "tournament_id": 20766827,
+        "event_status": 1,
+        "markets": {
+          "T/T HANDICAP": {
+            "market_name": "T/T HANDICAP",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": -9.5,
+                "odd": 1.83
+              },
+              {
+                "name": "2",
+                "sbv": -9.5,
+                "odd": 1.83
+              }
+            ]
+          },
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 155.5,
+                "odd": 1.56
+              },
+              {
+                "name": "OVER",
+                "sbv": 156,
+                "odd": 1.57
+              },
+              {
+                "name": "OVER",
+                "sbv": 156.5,
+                "odd": 1.63
+              },
+              {
+                "name": "OVER",
+                "sbv": 157,
+                "odd": 1.67
+              },
+              {
+                "name": "OVER",
+                "sbv": 157.5,
+                "odd": 1.71
+              },
+              {
+                "name": "OVER",
+                "sbv": 158,
+                "odd": 1.74
+              },
+              {
+                "name": "OVER",
+                "sbv": 158.5,
+                "odd": 1.77
+              },
+              {
+                "name": "OVER",
+                "sbv": 159,
+                "odd": 1.8
+              },
+              {
+                "name": "OVER",
+                "sbv": 159.5,
+                "odd": 1.83
+              },
+              {
+                "name": "UNDER",
+                "sbv": 155.5,
+                "odd": 2.3
+              },
+              {
+                "name": "UNDER",
+                "sbv": 156,
+                "odd": 2.25
+              },
+              {
+                "name": "UNDER",
+                "sbv": 156.5,
+                "odd": 2.2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 157,
+                "odd": 2.1
+              },
+              {
+                "name": "UNDER",
+                "sbv": 157.5,
+                "odd": 2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 158,
+                "odd": 1.95
+              },
+              {
+                "name": "UNDER",
+                "sbv": 158.5,
+                "odd": 1.91
+              },
+              {
+                "name": "UNDER",
+                "sbv": 159,
+                "odd": 1.87
+              },
+              {
+                "name": "UNDER",
+                "sbv": 159.5,
+                "odd": 1.83
+              },
+              {
+                "name": "OVER",
+                "sbv": 160,
+                "odd": 1.87
+              },
+              {
+                "name": "OVER",
+                "sbv": 160.5,
+                "odd": 1.91
+              },
+              {
+                "name": "OVER",
+                "sbv": 161,
+                "odd": 1.95
+              },
+              {
+                "name": "OVER",
+                "sbv": 161.5,
+                "odd": 2
+              },
+              {
+                "name": "OVER",
+                "sbv": 162,
+                "odd": 2.1
+              },
+              {
+                "name": "OVER",
+                "sbv": 162.5,
+                "odd": 2.2
+              },
+              {
+                "name": "OVER",
+                "sbv": 163,
+                "odd": 2.25
+              },
+              {
+                "name": "OVER",
+                "sbv": 163.5,
+                "odd": 2.3
+              },
+              {
+                "name": "UNDER",
+                "sbv": 160,
+                "odd": 1.8
+              },
+              {
+                "name": "UNDER",
+                "sbv": 160.5,
+                "odd": 1.77
+              },
+              {
+                "name": "UNDER",
+                "sbv": 161,
+                "odd": 1.74
+              },
+              {
+                "name": "UNDER",
+                "sbv": 161.5,
+                "odd": 1.71
+              },
+              {
+                "name": "UNDER",
+                "sbv": 162,
+                "odd": 1.67
+              },
+              {
+                "name": "UNDER",
+                "sbv": 162.5,
+                "odd": 1.63
+              },
+              {
+                "name": "UNDER",
+                "sbv": 163,
+                "odd": 1.57
+              },
+              {
+                "name": "UNDER",
+                "sbv": 163.5,
+                "odd": 1.56
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Treviso",
+        "home_name": "London Lions",
+        "event_id": -1985852926,
+        "date": "2021-09-13T20:30:00.000Z",
+        "sport_id": 2,
+        "sport_name": "BASKET",
+        "category_name": "Basket Category",
+        "category_id": 2,
+        "tournament_name": "Basketball Champions League - Qual.",
+        "tournament_id": 20766827,
+        "event_status": 1,
+        "markets": {
+          "T/T HANDICAP": {
+            "market_name": "T/T HANDICAP",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": 16.5,
+                "odd": 1.83
+              },
+              {
+                "name": "2",
+                "sbv": 16.5,
+                "odd": 1.83
+              }
+            ]
+          },
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 158.5,
+                "odd": 1.53
+              },
+              {
+                "name": "OVER",
+                "sbv": 159,
+                "odd": 1.56
+              },
+              {
+                "name": "OVER",
+                "sbv": 159.5,
+                "odd": 1.57
+              },
+              {
+                "name": "OVER",
+                "sbv": 160,
+                "odd": 1.63
+              },
+              {
+                "name": "OVER",
+                "sbv": 160.5,
+                "odd": 1.67
+              },
+              {
+                "name": "OVER",
+                "sbv": 161,
+                "odd": 1.69
+              },
+              {
+                "name": "OVER",
+                "sbv": 161.5,
+                "odd": 1.71
+              },
+              {
+                "name": "OVER",
+                "sbv": 162,
+                "odd": 1.77
+              },
+              {
+                "name": "OVER",
+                "sbv": 162.5,
+                "odd": 1.8
+              },
+              {
+                "name": "UNDER",
+                "sbv": 158.5,
+                "odd": 2.4
+              },
+              {
+                "name": "UNDER",
+                "sbv": 159,
+                "odd": 2.3
+              },
+              {
+                "name": "UNDER",
+                "sbv": 159.5,
+                "odd": 2.25
+              },
+              {
+                "name": "UNDER",
+                "sbv": 160,
+                "odd": 2.2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 160.5,
+                "odd": 2.1
+              },
+              {
+                "name": "UNDER",
+                "sbv": 161,
+                "odd": 2.05
+              },
+              {
+                "name": "UNDER",
+                "sbv": 161.5,
+                "odd": 2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 162,
+                "odd": 1.91
+              },
+              {
+                "name": "UNDER",
+                "sbv": 162.5,
+                "odd": 1.87
+              },
+              {
+                "name": "OVER",
+                "sbv": 163,
+                "odd": 1.83
+              },
+              {
+                "name": "OVER",
+                "sbv": 163.5,
+                "odd": 1.87
+              },
+              {
+                "name": "OVER",
+                "sbv": 164,
+                "odd": 1.91
+              },
+              {
+                "name": "OVER",
+                "sbv": 164.5,
+                "odd": 1.95
+              },
+              {
+                "name": "OVER",
+                "sbv": 165,
+                "odd": 2
+              },
+              {
+                "name": "OVER",
+                "sbv": 165.5,
+                "odd": 2.1
+              },
+              {
+                "name": "OVER",
+                "sbv": 166,
+                "odd": 2.15
+              },
+              {
+                "name": "OVER",
+                "sbv": 166.5,
+                "odd": 2.2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 163,
+                "odd": 1.83
+              },
+              {
+                "name": "UNDER",
+                "sbv": 163.5,
+                "odd": 1.8
+              },
+              {
+                "name": "UNDER",
+                "sbv": 164,
+                "odd": 1.77
+              },
+              {
+                "name": "UNDER",
+                "sbv": 164.5,
+                "odd": 1.74
+              },
+              {
+                "name": "UNDER",
+                "sbv": 165,
+                "odd": 1.71
+              },
+              {
+                "name": "UNDER",
+                "sbv": 165.5,
+                "odd": 1.67
+              },
+              {
+                "name": "UNDER",
+                "sbv": 166,
+                "odd": 1.65
+              },
+              {
+                "name": "UNDER",
+                "sbv": 166.5,
+                "odd": 1.63
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "1631534925": {
+    "uid": "1631534925",
+    "refreshData": "13/09/2021 12:08:45",
+    "data": [
+      {
+        "away_name": "Hull",
+        "home_name": "Blackburn",
+        "event_id": 44482471,
+        "date": "2021-09-14T20:45:00.000Z",
+        "betradar_id": "27867086",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 1.95
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.5
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 3.8
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.73
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 2
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Derby",
+        "home_name": "West Brom",
+        "event_id": 262486495,
+        "date": "2021-09-14T21:00:00.000Z",
+        "betradar_id": "27867096",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 1.53
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.9
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 6.5
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 2
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.73
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Barnsley",
+        "home_name": "Stoke",
+        "event_id": 284523112,
+        "date": "2021-09-15T20:45:00.000Z",
+        "betradar_id": "27867108",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 1.75
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.5
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 5
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 2
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.73
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Swansea",
+        "home_name": "Luton",
+        "event_id": 414116192,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867122",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.25
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.2
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 3.1
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.83
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.83
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Peterborough",
+        "home_name": "Reading",
+        "event_id": 464371420,
+        "date": "2021-09-14T21:00:00.000Z",
+        "betradar_id": "27867094",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.4
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.3
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 3
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.73
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 2
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Cardiff",
+        "home_name": "Coventry",
+        "event_id": 639358037,
+        "date": "2021-09-15T20:45:00.000Z",
+        "betradar_id": "27867102",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.2
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.3
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 3.4
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.83
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.83
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Blackburn",
+        "home_name": "Barnsley",
+        "event_id": 695552682,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867110",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.75
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.2
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.6
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.83
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.83
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Millwall",
+        "home_name": "Swansea",
+        "event_id": 915114480,
+        "date": "2021-09-15T20:45:00.000Z",
+        "betradar_id": "27867106",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.6
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.1
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.9
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.83
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.83
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Luton",
+        "home_name": "Bristol City",
+        "event_id": 958375666,
+        "date": "2021-09-15T20:45:00.000Z",
+        "betradar_id": "27867100",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.38
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.2
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 3.1
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.83
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.83
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Blackpool",
+        "home_name": "Middlesbrough",
+        "event_id": 996054856,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867124",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 1.8
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.5
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 4.5
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 2
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.73
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Stoke",
+        "home_name": "Derby",
+        "event_id": 1002449864,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867114",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 3.1
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.2
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.3
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.91
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.8
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Fulham",
+        "home_name": "Birmingham",
+        "event_id": 1611036015,
+        "date": "2021-09-15T20:45:00.000Z",
+        "betradar_id": "27867098",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 3.8
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.3
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.05
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.91
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.8
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Bournemouth",
+        "home_name": "Cardiff",
+        "event_id": 1644662199,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867112",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 3
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.2
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.38
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.73
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 2
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Coventry",
+        "home_name": "Millwall",
+        "event_id": 1687817390,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867126",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.5
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.2
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.88
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.83
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.83
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Birmingham",
+        "home_name": "Peterborough",
+        "event_id": 1889244384,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867128",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 3
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.25
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.25
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.73
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 2
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Huddersfield",
+        "home_name": "Blackpool",
+        "event_id": -1025841906,
+        "date": "2021-09-14T20:45:00.000Z",
+        "betradar_id": "27867088",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.75
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.2
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.7
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.8
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.91
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "QPR",
+        "home_name": "Bournemouth",
+        "event_id": -667830191,
+        "date": "2021-09-14T20:45:00.000Z",
+        "betradar_id": "27867090",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 1.95
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.5
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 4
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.67
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 2.1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Preston",
+        "home_name": "Sheffield United",
+        "event_id": -1795206250,
+        "date": "2021-09-14T20:45:00.000Z",
+        "betradar_id": "27867092",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 1.85
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.3
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 4.75
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 2
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.73
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Middlesbrough",
+        "home_name": "Nottingham Forest",
+        "event_id": -1144349833,
+        "date": "2021-09-15T20:45:00.000Z",
+        "betradar_id": "27867104",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.9
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.1
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.55
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 2
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.73
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Sheffield United",
+        "home_name": "Hull",
+        "event_id": -1653179490,
+        "date": "2021-09-18T13:30:00.000Z",
+        "betradar_id": "27867120",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.7
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.2
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.6
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.83
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.83
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Reading",
+        "home_name": "Fulham",
+        "event_id": -246928233,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867116",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 1.5
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 4
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 7
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.91
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.8
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Nottingham Forest",
+        "home_name": "Huddersfield",
+        "event_id": -968001601,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867118",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 2.2
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.25
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 3.3
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.8
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 1.91
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "West Brom",
+        "home_name": "Preston",
+        "event_id": -184772134,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867130",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 3.2
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.4
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 2.2
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.67
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 2.1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Bristol City",
+        "home_name": "QPR",
+        "event_id": -1593219895,
+        "date": "2021-09-18T16:00:00.000Z",
+        "betradar_id": "27867132",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Inghilterra - Championship",
+        "tournament_id": 61981774,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 1.83
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 3.4
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 4.33
+              }
+            ]
+          },
+          "GOAL/NOGOAL": {
+            "market_name": "GOAL/NOGOAL",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "GOAL",
+                "sbv": null,
+                "odd": 1.73
+              },
+              {
+                "name": "NOGOAL",
+                "sbv": null,
+                "odd": 2
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "1631534929": {
+    "uid": "1631534929",
+    "refreshData": "13/09/2021 12:08:49",
+    "data": [
+      {
+        "away_name": "Hajer",
+        "home_name": "Ohod Madinah",
+        "event_id": 968012418,
+        "date": "2021-09-13T18:05:00.000Z",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Arabia Saudita - 1\u00aa Divisione",
+        "tournament_id": 64711066,
+        "event_status": 1,
+        "markets": {
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 2.5,
+                "odd": 1.95
+              },
+              {
+                "name": "UNDER",
+                "sbv": 2.5,
+                "odd": 1.85
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Al Adalh",
+        "home_name": "Al Kholood",
+        "event_id": 1004381622,
+        "date": "2021-09-13T17:50:00.000Z",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Arabia Saudita - 1\u00aa Divisione",
+        "tournament_id": 64711066,
+        "event_status": 1,
+        "markets": {
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 2.5,
+                "odd": 1.93
+              },
+              {
+                "name": "UNDER",
+                "sbv": 2.5,
+                "odd": 1.88
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Jeddah Club",
+        "home_name": "Al Nahdha",
+        "event_id": -1058670813,
+        "date": "2021-09-13T19:25:00.000Z",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Arabia Saudita - 1\u00aa Divisione",
+        "tournament_id": 64711066,
+        "event_status": 1,
+        "markets": {
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 2.5,
+                "odd": 2.2
+              },
+              {
+                "name": "UNDER",
+                "sbv": 2.5,
+                "odd": 1.65
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "1631534930": {
+    "uid": "1631534930",
+    "refreshData": "13/09/2021 12:08:50",
+    "data": [
+      {
+        "away_name": "Str\u00f8msgodset 2",
+        "home_name": "Mjondalen 2",
+        "event_id": -996306302,
+        "date": "2021-09-13T19:00:00.000Z",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Norvegia - 3\u00aa Divisione - Gruppo 2",
+        "tournament_id": 63429448,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 1.5
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 4.33
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 4.5
+              }
+            ]
+          },
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 2.5,
+                "odd": 1.25
+              },
+              {
+                "name": "UNDER",
+                "sbv": 2.5,
+                "odd": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Eik T\u00f8nsberg",
+        "home_name": "Sarpsborg 2",
+        "event_id": -1663577462,
+        "date": "2021-09-13T19:00:00.000Z",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Norvegia - 3\u00aa Divisione - Gruppo 2",
+        "tournament_id": 63429448,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 4
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 4.33
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 1.62
+              }
+            ]
+          },
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 2.5,
+                "odd": 1.33
+              },
+              {
+                "name": "UNDER",
+                "sbv": 2.5,
+                "odd": 3.4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "away_name": "Flint",
+        "home_name": "Fredrikstad 2",
+        "event_id": -160915235,
+        "date": "2021-09-13T20:00:00.000Z",
+        "sport_id": 1,
+        "sport_name": "SOCCER",
+        "category_name": "Soccer Category",
+        "category_id": 1,
+        "tournament_name": "Norvegia - 3\u00aa Divisione - Gruppo 2",
+        "tournament_id": 63429448,
+        "event_status": 1,
+        "markets": {
+          "1X2 FINALE": {
+            "market_name": "1X2 FINALE",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "1",
+                "sbv": null,
+                "odd": 1.4
+              },
+              {
+                "name": "X",
+                "sbv": null,
+                "odd": 5
+              },
+              {
+                "name": "2",
+                "sbv": null,
+                "odd": 5.5
+              }
+            ]
+          },
+          "UNDER/OVER": {
+            "market_name": "UNDER/OVER",
+            "market_status": 1,
+            "outcomes": [
+              {
+                "name": "OVER",
+                "sbv": 2.5,
+                "odd": 1.3
+              },
+              {
+                "name": "UNDER",
+                "sbv": 2.5,
+                "odd": 3.5
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

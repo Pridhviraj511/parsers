@@ -1,0 +1,19 @@
+version: 0.0
+os: linux
+
+
+files:
+ - source: ./
+   destination: /opt/oddsMachines/new-staging-parser-main
+   overwrite: yes
+file_exists_behavior: OVERWRITE
+
+hooks:
+  ApplicationStop:
+    - location: scripts/stop_service.sh
+      timeout: 180
+      runas: root
+  AfterInstall:
+    - location: scripts/start_service.sh
+      timeout: 3600
+      runas: root

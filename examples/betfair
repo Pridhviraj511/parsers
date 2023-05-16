@@ -1,0 +1,40 @@
+{
+  "marketId": "1.187524559",
+  "marketName": "Match Odds",
+  "totalMatched": 1120.047456,
+  "runners": [
+    {
+      "selectionId": 20135214,
+      "runnerName": "FC U Craiova 1948",
+      "handicap": 0.0,
+      "sortPriority": 1
+    },
+    {
+      "selectionId": 12819357,
+      "runnerName": "FCSB",
+      "handicap": 0.0,
+      "sortPriority": 2
+    },
+    {
+      "selectionId": 58805,
+      "runnerName": "The Draw",
+      "handicap": 0.0,
+      "sortPriority": 3
+    }
+  ],
+  "eventType": {
+    "id": "1",
+    "name": "Soccer"
+  },
+  "competition": {
+    "id": "4905",
+    "name": "Romanian Liga I"
+  },
+  "event": {
+    "id": "30891208",
+    "name": "FC U Craiova 1948 v FCSB",
+    "countryCode": "RO",
+    "timezone": "GMT",
+    "openDate": "2021-09-18T17:00:00.000Z"
+  }
+}
