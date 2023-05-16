@@ -1,5 +1,9 @@
 pipeline {
-    agent any    
+    agent any
+    parameters {
+  choice choices: ['Oddsmarket', 'Unibet', 'Bet365'], description: 'Choose parser to deploy', name: 'Parsers'
+}
+
     stages {
       stage('Clone Repository for production') {
         steps {
