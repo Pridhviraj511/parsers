@@ -8,7 +8,7 @@ pipeline {
     stages {
       stage('Clone Repository for production') {
         steps {
-            git branch: "main", credentialsId: "${env.JENKINS_USERID}", url: "${env.REPOSITORY_URL}"
+            git 'https://github.com/Pridhviraj511/parsers.git'
         }
       }
        stage('Deploy on AWS through Code Deploy on main branch') {
