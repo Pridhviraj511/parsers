@@ -35,8 +35,8 @@ pipeline
     ECR_REPOSITORY = 'davs_demo'
     PARSER_NAME = 'params.Parser_Name'
     TAG = "${currentBuild.number}"
-    AWS_ACCESS_KEY_ID = 'AKIAY4PWJ427ZSYIVQIL'
-    AWS_SECRET_ACCESS_KEY = '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'
+    AWS_ACCESS_KEY_ID = ''
+    AWS_SECRET_ACCESS_KEY = 
     AWS_DEFAULT_REGION = 'us-east-1'
   }
 }
